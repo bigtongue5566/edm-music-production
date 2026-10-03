@@ -1,0 +1,28 @@
+{
+  "name": "原創 Melodic House",
+  "slug": "melodic-house",
+  "duration": 90,
+  "music": {
+    "bpm": 120,
+    "key": "G major",
+    "progression": ["I", "V", "vi", "IV"],
+    "seed": 19712026,
+    "soundfont": null,
+    "fluidsynth": null,
+    "soundfont_source": null,
+    "license": null,
+    "lufs": -16,
+    "true_peak": -2,
+    "export_stems": false
+  },
+  "sections": [
+    {"start": 0, "end": 8, "role": "intro", "label": "鍵盤開場"},
+    {"start": 8, "end": 16, "role": "groove", "label": "建立律動"},
+    {"start": 16, "end": 26, "role": "build", "label": "堆疊期待"},
+    {"start": 26, "end": 46, "role": "drop", "label": "主旋律展開"},
+    {"start": 46, "end": 56, "role": "break", "label": "鍵盤間奏"},
+    {"start": 56, "end": 76, "role": "drop", "label": "第二段完整律動"},
+    {"start": 76, "end": 84, "role": "break", "label": "降低密度"},
+    {"start": 84, "end": 90, "role": "outro", "label": "主和弦收束"}
+  ]
+}
