@@ -5,3 +5,7 @@
 *.json text eol=lf
 *.txt text eol=lf
 LICENSE text eol=lf
+*.html text eol=lf
+# Keep original third-party license notices byte-for-byte, including author whitespace.
+docs/fonts/*-OFL.txt -text -whitespace
+examples/form-and-frequency/licenses/*-OFL.txt -text -whitespace

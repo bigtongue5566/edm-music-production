@@ -1,0 +1,99 @@
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#080c16">
+  <title>聲形之間 — Form & Frequency</title>
+  <meta name="description" content="90 秒原創動態圖形與 EDM 示範影片。幾何形狀跟隨節拍、旋律與聲音起伏。">
+  <meta property="og:title" content="聲形之間 — Form & Frequency">
+  <meta property="og:description" content="原創動態圖形 × 原創 EDM。90 秒的聲音與形狀研究。">
+  <meta property="og:image" content="https://bigtongue5566.github.io/edm-music-production/media/form-and-frequency-poster.jpg">
+  <style>
+    @font-face{font-family:Space;src:url('fonts/SpaceGrotesk.ttf') format('truetype');font-weight:300 700;font-display:swap}
+    :root{color-scheme:dark;--ink:#080c16;--paper:#f2f2ea;--mint:#61e6c4;--coral:#ff6672;--muted:#95a7ad;--line:#27343d}
+    *{box-sizing:border-box}html{scroll-behavior:smooth}body{margin:0;background:var(--ink);color:var(--paper);font:16px/1.7 Space,"Noto Sans TC","Microsoft JhengHei",sans-serif}
+    a{color:inherit;text-underline-offset:5px}button,a{touch-action:manipulation}button{font:inherit}button:focus-visible,a:focus-visible,video:focus-visible{outline:3px solid var(--coral);outline-offset:5px}
+    .wrap{width:min(1280px,calc(100% - 80px));margin:auto}header{display:flex;justify-content:space-between;align-items:center;padding:30px 0;border-bottom:1px solid var(--line);font-size:13px;letter-spacing:.07em}
+    .wordmark{text-decoration:none;font-weight:600}.wordmark span{color:var(--mint)}header .repo{color:var(--muted);text-decoration:none}header .repo:hover{color:var(--paper)}
+    .intro{padding:62px 0 38px;display:flex;align-items:end;justify-content:space-between;gap:30px}.eyebrow{margin:0 0 18px;color:var(--mint);font-size:12px;letter-spacing:.13em}
+    h1{font-size:clamp(44px,6.4vw,84px);line-height:1.13;letter-spacing:-.05em;margin:0;font-weight:650}h1 .dot{color:var(--coral)}.english{margin:14px 0 0;font-size:18px;letter-spacing:.02em;color:var(--muted)}
+    .intro-copy{max-width:370px;color:var(--muted);margin:0 0 5px;font-size:15px}.movie{position:relative;background:#0d1722;border:1px solid var(--line);box-shadow:0 30px 100px #0005}
+    video{display:block;width:100%;aspect-ratio:16/9;background:#080c16}.under-player{display:flex;justify-content:space-between;align-items:center;padding:23px 0;gap:20px;border-bottom:1px solid var(--line)}
+    .facts{color:var(--muted);font-size:13px;letter-spacing:.05em}.facts b{color:var(--paper);font-weight:500}.actions{display:flex;gap:20px;align-items:center}.play{border:0;border-radius:0;padding:10px 20px;color:var(--ink);background:var(--mint);cursor:pointer;font-weight:650}.play:hover{background:#a4f4df}.download{font-size:13px;color:var(--muted)}
+    .chapters{display:flex;gap:8px;flex-wrap:wrap;padding:22px 0 34px}.chapters button{background:transparent;color:var(--muted);border:1px solid var(--line);padding:8px 12px;font-size:12px;cursor:pointer}.chapters button:hover,.chapters button[aria-pressed=true]{border-color:var(--mint);color:var(--mint)}.chapters button span{color:var(--paper);margin-right:9px}
+    .about{padding:44px 0 65px;display:grid;grid-template-columns:1fr 1.2fr;gap:70px;border-top:1px solid var(--line)}h2{font-size:27px;line-height:1.4;letter-spacing:-.03em;margin:0 0 18px;font-weight:550}.about p{color:var(--muted);margin:0 0 20px;font-size:15px}.about .source-links{display:flex;gap:25px;font-size:14px;color:var(--mint)}
+    .credits{font-size:13px;color:var(--muted);padding-left:22px;border-left:2px solid var(--coral)}.credits strong{display:block;color:var(--paper);font-size:14px;font-weight:500;margin:0 0 8px}.credits p{font-size:13px;margin-bottom:12px}.credits a{color:var(--mint)}
+    details{margin-top:24px;color:var(--muted);font-size:13px}summary{cursor:pointer;color:var(--paper)}.transcript{margin-top:16px;columns:2;column-gap:25px}.transcript p{break-inside:avoid;font-size:13px;margin-bottom:12px}.transcript time{color:var(--mint);display:block;font-size:11px}
+    footer{padding:24px 0 40px;border-top:1px solid var(--line);display:flex;justify-content:space-between;gap:20px;color:var(--muted);font-size:11px;letter-spacing:.04em}
+    @media(max-width:750px){.wrap{width:calc(100% - 32px)}header{padding:22px 0;font-size:11px}.intro{display:block;padding:40px 0 25px}.intro-copy{margin-top:25px;font-size:14px}.under-player{align-items:start;flex-direction:column;gap:14px}.actions{gap:18px}.about{grid-template-columns:1fr;gap:35px;padding:30px 0 40px}.chapters{padding-bottom:27px;gap:7px}.chapters button{font-size:11px}.transcript{columns:1}footer{flex-direction:column;gap:8px}}
+    @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}}
+  </style>
+</head>
+<body>
+  <main class="wrap">
+    <header><a class="wordmark" href="./">FORM <span>&</span> FREQUENCY</a><a class="repo" href="https://github.com/bigtongue5566/edm-music-production">GitHub ↗</a></header>
+    <section class="intro" aria-labelledby="title">
+      <div><p class="eyebrow">ORIGINAL MOTION × ORIGINAL EDM</p><h1 id="title">聲形之間<span class="dot">。</span></h1><p class="english">Form & Frequency — a motion & music study</p></div>
+      <p class="intro-copy">讓旋律、節拍與幾何形狀一起流動。<br>一支 90 秒的原創示範影片，探索聲音如何成為畫面。</p>
+    </section>
+    <div class="movie">
+      <video id="film" controls playsinline preload="metadata" poster="media/form-and-frequency-poster.jpg" aria-label="聲形之間，90 秒原創動態圖形與 EDM 影片" aria-describedby="movie-info">
+        <source src="media/form-and-frequency-90s.mp4" type="video/mp4">
+        你的瀏覽器不支援影片播放，請<a href="media/form-and-frequency-90s.mp4">下載影片</a>。
+      </video>
+    </div>
+    <div class="under-player" id="movie-info">
+      <div class="facts"><b>90 SEC</b> &nbsp;/&nbsp; <b>1080p</b> &nbsp;/&nbsp; <b>128 BPM</b> &nbsp;/&nbsp; D MAJOR</div>
+      <div class="actions"><button class="play" id="play" type="button">播放影片 ↗</button><a class="download" href="media/form-and-frequency-90s.mp4" download>下載影片</a><a class="download" href="media/form-and-frequency.m4a" download>下載音樂</a></div>
+    </div>
+    <nav class="chapters" aria-label="選擇影片段落">
+      <button type="button" data-time="0"><span>00:00</span>起點</button>
+      <button type="button" data-time="15"><span>00:15</span>聚集</button>
+      <button type="button" data-time="22.5"><span>00:22</span>成形</button>
+      <button type="button" data-time="37.5"><span>00:37</span>呼吸</button>
+      <button type="button" data-time="45"><span>00:45</span>相遇</button>
+      <button type="button" data-time="52.5"><span>00:52</span>回應</button>
+      <button type="button" data-time="67.5"><span>01:07</span>展開</button>
+      <button type="button" data-time="75"><span>01:15</span>平衡</button>
+      <button type="button" data-time="82.5"><span>01:22</span>收束</button>
+    </nav>
+    <section class="about" aria-labelledby="about-title">
+      <div>
+        <h2 id="about-title">聲音有層次，<br>畫面有呼吸。</h2>
+        <p>合成鍵盤、和弦、旋律、低音與鼓組，構成一首全新的 Melodic House 配樂。幾何組裝、連線流動與頻譜變形，回應它的起伏；在高潮與留白之間，找到平衡。</p>
+        <div class="source-links"><a href="https://github.com/bigtongue5566/edm-music-production/tree/main/examples/form-and-frequency">製作專案 ↗</a><a href="media/form-and-frequency-source.zip" download>下載來源套件</a></div>
+        <details><summary>影片文字稿</summary><div class="transcript">
+          <p><time>00:00</time>聲形之間。一段旋律，無限種形狀。</p>
+          <p><time>00:15</time>聚集能量，等待展開。從一個點，到完整的律動。</p>
+          <p><time>00:22</time>讓節奏開始成形。每一次落點，都推動畫面向前。</p>
+          <p><time>00:37</time>留一點空間，讓旋律呼吸。收起密度，留下流動。</p>
+          <p><time>00:45</time>讓聲音在此相遇。不同的聲部，走向同一個瞬間。</p>
+          <p><time>00:52</time>每一拍都有回應。聲音的起伏，成為形狀的變化。</p>
+          <p><time>01:07</time>一個節奏，無限可能。相同的旋律，帶出新的視角。</p>
+          <p><time>01:15</time>聲音有層次，畫面有呼吸。在能量與留白之間，找到平衡。</p>
+          <p><time>01:22</time>聲形之間。Form & Frequency。A motion & music study.</p>
+        </div></details>
+      </div>
+      <aside class="credits" aria-label="創作與授權">
+        <strong>原創圖形 · 原創旋律 · 合法授權字型</strong>
+        <p>這是一件抽象創作示範。圖形、動畫與新的旋律編曲均為本次製作；電子音色由合成器產生。</p>
+        <p>影片字型使用 Noto Sans CJK TC 與 Space Grotesk，依 SIL Open Font License 1.1 使用。來源、授權文件及檔案雜湊均保留於專案。</p>
+        <p><a href="https://github.com/bigtongue5566/edm-music-production/blob/main/examples/form-and-frequency/RIGHTS.md">完整素材來源與授權 ↗</a></p>
+        <p>音樂製作：<a href="https://github.com/bigtongue5566/edm-music-production">edm-music-production</a><br>動態製作：<a href="https://github.com/bigtongue5566/motion-graphics-video">motion-graphics-video</a></p>
+      </aside>
+    </section>
+    <footer><span>FORM & FREQUENCY · 2026</span><span>Source & original demo: MIT · Fonts: OFL-1.1</span></footer>
+  </main>
+  <script>
+    const film = document.querySelector('#film');
+    const play = document.querySelector('#play');
+    const chapters = [...document.querySelectorAll('[data-time]')];
+    play.addEventListener('click', () => {if(film.paused){film.play().catch(() => {play.textContent='請使用影片播放控制';});}else{film.pause();}});
+    film.addEventListener('play', () => {play.textContent='暫停影片';});
+    film.addEventListener('pause', () => {play.textContent='播放影片 ↗';});
+    chapters.forEach(button => button.addEventListener('click', () => {film.currentTime=Number(button.dataset.time);film.play().catch(() => {});}));
+    film.addEventListener('timeupdate', () => {const index=chapters.findLastIndex(button => Number(button.dataset.time)<=film.currentTime);chapters.forEach((button,i) => button.setAttribute('aria-pressed',String(i===index)));});
+  </script>
+</body>
+</html>

@@ -10,6 +10,25 @@ The included Melodic House starter produces music on its own. No video, logo,
 fonts, renderer, or other skill is required. Change its composition and instruments
 to fit each brief; the starter melody is a starting point.
 
+## Original demo
+
+[![Form & Frequency — animated preview](docs/media/form-and-frequency-preview.gif)](https://bigtongue5566.github.io/edm-music-production/)
+
+**[Watch Form & Frequency with sound →](https://bigtongue5566.github.io/edm-music-production/)**
+
+An original 90-second motion-and-music study: 1080p, 128 BPM, D major,
+procedural geometry, and a new synthesized Melodic House arrangement.
+
+[Download the video](https://bigtongue5566.github.io/edm-music-production/media/form-and-frequency-90s.mp4) ·
+[Hear the music](https://bigtongue5566.github.io/edm-music-production/media/form-and-frequency.m4a) ·
+[Reproduce the project](examples/form-and-frequency/) ·
+[Sources and licenses](examples/form-and-frequency/RIGHTS.md)
+
+The animated preview above is an excerpt. The watch page plays the full film
+with its soundtrack. The abstract visuals and music were created for this demo;
+the typography uses documented OFL fonts. The source package and actual encoded
+media checks are included in the example.
+
 ## Capabilities
 
 - Configurable length, BPM, major/minor key, chord progression, and musical sections.

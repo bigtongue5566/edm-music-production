@@ -1,0 +1,186 @@
+{
+  "name": "聲形之間 — Form & Frequency",
+  "slug": "form-and-frequency",
+  "duration": 90.0,
+  "music": {
+    "bpm": 128.0,
+    "key": "D major",
+    "progression": [
+      "vi",
+      "IV",
+      "I",
+      "V"
+    ],
+    "seed": 20261010,
+    "soundfont": null,
+    "fluidsynth": null,
+    "soundfont_source": null,
+    "license": null,
+    "lufs": -16.0,
+    "true_peak": -2.0,
+    "export_stems": false
+  },
+  "sections": [
+    {
+      "start": 0.0,
+      "end": 7.5,
+      "role": "intro",
+      "label": "聲音的起點"
+    },
+    {
+      "start": 7.5,
+      "end": 15.0,
+      "role": "groove",
+      "label": "開始律動"
+    },
+    {
+      "start": 15.0,
+      "end": 22.5,
+      "role": "build",
+      "label": "聚集能量"
+    },
+    {
+      "start": 22.5,
+      "end": 37.5,
+      "role": "drop",
+      "label": "節奏成形"
+    },
+    {
+      "start": 37.5,
+      "end": 45.0,
+      "role": "break",
+      "label": "留一點空間"
+    },
+    {
+      "start": 45.0,
+      "end": 52.5,
+      "role": "build",
+      "label": "讓聲音相遇"
+    },
+    {
+      "start": 52.5,
+      "end": 75.0,
+      "role": "drop",
+      "label": "每一拍都有回應"
+    },
+    {
+      "start": 75.0,
+      "end": 82.5,
+      "role": "break",
+      "label": "聲音有層次"
+    },
+    {
+      "start": 82.5,
+      "end": 90.0,
+      "role": "outro",
+      "label": "聲形之間"
+    }
+  ],
+  "video": {
+    "width": 1920,
+    "height": 1080,
+    "fps": 30,
+    "palette": {
+      "ink": "#080C16",
+      "coral": "#FF6672",
+      "mint": "#61E6C4",
+      "paper": "#F2F2EA"
+    },
+    "fonts": {
+      "cn": "work/assets/NotoSansCJKtc-Medium.otf",
+      "en": "work/assets/SpaceGrotesk.ttf"
+    },
+    "scenes": [
+      {
+        "start": 0.0,
+        "end": 15.0,
+        "kind": "torus",
+        "kicker": "01 / AN IDEA TAKES FORM",
+        "headline": "FORM &\nFREQUENCY",
+        "caption": "聲形之間",
+        "body": "一段旋律。無限種形狀。",
+        "light": false
+      },
+      {
+        "start": 15.0,
+        "end": 22.5,
+        "kind": "assembly",
+        "kicker": "02 / GATHER THE ENERGY",
+        "headline": "聚集能量\n等待展開",
+        "caption": "BUILD",
+        "body": "從一個點，到完整的律動。",
+        "light": false
+      },
+      {
+        "start": 22.5,
+        "end": 37.5,
+        "kind": "cubes",
+        "kicker": "03 / RHYTHM TAKES SHAPE",
+        "headline": "讓節奏\n開始成形",
+        "caption": "RHYTHM",
+        "body": "每一次落點，都推動畫面向前。",
+        "light": false
+      },
+      {
+        "start": 37.5,
+        "end": 45.0,
+        "kind": "waves",
+        "kicker": "04 / ROOM TO BREATHE",
+        "headline": "留一點空間\n讓旋律呼吸",
+        "caption": "BREATHE",
+        "body": "收起密度，留下流動。",
+        "light": true
+      },
+      {
+        "start": 45.0,
+        "end": 52.5,
+        "kind": "network",
+        "kicker": "05 / FIND THE CONNECTION",
+        "headline": "讓聲音\n在此相遇",
+        "caption": "CONNECT",
+        "body": "不同的聲部，走向同一個瞬間。",
+        "light": false
+      },
+      {
+        "start": 52.5,
+        "end": 67.5,
+        "kind": "spectrum",
+        "kicker": "06 / SOUND INTO MOTION",
+        "headline": "每一拍\n都有回應",
+        "caption": "RESONATE",
+        "body": "聲音的起伏，成為形狀的變化。",
+        "light": false
+      },
+      {
+        "start": 67.5,
+        "end": 75.0,
+        "kind": "orbit",
+        "kicker": "07 / ONE RHYTHM, MANY FORMS",
+        "headline": "一個節奏\n無限可能",
+        "caption": "EXPAND",
+        "body": "相同的旋律，帶出新的視角。",
+        "light": false
+      },
+      {
+        "start": 75.0,
+        "end": 82.5,
+        "kind": "waves",
+        "kicker": "08 / KEEP THE BALANCE",
+        "headline": "聲音有層次\n畫面有呼吸",
+        "caption": "BALANCE",
+        "body": "在能量與留白之間，找到平衡。",
+        "light": true
+      },
+      {
+        "start": 82.5,
+        "end": 90.0,
+        "kind": "outro",
+        "kicker": "ORIGINAL MOTION / ORIGINAL MUSIC",
+        "headline": "聲形之間",
+        "caption": "FORM & FREQUENCY",
+        "body": "A MOTION & MUSIC STUDY",
+        "light": false
+      }
+    ]
+  }
+}

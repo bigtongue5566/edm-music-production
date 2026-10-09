@@ -1,0 +1,25 @@
+{
+  "status": "FINAL_MP4_VERIFIED",
+  "file": "form-and-frequency-90s.mp4",
+  "duration_seconds": 90.0,
+  "width": 1920,
+  "height": 1080,
+  "fps": 30,
+  "fully_decoded_video_frames": 2700,
+  "audio_sample_rate": 48000,
+  "audio_channels": 2,
+  "audio_decoded_seconds": 90.00533,
+  "integrated_lufs": -15.9,
+  "true_peak_dbtp": -2.3,
+  "full_decode_errors": 0,
+  "sampled_encoded_frames": 15,
+  "geometry_motion_difference": {
+    "intro_geometry": 1.678,
+    "drop_geometry": 7.52
+  },
+  "music_bpm": 128.0,
+  "music_key": "D major",
+  "mp4_bytes": 18697500,
+  "mp4_sha256": "56e49f53274a2a8f0b4938cfe00435cb6bbae4fa3921c1bb5a1f869b974ff10f",
+  "limits": "Encoded-media and frame checks are objective verification; subjective listening quality is not certified."
+}
