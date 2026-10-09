@@ -1,0 +1,128 @@
+{
+  "slug": "neon-drift",
+  "name": "霓虹漫遊 — Neon Drift",
+  "duration": 60.0,
+  "music": {
+    "lufs": -16.0,
+    "true_peak": -2.0,
+    "export_stems": false,
+    "soundfont": null,
+    "fluidsynth": null,
+    "soundfont_source": null,
+    "license": null,
+    "bpm": 96.0,
+    "key": "A major",
+    "progression": [
+      "I",
+      "vi",
+      "IV",
+      "V"
+    ],
+    "seed": 20261012,
+    "style": "Synthwave / Electronic",
+    "arrangement": "neon"
+  },
+  "sections": [
+    {
+      "start": 0,
+      "end": 10,
+      "role": "intro",
+      "label": "霓虹漫遊"
+    },
+    {
+      "start": 10,
+      "end": 20,
+      "role": "groove",
+      "label": "CRUISE"
+    },
+    {
+      "start": 20,
+      "end": 35,
+      "role": "drop",
+      "label": "FLOW"
+    },
+    {
+      "start": 35,
+      "end": 40,
+      "role": "break",
+      "label": "STILL"
+    },
+    {
+      "start": 40,
+      "end": 55,
+      "role": "drop",
+      "label": "EXPLORE"
+    },
+    {
+      "start": 55,
+      "end": 60,
+      "role": "outro",
+      "label": "NEON DRIFT"
+    }
+  ],
+  "video": {
+    "width": 1920,
+    "height": 1080,
+    "fps": 30,
+    "palette": {
+      "background": "#130B25",
+      "accent": "#FF72B5",
+      "second": "#F9CA7A",
+      "text": "#FFF3E7"
+    },
+    "fonts": {
+      "cn": "work/assets/NotoSansCJKtc-Medium.otf",
+      "en": "work/assets/SpaceGrotesk.ttf"
+    },
+    "scenes": [
+      {
+        "start": 0,
+        "end": 10,
+        "kind": "sunrise",
+        "headline": "NEON\nDRIFT",
+        "caption": "霓虹漫遊",
+        "body": "在色彩與旋律之間，慢慢前行。"
+      },
+      {
+        "start": 10,
+        "end": 20,
+        "kind": "road",
+        "headline": "沿著光線\n進入夜色",
+        "caption": "CRUISE",
+        "body": "讓步伐放慢，讓想像延伸。"
+      },
+      {
+        "start": 20,
+        "end": 35,
+        "kind": "ribbons",
+        "headline": "旋律轉彎\n色彩也流動",
+        "caption": "FLOW",
+        "body": "柔和的音色，帶出不同的風景。"
+      },
+      {
+        "start": 35,
+        "end": 40,
+        "kind": "horizon",
+        "headline": "留在此刻\n聽見遠方",
+        "caption": "STILL",
+        "body": "為下一段旅程，留一點呼吸。"
+      },
+      {
+        "start": 40,
+        "end": 55,
+        "kind": "city",
+        "headline": "穿過霓虹\n繼續漫遊",
+        "caption": "EXPLORE",
+        "body": "層次展開，節奏重新亮起。"
+      },
+      {
+        "start": 55,
+        "end": 60,
+        "kind": "closing",
+        "headline": "霓虹漫遊",
+        "caption": "NEON DRIFT",
+        "body": "ORIGINAL MOTION + ORIGINAL MUSIC"
+      }
+    ]
+  }
+}

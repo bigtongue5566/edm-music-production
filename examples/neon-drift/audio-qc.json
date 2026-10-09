@@ -1,0 +1,31 @@
+{
+  "name": "霓虹漫遊 — Neon Drift",
+  "requested_seconds": 60.0,
+  "wav": {
+    "file": "neon-drift-master.wav",
+    "duration_seconds": 60.0,
+    "sample_rate": 48000,
+    "channels": 2,
+    "sample_width_bytes": 3,
+    "samples": 2880000,
+    "integrated_lufs": -15.9,
+    "true_peak_dbfs": -2.0,
+    "loudness_range_lu": 7.7
+  },
+  "aac": {
+    "file": "neon-drift.m4a",
+    "decoded_seconds": 60.01067,
+    "integrated_lufs": -15.9,
+    "true_peak_dbfs": -2.0,
+    "loudness_range_lu": 7.7
+  },
+  "full_decode_errors": 0,
+  "mono_fold_down_db": -1.222,
+  "ending_rms_last_50ms": 0.0,
+  "unexpected_near_silent_seconds": [],
+  "bpm": 96.0,
+  "key": "A major",
+  "unexpected_chord_conflicts": 0,
+  "aac_sha256": "e3a1cf2544b351a10f26030526ec58b96c4cab30e3ea5d5a2ec753b10829ac35",
+  "limits": "Objective QC does not certify listening quality."
+}

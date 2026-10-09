@@ -1,0 +1,31 @@
+{
+  "name": "數位脈動 — Digital Pulse",
+  "requested_seconds": 60.0,
+  "wav": {
+    "file": "digital-pulse-master.wav",
+    "duration_seconds": 60.0,
+    "sample_rate": 48000,
+    "channels": 2,
+    "sample_width_bytes": 3,
+    "samples": 2880000,
+    "integrated_lufs": -15.9,
+    "true_peak_dbfs": -2.0,
+    "loudness_range_lu": 5.2
+  },
+  "aac": {
+    "file": "digital-pulse.m4a",
+    "decoded_seconds": 60.01067,
+    "integrated_lufs": -15.9,
+    "true_peak_dbfs": -2.0,
+    "loudness_range_lu": 5.2
+  },
+  "full_decode_errors": 0,
+  "mono_fold_down_db": -0.62,
+  "ending_rms_last_50ms": 0.0,
+  "unexpected_near_silent_seconds": [],
+  "bpm": 128.0,
+  "key": "F# minor",
+  "unexpected_chord_conflicts": 0,
+  "aac_sha256": "3a2e5e44d829abb6c92896996df003e9fb70e22b6fd8b30cd8ba889d70493f5c",
+  "limits": "Objective QC does not certify listening quality."
+}

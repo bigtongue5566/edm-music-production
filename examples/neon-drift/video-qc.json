@@ -1,0 +1,25 @@
+{
+  "status": "FINAL_MP4_VERIFIED",
+  "file": "neon-drift-60s.mp4",
+  "duration_seconds": 60.0,
+  "width": 1920,
+  "height": 1080,
+  "fps": 30,
+  "fully_decoded_video_frames": 1800,
+  "audio_sample_rate": 48000,
+  "audio_channels": 2,
+  "audio_decoded_seconds": 60.01067,
+  "integrated_lufs": -15.9,
+  "true_peak_dbtp": -2.0,
+  "full_decode_errors": 0,
+  "sampled_encoded_frames": 11,
+  "geometry_motion_difference": {
+    "intro_motion": 2.223,
+    "drop_motion": 8.425
+  },
+  "music_bpm": 96.0,
+  "music_key": "A major",
+  "mp4_bytes": 11129790,
+  "mp4_sha256": "4d231d2bf11439cecb122075a2c9965fc3831a0d0ca9e897dc707aeb4ec0f10a",
+  "limits": "Objective verification does not certify subjective listening quality."
+}

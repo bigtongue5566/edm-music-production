@@ -1,0 +1,142 @@
+{
+  "slug": "digital-pulse",
+  "name": "數位脈動 — Digital Pulse",
+  "duration": 60.0,
+  "music": {
+    "lufs": -16.0,
+    "true_peak": -2.0,
+    "export_stems": false,
+    "soundfont": null,
+    "fluidsynth": null,
+    "soundfont_source": null,
+    "license": null,
+    "bpm": 128.0,
+    "key": "F# minor",
+    "progression": [
+      "i",
+      "VI",
+      "III",
+      "VII"
+    ],
+    "seed": 20261011,
+    "style": "Progressive House",
+    "arrangement": "pulse"
+  },
+  "sections": [
+    {
+      "start": 0,
+      "end": 7.5,
+      "role": "intro",
+      "label": "數位脈動"
+    },
+    {
+      "start": 7.5,
+      "end": 15,
+      "role": "groove",
+      "label": "CONNECT"
+    },
+    {
+      "start": 15,
+      "end": 22.5,
+      "role": "build",
+      "label": "CHARGE"
+    },
+    {
+      "start": 22.5,
+      "end": 37.5,
+      "role": "drop",
+      "label": "ACTIVATE"
+    },
+    {
+      "start": 37.5,
+      "end": 45,
+      "role": "break",
+      "label": "PAUSE"
+    },
+    {
+      "start": 45,
+      "end": 56.25,
+      "role": "drop",
+      "label": "TRANSMIT"
+    },
+    {
+      "start": 56.25,
+      "end": 60,
+      "role": "outro",
+      "label": "DIGITAL PULSE"
+    }
+  ],
+  "video": {
+    "width": 1920,
+    "height": 1080,
+    "fps": 30,
+    "palette": {
+      "background": "#070B19",
+      "accent": "#58DFFF",
+      "second": "#FAE179",
+      "text": "#F2F6FF"
+    },
+    "fonts": {
+      "cn": "work/assets/NotoSansCJKtc-Medium.otf",
+      "en": "work/assets/SpaceGrotesk.ttf"
+    },
+    "scenes": [
+      {
+        "start": 0,
+        "end": 7.5,
+        "kind": "origin",
+        "headline": "DIGITAL\nPULSE",
+        "caption": "數位脈動",
+        "body": "把微小訊號，轉成前進的能量。"
+      },
+      {
+        "start": 7.5,
+        "end": 15,
+        "kind": "circuit",
+        "headline": "訊號開始\n彼此連接",
+        "caption": "CONNECT",
+        "body": "每一個節點，都有自己的節奏。"
+      },
+      {
+        "start": 15,
+        "end": 22.5,
+        "kind": "scan",
+        "headline": "能量聚集\n準備啟動",
+        "caption": "CHARGE",
+        "body": "讓線條、光點與聲音一起推進。"
+      },
+      {
+        "start": 22.5,
+        "end": 37.5,
+        "kind": "matrix",
+        "headline": "一個節拍\n喚醒整個網絡",
+        "caption": "ACTIVATE",
+        "body": "資料流動，畫面也跟著展開。"
+      },
+      {
+        "start": 37.5,
+        "end": 45,
+        "kind": "wave",
+        "headline": "訊號之間\n留下空間",
+        "caption": "PAUSE",
+        "body": "降低密度，看見細微的變化。"
+      },
+      {
+        "start": 45,
+        "end": 56.25,
+        "kind": "radar",
+        "headline": "向外傳遞\n更多可能",
+        "caption": "TRANSMIT",
+        "body": "節奏越過邊界，形成新的連接。"
+      },
+      {
+        "start": 56.25,
+        "end": 60,
+        "kind": "closing",
+        "headline": "數位脈動",
+        "caption": "DIGITAL PULSE",
+        "body": "ORIGINAL MOTION + ORIGINAL MUSIC"
+      }
+    ]
+  }
+}

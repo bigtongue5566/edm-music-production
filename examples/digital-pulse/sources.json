@@ -1,0 +1,48 @@
+{
+  "title": "數位脈動 — Digital Pulse",
+  "created_date": "2026-10-10",
+  "visuals": "New procedural digital-pulse geometry, scene choreography and typography, created for this Demo.",
+  "music": "New custom Progressive House arrangement with synthesized instruments; no third-party recordings.",
+  "source_code_origin": "MIT-licensed edm-music-production starter by bigtongue5566, adapted for this film.",
+  "external_assets": [
+    {
+      "file": "NotoSansCJKtc-Medium.otf",
+      "url": "https://raw.githubusercontent.com/notofonts/noto-cjk/f8d157532fbfaeda587e826d4cd5b21a49186f7c/Sans/OTF/TraditionalChinese/NotoSansCJKtc-Medium.otf",
+      "sha256": "2905dd3de65d7b7de764596e2294978407986f4cc0a66c9584c5b95c5aa9572e",
+      "bytes": 16522152,
+      "license": "OFL-1.1",
+      "source_commit": "f8d157532fbfaeda587e826d4cd5b21a49186f7c",
+      "git_blob_sha1": "c6ec7b6c6b3db6bc9e975b4c4c9c8bac66af19b6"
+    },
+    {
+      "file": "NotoSansCJK-OFL.txt",
+      "url": "https://raw.githubusercontent.com/notofonts/noto-cjk/f8d157532fbfaeda587e826d4cd5b21a49186f7c/Sans/LICENSE",
+      "sha256": "6a73f9541c2de74158c0e7cf6b0a58ef774f5a780bf191f2d7ec9cc53efe2bf2",
+      "bytes": 4301,
+      "license": "OFL-1.1",
+      "source_commit": "f8d157532fbfaeda587e826d4cd5b21a49186f7c",
+      "git_blob_sha1": "d952d62c065f3f35fb83a173496e90b21525aef3"
+    },
+    {
+      "file": "SpaceGrotesk.ttf",
+      "url": "https://raw.githubusercontent.com/google/fonts/51303ca9e8ac9dcea7b12d307ba568fd0e6fcfca/ofl/spacegrotesk/SpaceGrotesk%5Bwght%5D.ttf",
+      "sha256": "acad6de1fc93436f5c0f1f4137751ef04f1aea3063e7036535970ffcfbd79f72",
+      "bytes": 136676,
+      "license": "OFL-1.1",
+      "source_commit": "51303ca9e8ac9dcea7b12d307ba568fd0e6fcfca",
+      "git_blob_sha1": "a1b2e6c26093066510a31147e7aec9abdc8d6c5e"
+    },
+    {
+      "file": "SpaceGrotesk-OFL.txt",
+      "url": "https://raw.githubusercontent.com/google/fonts/51303ca9e8ac9dcea7b12d307ba568fd0e6fcfca/ofl/spacegrotesk/OFL.txt",
+      "sha256": "564ce565c371c5e5bbf286006565a7c9aa55a9f56e7ca58d56e05d649dd61a72",
+      "bytes": 4495,
+      "license": "OFL-1.1",
+      "source_commit": "51303ca9e8ac9dcea7b12d307ba568fd0e6fcfca",
+      "git_blob_sha1": "cb512b9af44ff61e75e1aad387b7424cdfab36a3"
+    }
+  ],
+  "font_use_reference": "https://openfontlicense.org/ofl-faq/",
+  "scope": "An abstract creative study; no real company identities, logos, people, products, or corporate claims.",
+  "rights_note": "Source and provenance reduce third-party-material uncertainty; they are not a guarantee against legal claims."
+}
