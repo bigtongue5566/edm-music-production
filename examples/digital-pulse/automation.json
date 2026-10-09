@@ -1,0 +1,1648 @@
+[
+  {
+    "time": 5.6686046511627906,
+    "duration": 0.3313953488372093,
+    "stem": "chords",
+    "reese_low_hz": 125,
+    "reese_filter_hz": 1700,
+    "detune_cents": [
+      -10,
+      10
+    ]
+  },
+  {
+    "time": 6.191860465116279,
+    "duration": 0.1744186046511628,
+    "stem": "chords",
+    "reese_low_hz": 125,
+    "reese_filter_hz": 1700,
+    "detune_cents": [
+      -10,
+      10
+    ]
+  },
+  {
+    "time": 6.453488372093023,
+    "duration": 0.29651162790697677,
+    "stem": "chords",
+    "reese_low_hz": 125,
+    "reese_filter_hz": 1700,
+    "detune_cents": [
+      -10,
+      10
+    ]
+  },
+  {
+    "time": 6.802325581395349,
+    "duration": 0.12209302325581395,
+    "stem": "chords",
+    "reese_low_hz": 125,
+    "reese_filter_hz": 1700,
+    "detune_cents": [
+      -10,
+      10
+    ]
+  },
+  {
+    "time": 6.976744186046512,
+    "duration": 0.2441860465116279,
+    "stem": "chords",
+    "reese_low_hz": 125,
+    "reese_filter_hz": 850,
+    "detune_cents": [
+      -10,
+      10
+    ]
+  },
+  {
+    "time": 7.412790697674419,
+    "duration": 0.20930232558139536,
+    "stem": "chords",
+    "reese_low_hz": 125,
+    "reese_filter_hz": 850,
+    "detune_cents": [
+      -10,
+      10
+    ]
+  },
+  {
+    "time": 7.761627906976744,
+    "duration": 0.5058139534883721,
+    "stem": "chords",
+    "reese_low_hz": 125,
+    "reese_filter_hz": 850,
+    "detune_cents": [
+      -10,
+      10
+    ]
+  },
+  {
+    "time": 8.459302325581396,
+    "duration": 0.3313953488372093,
+    "stem": "chords",
+    "reese_low_hz": 125,
+    "reese_filter_hz": 2200,
+    "detune_cents": [
+      -10,
+      10
+    ]
+  },
+  {
+    "time": 8.982558139534884,
+    "duration": 0.1744186046511628,
+    "stem": "chords",
+    "reese_low_hz": 125,
+    "reese_filter_hz": 2200,
+    "detune_cents": [
+      -10,
+      10
+    ]
+  },
+  {
+    "time": 9.24418604651163,
+    "duration": 0.29651162790697677,
+    "stem": "chords",
+    "reese_low_hz": 125,
+    "reese_filter_hz": 2200,
+    "detune_cents": [
+      -10,
+      10
+    ]
+  },
+  {
+    "time": 9.593023255813954,
+    "duration": 0.12209302325581395,
+    "stem": "chords",
+    "reese_low_hz": 125,
+    "reese_filter_hz": 2200,
+    "detune_cents": [
+      -10,
+      10
+    ]
+  },
+  {
+    "time": 8.459302325581396,
+    "duration": 0.3313953488372093,
+    "stem": "chords",
+    "reese_low_hz": 125,
+    "reese_filter_hz": 2200,
+    "detune_cents": [
+      -10,
+      10
+    ]
+  },
+  {
+    "time": 8.982558139534884,
+    "duration": 0.1744186046511628,
+    "stem": "chords",
+    "reese_low_hz": 125,
+    "reese_filter_hz": 2200,
+    "detune_cents": [
+      -10,
+      10
+    ]
+  },
+  {
+    "time": 9.24418604651163,
+    "duration": 0.29651162790697677,
+    "stem": "chords",
+    "reese_low_hz": 125,
+    "reese_filter_hz": 2200,
+    "detune_cents": [
+      -10,
+      10
+    ]
+  },
+  {
+    "time": 9.593023255813954,
+    "duration": 0.12209302325581395,
+    "stem": "chords",
+    "reese_low_hz": 125,
+    "reese_filter_hz": 2200,
+    "detune_cents": [
+      -10,
+      10
+    ]
+  },
+  {
+    "time": 9.767441860465118,
+    "duration": 0.2441860465116279,
+    "stem": "chords",
+    "reese_low_hz": 125,
+    "reese_filter_hz": 1250,
+    "detune_cents": [
+      -10,
+      10
+    ]
+  },
+  {
+    "time": 10.203488372093025,
+    "duration": 0.20930232558139536,
+    "stem": "chords",
+    "reese_low_hz": 125,
+    "reese_filter_hz": 1250,
+    "detune_cents": [
+      -10,
+      10
+    ]
+  },
+  {
+    "time": 10.552325581395351,
+    "duration": 0.5058139534883721,
+    "stem": "chords",
+    "reese_low_hz": 125,
+    "reese_filter_hz": 1250,
+    "detune_cents": [
+      -10,
+      10
+    ]
+  },
+  {
+    "time": 11.25,
+    "duration": 0.3313953488372093,
+    "stem": "chords",
+    "reese_low_hz": 125,
+    "reese_filter_hz": 1700,
+    "detune_cents": [
+      -10,
+      10
+    ]
+  },
+  {
+    "time": 11.773255813953488,
+    "duration": 0.1744186046511628,
+    "stem": "chords",
+    "reese_low_hz": 125,
+    "reese_filter_hz": 1700,
+    "detune_cents": [
+      -10,
+      10
+    ]
+  },
+  {
+    "time": 12.034883720930234,
+    "duration": 0.29651162790697677,
+    "stem": "chords",
+    "reese_low_hz": 125,
+    "reese_filter_hz": 1700,
+    "detune_cents": [
+      -10,
+      10
+    ]
+  },
+  {
+    "time": 12.383720930232558,
+    "duration": 0.12209302325581395,
+    "stem": "chords",
+    "reese_low_hz": 125,
+    "reese_filter_hz": 1700,
+    "detune_cents": [
+      -10,
+      10
+    ]
+  },
+  {
+    "time": 12.558139534883722,
+    "duration": 0.2441860465116279,
+    "stem": "chords",
+    "reese_low_hz": 125,
+    "reese_filter_hz": 850,
+    "detune_cents": [
+      -10,
+      10
+    ]
+  },
+  {
+    "time": 12.99418604651163,
+    "duration": 0.20930232558139536,
+    "stem": "chords",
+    "reese_low_hz": 125,
+    "reese_filter_hz": 850,
+    "detune_cents": [
+      -10,
+      10
+    ]
+  },
+  {
+    "time": 13.343023255813954,
+    "duration": 0.5058139534883721,
+    "stem": "chords",
+    "reese_low_hz": 125,
+    "reese_filter_hz": 850,
+    "detune_cents": [
+      -10,
+      10
+    ]
+  },
+  {
+    "time": 14.040697674418604,
+    "duration": 0.3313953488372093,
+    "stem": "chords",
+    "reese_low_hz": 125,
+    "reese_filter_hz": 2200,
+    "detune_cents": [
+      -10,
+      10
+    ]
+  },
+  {
+    "time": 14.563953488372093,
+    "duration": 0.1744186046511628,
+    "stem": "chords",
+    "reese_low_hz": 125,
+    "reese_filter_hz": 2200,
+    "detune_cents": [
+      -10,
+      10
+    ]
+  },
+  {
+    "time": 14.825581395348838,
+    "duration": 0.29651162790697677,
+    "stem": "chords",
+    "reese_low_hz": 125,
+    "reese_filter_hz": 2200,
+    "detune_cents": [
+      -10,
+      10
+    ]
+  },
+  {
+    "time": 15.174418604651162,
+    "duration": 0.12209302325581395,
+    "stem": "chords",
+    "reese_low_hz": 125,
+    "reese_filter_hz": 2200,
+    "detune_cents": [
+      -10,
+      10
+    ]
+  },
+  {
+    "time": 15.348837209302326,
+    "duration": 0.2441860465116279,
+    "stem": "chords",
+    "reese_low_hz": 125,
+    "reese_filter_hz": 1250,
+    "detune_cents": [
+      -10,
+      10
+    ]
+  },
+  {
+    "time": 15.784883720930234,
+    "duration": 0.20930232558139536,
+    "stem": "chords",
+    "reese_low_hz": 125,
+    "reese_filter_hz": 1250,
+    "detune_cents": [
+      -10,
+      10
+    ]
+  },
+  {
+    "time": 16.13372093023256,
+    "duration": 0.5058139534883721,
+    "stem": "chords",
+    "reese_low_hz": 125,
+    "reese_filter_hz": 1250,
+    "detune_cents": [
+      -10,
+      10
+    ]
+  },
+  {
+    "time": 16.831395348837212,
+    "duration": 0.3313953488372093,
+    "stem": "chords",
+    "reese_low_hz": 125,
+    "reese_filter_hz": 1700,
+    "detune_cents": [
+      -10,
+      10
+    ]
+  },
+  {
+    "time": 17.3546511627907,
+    "duration": 0.1744186046511628,
+    "stem": "chords",
+    "reese_low_hz": 125,
+    "reese_filter_hz": 1700,
+    "detune_cents": [
+      -10,
+      10
+    ]
+  },
+  {
+    "time": 17.616279069767444,
+    "duration": 0.29651162790697677,
+    "stem": "chords",
+    "reese_low_hz": 125,
+    "reese_filter_hz": 1700,
+    "detune_cents": [
+      -10,
+      10
+    ]
+  },
+  {
+    "time": 17.96511627906977,
+    "duration": 0.12209302325581395,
+    "stem": "chords",
+    "reese_low_hz": 125,
+    "reese_filter_hz": 1700,
+    "detune_cents": [
+      -10,
+      10
+    ]
+  },
+  {
+    "time": 16.831395348837212,
+    "duration": 0.3313953488372093,
+    "stem": "chords",
+    "reese_low_hz": 125,
+    "reese_filter_hz": 1700,
+    "detune_cents": [
+      -10,
+      10
+    ]
+  },
+  {
+    "time": 17.3546511627907,
+    "duration": 0.1744186046511628,
+    "stem": "chords",
+    "reese_low_hz": 125,
+    "reese_filter_hz": 1700,
+    "detune_cents": [
+      -10,
+      10
+    ]
+  },
+  {
+    "time": 17.616279069767444,
+    "duration": 0.29651162790697677,
+    "stem": "chords",
+    "reese_low_hz": 125,
+    "reese_filter_hz": 1700,
+    "detune_cents": [
+      -10,
+      10
+    ]
+  },
+  {
+    "time": 17.96511627906977,
+    "duration": 0.12209302325581395,
+    "stem": "chords",
+    "reese_low_hz": 125,
+    "reese_filter_hz": 1700,
+    "detune_cents": [
+      -10,
+      10
+    ]
+  },
+  {
+    "time": 18.13953488372093,
+    "duration": 0.2441860465116279,
+    "stem": "chords",
+    "reese_low_hz": 125,
+    "reese_filter_hz": 850,
+    "detune_cents": [
+      -10,
+      10
+    ]
+  },
+  {
+    "time": 18.575581395348838,
+    "duration": 0.20930232558139536,
+    "stem": "chords",
+    "reese_low_hz": 125,
+    "reese_filter_hz": 850,
+    "detune_cents": [
+      -10,
+      10
+    ]
+  },
+  {
+    "time": 18.924418604651162,
+    "duration": 0.5058139534883721,
+    "stem": "chords",
+    "reese_low_hz": 125,
+    "reese_filter_hz": 850,
+    "detune_cents": [
+      -10,
+      10
+    ]
+  },
+  {
+    "time": 19.622093023255818,
+    "duration": 0.3313953488372093,
+    "stem": "chords",
+    "reese_low_hz": 125,
+    "reese_filter_hz": 2200,
+    "detune_cents": [
+      -10,
+      10
+    ]
+  },
+  {
+    "time": 20.145348837209305,
+    "duration": 0.1744186046511628,
+    "stem": "chords",
+    "reese_low_hz": 125,
+    "reese_filter_hz": 2200,
+    "detune_cents": [
+      -10,
+      10
+    ]
+  },
+  {
+    "time": 20.40697674418605,
+    "duration": 0.29651162790697677,
+    "stem": "chords",
+    "reese_low_hz": 125,
+    "reese_filter_hz": 2200,
+    "detune_cents": [
+      -10,
+      10
+    ]
+  },
+  {
+    "time": 20.755813953488374,
+    "duration": 0.12209302325581395,
+    "stem": "chords",
+    "reese_low_hz": 125,
+    "reese_filter_hz": 2200,
+    "detune_cents": [
+      -10,
+      10
+    ]
+  },
+  {
+    "time": 19.622093023255818,
+    "duration": 0.3313953488372093,
+    "stem": "chords",
+    "reese_low_hz": 125,
+    "reese_filter_hz": 2200,
+    "detune_cents": [
+      -10,
+      10
+    ]
+  },
+  {
+    "time": 20.145348837209305,
+    "duration": 0.1744186046511628,
+    "stem": "chords",
+    "reese_low_hz": 125,
+    "reese_filter_hz": 2200,
+    "detune_cents": [
+      -10,
+      10
+    ]
+  },
+  {
+    "time": 20.40697674418605,
+    "duration": 0.29651162790697677,
+    "stem": "chords",
+    "reese_low_hz": 125,
+    "reese_filter_hz": 2200,
+    "detune_cents": [
+      -10,
+      10
+    ]
+  },
+  {
+    "time": 20.755813953488374,
+    "duration": 0.12209302325581395,
+    "stem": "chords",
+    "reese_low_hz": 125,
+    "reese_filter_hz": 2200,
+    "detune_cents": [
+      -10,
+      10
+    ]
+  },
+  {
+    "time": 20.930232558139537,
+    "duration": 0.2441860465116279,
+    "stem": "chords",
+    "reese_low_hz": 125,
+    "reese_filter_hz": 1250,
+    "detune_cents": [
+      -10,
+      10
+    ]
+  },
+  {
+    "time": 21.366279069767444,
+    "duration": 0.20930232558139536,
+    "stem": "chords",
+    "reese_low_hz": 125,
+    "reese_filter_hz": 1250,
+    "detune_cents": [
+      -10,
+      10
+    ]
+  },
+  {
+    "time": 21.71511627906977,
+    "duration": 0.5058139534883721,
+    "stem": "chords",
+    "reese_low_hz": 125,
+    "reese_filter_hz": 1250,
+    "detune_cents": [
+      -10,
+      10
+    ]
+  },
+  {
+    "time": 22.412790697674424,
+    "duration": 0.3313953488372093,
+    "stem": "chords",
+    "reese_low_hz": 125,
+    "reese_filter_hz": 1700,
+    "detune_cents": [
+      -10,
+      10
+    ]
+  },
+  {
+    "time": 22.93604651162791,
+    "duration": 0.1744186046511628,
+    "stem": "chords",
+    "reese_low_hz": 125,
+    "reese_filter_hz": 1700,
+    "detune_cents": [
+      -10,
+      10
+    ]
+  },
+  {
+    "time": 23.197674418604656,
+    "duration": 0.29651162790697677,
+    "stem": "chords",
+    "reese_low_hz": 125,
+    "reese_filter_hz": 1700,
+    "detune_cents": [
+      -10,
+      10
+    ]
+  },
+  {
+    "time": 23.54651162790698,
+    "duration": 0.12209302325581395,
+    "stem": "chords",
+    "reese_low_hz": 125,
+    "reese_filter_hz": 1700,
+    "detune_cents": [
+      -10,
+      10
+    ]
+  },
+  {
+    "time": 22.412790697674424,
+    "duration": 0.3313953488372093,
+    "stem": "chords",
+    "reese_low_hz": 125,
+    "reese_filter_hz": 1700,
+    "detune_cents": [
+      -10,
+      10
+    ]
+  },
+  {
+    "time": 22.93604651162791,
+    "duration": 0.1744186046511628,
+    "stem": "chords",
+    "reese_low_hz": 125,
+    "reese_filter_hz": 1700,
+    "detune_cents": [
+      -10,
+      10
+    ]
+  },
+  {
+    "time": 23.197674418604656,
+    "duration": 0.29651162790697677,
+    "stem": "chords",
+    "reese_low_hz": 125,
+    "reese_filter_hz": 1700,
+    "detune_cents": [
+      -10,
+      10
+    ]
+  },
+  {
+    "time": 23.54651162790698,
+    "duration": 0.12209302325581395,
+    "stem": "chords",
+    "reese_low_hz": 125,
+    "reese_filter_hz": 1700,
+    "detune_cents": [
+      -10,
+      10
+    ]
+  },
+  {
+    "time": 23.720930232558143,
+    "duration": 0.2441860465116279,
+    "stem": "chords",
+    "reese_low_hz": 125,
+    "reese_filter_hz": 850,
+    "detune_cents": [
+      -10,
+      10
+    ]
+  },
+  {
+    "time": 24.15697674418605,
+    "duration": 0.20930232558139536,
+    "stem": "chords",
+    "reese_low_hz": 125,
+    "reese_filter_hz": 850,
+    "detune_cents": [
+      -10,
+      10
+    ]
+  },
+  {
+    "time": 24.505813953488374,
+    "duration": 0.5058139534883721,
+    "stem": "chords",
+    "reese_low_hz": 125,
+    "reese_filter_hz": 850,
+    "detune_cents": [
+      -10,
+      10
+    ]
+  },
+  {
+    "time": 25.20348837209303,
+    "duration": 0.3313953488372093,
+    "stem": "chords",
+    "reese_low_hz": 125,
+    "reese_filter_hz": 2200,
+    "detune_cents": [
+      -10,
+      10
+    ]
+  },
+  {
+    "time": 25.726744186046517,
+    "duration": 0.1744186046511628,
+    "stem": "chords",
+    "reese_low_hz": 125,
+    "reese_filter_hz": 2200,
+    "detune_cents": [
+      -10,
+      10
+    ]
+  },
+  {
+    "time": 25.988372093023262,
+    "duration": 0.29651162790697677,
+    "stem": "chords",
+    "reese_low_hz": 125,
+    "reese_filter_hz": 2200,
+    "detune_cents": [
+      -10,
+      10
+    ]
+  },
+  {
+    "time": 26.337209302325586,
+    "duration": 0.12209302325581395,
+    "stem": "chords",
+    "reese_low_hz": 125,
+    "reese_filter_hz": 2200,
+    "detune_cents": [
+      -10,
+      10
+    ]
+  },
+  {
+    "time": 25.20348837209303,
+    "duration": 0.3313953488372093,
+    "stem": "chords",
+    "reese_low_hz": 125,
+    "reese_filter_hz": 2200,
+    "detune_cents": [
+      -10,
+      10
+    ]
+  },
+  {
+    "time": 25.726744186046517,
+    "duration": 0.1744186046511628,
+    "stem": "chords",
+    "reese_low_hz": 125,
+    "reese_filter_hz": 2200,
+    "detune_cents": [
+      -10,
+      10
+    ]
+  },
+  {
+    "time": 25.988372093023262,
+    "duration": 0.29651162790697677,
+    "stem": "chords",
+    "reese_low_hz": 125,
+    "reese_filter_hz": 2200,
+    "detune_cents": [
+      -10,
+      10
+    ]
+  },
+  {
+    "time": 26.337209302325586,
+    "duration": 0.12209302325581395,
+    "stem": "chords",
+    "reese_low_hz": 125,
+    "reese_filter_hz": 2200,
+    "detune_cents": [
+      -10,
+      10
+    ]
+  },
+  {
+    "time": 26.51162790697675,
+    "duration": 0.2441860465116279,
+    "stem": "chords",
+    "reese_low_hz": 125,
+    "reese_filter_hz": 1250,
+    "detune_cents": [
+      -10,
+      10
+    ]
+  },
+  {
+    "time": 26.947674418604656,
+    "duration": 0.20930232558139536,
+    "stem": "chords",
+    "reese_low_hz": 125,
+    "reese_filter_hz": 1250,
+    "detune_cents": [
+      -10,
+      10
+    ]
+  },
+  {
+    "time": 27.29651162790698,
+    "duration": 0.5058139534883721,
+    "stem": "chords",
+    "reese_low_hz": 125,
+    "reese_filter_hz": 1250,
+    "detune_cents": [
+      -10,
+      10
+    ]
+  },
+  {
+    "time": 27.994186046511636,
+    "duration": 0.3313953488372093,
+    "stem": "chords",
+    "reese_low_hz": 125,
+    "reese_filter_hz": 1700,
+    "detune_cents": [
+      -10,
+      10
+    ]
+  },
+  {
+    "time": 28.517441860465123,
+    "duration": 0.1744186046511628,
+    "stem": "chords",
+    "reese_low_hz": 125,
+    "reese_filter_hz": 1700,
+    "detune_cents": [
+      -10,
+      10
+    ]
+  },
+  {
+    "time": 28.779069767441868,
+    "duration": 0.29651162790697677,
+    "stem": "chords",
+    "reese_low_hz": 125,
+    "reese_filter_hz": 1700,
+    "detune_cents": [
+      -10,
+      10
+    ]
+  },
+  {
+    "time": 29.127906976744192,
+    "duration": 0.12209302325581395,
+    "stem": "chords",
+    "reese_low_hz": 125,
+    "reese_filter_hz": 1700,
+    "detune_cents": [
+      -10,
+      10
+    ]
+  },
+  {
+    "time": 27.994186046511636,
+    "duration": 0.3313953488372093,
+    "stem": "chords",
+    "reese_low_hz": 125,
+    "reese_filter_hz": 1700,
+    "detune_cents": [
+      -10,
+      10
+    ]
+  },
+  {
+    "time": 28.517441860465123,
+    "duration": 0.1744186046511628,
+    "stem": "chords",
+    "reese_low_hz": 125,
+    "reese_filter_hz": 1700,
+    "detune_cents": [
+      -10,
+      10
+    ]
+  },
+  {
+    "time": 28.779069767441868,
+    "duration": 0.29651162790697677,
+    "stem": "chords",
+    "reese_low_hz": 125,
+    "reese_filter_hz": 1700,
+    "detune_cents": [
+      -10,
+      10
+    ]
+  },
+  {
+    "time": 29.127906976744192,
+    "duration": 0.12209302325581395,
+    "stem": "chords",
+    "reese_low_hz": 125,
+    "reese_filter_hz": 1700,
+    "detune_cents": [
+      -10,
+      10
+    ]
+  },
+  {
+    "time": 29.302325581395355,
+    "duration": 0.2441860465116279,
+    "stem": "chords",
+    "reese_low_hz": 125,
+    "reese_filter_hz": 850,
+    "detune_cents": [
+      -10,
+      10
+    ]
+  },
+  {
+    "time": 29.738372093023262,
+    "duration": 0.20930232558139536,
+    "stem": "chords",
+    "reese_low_hz": 125,
+    "reese_filter_hz": 850,
+    "detune_cents": [
+      -10,
+      10
+    ]
+  },
+  {
+    "time": 30.087209302325586,
+    "duration": 0.5058139534883721,
+    "stem": "chords",
+    "reese_low_hz": 125,
+    "reese_filter_hz": 850,
+    "detune_cents": [
+      -10,
+      10
+    ]
+  },
+  {
+    "time": 30.784883720930242,
+    "duration": 0.3313953488372093,
+    "stem": "chords",
+    "reese_low_hz": 125,
+    "reese_filter_hz": 2200,
+    "detune_cents": [
+      -10,
+      10
+    ]
+  },
+  {
+    "time": 31.30813953488373,
+    "duration": 0.1744186046511628,
+    "stem": "chords",
+    "reese_low_hz": 125,
+    "reese_filter_hz": 2200,
+    "detune_cents": [
+      -10,
+      10
+    ]
+  },
+  {
+    "time": 31.569767441860474,
+    "duration": 0.29651162790697677,
+    "stem": "chords",
+    "reese_low_hz": 125,
+    "reese_filter_hz": 2200,
+    "detune_cents": [
+      -10,
+      10
+    ]
+  },
+  {
+    "time": 31.9186046511628,
+    "duration": 0.12209302325581395,
+    "stem": "chords",
+    "reese_low_hz": 125,
+    "reese_filter_hz": 2200,
+    "detune_cents": [
+      -10,
+      10
+    ]
+  },
+  {
+    "time": 30.784883720930242,
+    "duration": 0.3313953488372093,
+    "stem": "chords",
+    "reese_low_hz": 125,
+    "reese_filter_hz": 2200,
+    "detune_cents": [
+      -10,
+      10
+    ]
+  },
+  {
+    "time": 31.30813953488373,
+    "duration": 0.1744186046511628,
+    "stem": "chords",
+    "reese_low_hz": 125,
+    "reese_filter_hz": 2200,
+    "detune_cents": [
+      -10,
+      10
+    ]
+  },
+  {
+    "time": 31.569767441860474,
+    "duration": 0.29651162790697677,
+    "stem": "chords",
+    "reese_low_hz": 125,
+    "reese_filter_hz": 2200,
+    "detune_cents": [
+      -10,
+      10
+    ]
+  },
+  {
+    "time": 31.9186046511628,
+    "duration": 0.12209302325581395,
+    "stem": "chords",
+    "reese_low_hz": 125,
+    "reese_filter_hz": 2200,
+    "detune_cents": [
+      -10,
+      10
+    ]
+  },
+  {
+    "time": 32.09302325581396,
+    "duration": 0.2441860465116279,
+    "stem": "chords",
+    "reese_low_hz": 125,
+    "reese_filter_hz": 1250,
+    "detune_cents": [
+      -10,
+      10
+    ]
+  },
+  {
+    "time": 32.52906976744187,
+    "duration": 0.20930232558139536,
+    "stem": "chords",
+    "reese_low_hz": 125,
+    "reese_filter_hz": 1250,
+    "detune_cents": [
+      -10,
+      10
+    ]
+  },
+  {
+    "time": 32.87790697674419,
+    "duration": 0.5058139534883721,
+    "stem": "chords",
+    "reese_low_hz": 125,
+    "reese_filter_hz": 1250,
+    "detune_cents": [
+      -10,
+      10
+    ]
+  },
+  {
+    "time": 39.156976744186046,
+    "duration": 0.3313953488372093,
+    "stem": "chords",
+    "reese_low_hz": 125,
+    "reese_filter_hz": 1700,
+    "detune_cents": [
+      -10,
+      10
+    ]
+  },
+  {
+    "time": 39.68023255813954,
+    "duration": 0.1744186046511628,
+    "stem": "chords",
+    "reese_low_hz": 125,
+    "reese_filter_hz": 1700,
+    "detune_cents": [
+      -10,
+      10
+    ]
+  },
+  {
+    "time": 39.94186046511628,
+    "duration": 0.29651162790697677,
+    "stem": "chords",
+    "reese_low_hz": 125,
+    "reese_filter_hz": 1700,
+    "detune_cents": [
+      -10,
+      10
+    ]
+  },
+  {
+    "time": 40.2906976744186,
+    "duration": 0.12209302325581395,
+    "stem": "chords",
+    "reese_low_hz": 125,
+    "reese_filter_hz": 1700,
+    "detune_cents": [
+      -10,
+      10
+    ]
+  },
+  {
+    "time": 40.46511627906977,
+    "duration": 0.2441860465116279,
+    "stem": "chords",
+    "reese_low_hz": 125,
+    "reese_filter_hz": 850,
+    "detune_cents": [
+      -10,
+      10
+    ]
+  },
+  {
+    "time": 40.901162790697676,
+    "duration": 0.20930232558139536,
+    "stem": "chords",
+    "reese_low_hz": 125,
+    "reese_filter_hz": 850,
+    "detune_cents": [
+      -10,
+      10
+    ]
+  },
+  {
+    "time": 41.25,
+    "duration": 0.5058139534883721,
+    "stem": "chords",
+    "reese_low_hz": 125,
+    "reese_filter_hz": 850,
+    "detune_cents": [
+      -10,
+      10
+    ]
+  },
+  {
+    "time": 41.94767441860465,
+    "duration": 0.3313953488372093,
+    "stem": "chords",
+    "reese_low_hz": 125,
+    "reese_filter_hz": 2200,
+    "detune_cents": [
+      -10,
+      10
+    ]
+  },
+  {
+    "time": 42.47093023255814,
+    "duration": 0.1744186046511628,
+    "stem": "chords",
+    "reese_low_hz": 125,
+    "reese_filter_hz": 2200,
+    "detune_cents": [
+      -10,
+      10
+    ]
+  },
+  {
+    "time": 42.73255813953488,
+    "duration": 0.29651162790697677,
+    "stem": "chords",
+    "reese_low_hz": 125,
+    "reese_filter_hz": 2200,
+    "detune_cents": [
+      -10,
+      10
+    ]
+  },
+  {
+    "time": 43.081395348837205,
+    "duration": 0.12209302325581395,
+    "stem": "chords",
+    "reese_low_hz": 125,
+    "reese_filter_hz": 2200,
+    "detune_cents": [
+      -10,
+      10
+    ]
+  },
+  {
+    "time": 43.25581395348837,
+    "duration": 0.2441860465116279,
+    "stem": "chords",
+    "reese_low_hz": 125,
+    "reese_filter_hz": 1250,
+    "detune_cents": [
+      -10,
+      10
+    ]
+  },
+  {
+    "time": 43.69186046511628,
+    "duration": 0.20930232558139536,
+    "stem": "chords",
+    "reese_low_hz": 125,
+    "reese_filter_hz": 1250,
+    "detune_cents": [
+      -10,
+      10
+    ]
+  },
+  {
+    "time": 44.0406976744186,
+    "duration": 0.5058139534883721,
+    "stem": "chords",
+    "reese_low_hz": 125,
+    "reese_filter_hz": 1250,
+    "detune_cents": [
+      -10,
+      10
+    ]
+  },
+  {
+    "time": 44.73837209302325,
+    "duration": 0.3313953488372093,
+    "stem": "chords",
+    "reese_low_hz": 125,
+    "reese_filter_hz": 1700,
+    "detune_cents": [
+      -10,
+      10
+    ]
+  },
+  {
+    "time": 45.26162790697674,
+    "duration": 0.1744186046511628,
+    "stem": "chords",
+    "reese_low_hz": 125,
+    "reese_filter_hz": 1700,
+    "detune_cents": [
+      -10,
+      10
+    ]
+  },
+  {
+    "time": 45.52325581395348,
+    "duration": 0.29651162790697677,
+    "stem": "chords",
+    "reese_low_hz": 125,
+    "reese_filter_hz": 1700,
+    "detune_cents": [
+      -10,
+      10
+    ]
+  },
+  {
+    "time": 45.87209302325581,
+    "duration": 0.12209302325581395,
+    "stem": "chords",
+    "reese_low_hz": 125,
+    "reese_filter_hz": 1700,
+    "detune_cents": [
+      -10,
+      10
+    ]
+  },
+  {
+    "time": 46.04651162790697,
+    "duration": 0.2441860465116279,
+    "stem": "chords",
+    "reese_low_hz": 125,
+    "reese_filter_hz": 850,
+    "detune_cents": [
+      -10,
+      10
+    ]
+  },
+  {
+    "time": 46.48255813953488,
+    "duration": 0.20930232558139536,
+    "stem": "chords",
+    "reese_low_hz": 125,
+    "reese_filter_hz": 850,
+    "detune_cents": [
+      -10,
+      10
+    ]
+  },
+  {
+    "time": 46.831395348837205,
+    "duration": 0.5058139534883721,
+    "stem": "chords",
+    "reese_low_hz": 125,
+    "reese_filter_hz": 850,
+    "detune_cents": [
+      -10,
+      10
+    ]
+  },
+  {
+    "time": 47.529069767441854,
+    "duration": 0.3313953488372093,
+    "stem": "chords",
+    "reese_low_hz": 125,
+    "reese_filter_hz": 2200,
+    "detune_cents": [
+      -10,
+      10
+    ]
+  },
+  {
+    "time": 48.052325581395344,
+    "duration": 0.1744186046511628,
+    "stem": "chords",
+    "reese_low_hz": 125,
+    "reese_filter_hz": 2200,
+    "detune_cents": [
+      -10,
+      10
+    ]
+  },
+  {
+    "time": 48.313953488372086,
+    "duration": 0.29651162790697677,
+    "stem": "chords",
+    "reese_low_hz": 125,
+    "reese_filter_hz": 2200,
+    "detune_cents": [
+      -10,
+      10
+    ]
+  },
+  {
+    "time": 48.66279069767441,
+    "duration": 0.12209302325581395,
+    "stem": "chords",
+    "reese_low_hz": 125,
+    "reese_filter_hz": 2200,
+    "detune_cents": [
+      -10,
+      10
+    ]
+  },
+  {
+    "time": 48.837209302325576,
+    "duration": 0.2441860465116279,
+    "stem": "chords",
+    "reese_low_hz": 125,
+    "reese_filter_hz": 1250,
+    "detune_cents": [
+      -10,
+      10
+    ]
+  },
+  {
+    "time": 49.27325581395348,
+    "duration": 0.20930232558139536,
+    "stem": "chords",
+    "reese_low_hz": 125,
+    "reese_filter_hz": 1250,
+    "detune_cents": [
+      -10,
+      10
+    ]
+  },
+  {
+    "time": 49.62209302325581,
+    "duration": 0.5058139534883721,
+    "stem": "chords",
+    "reese_low_hz": 125,
+    "reese_filter_hz": 1250,
+    "detune_cents": [
+      -10,
+      10
+    ]
+  },
+  {
+    "time": 50.319767441860456,
+    "duration": 0.3313953488372093,
+    "stem": "chords",
+    "reese_low_hz": 125,
+    "reese_filter_hz": 1700,
+    "detune_cents": [
+      -10,
+      10
+    ]
+  },
+  {
+    "time": 50.84302325581395,
+    "duration": 0.1744186046511628,
+    "stem": "chords",
+    "reese_low_hz": 125,
+    "reese_filter_hz": 1700,
+    "detune_cents": [
+      -10,
+      10
+    ]
+  },
+  {
+    "time": 51.10465116279069,
+    "duration": 0.29651162790697677,
+    "stem": "chords",
+    "reese_low_hz": 125,
+    "reese_filter_hz": 1700,
+    "detune_cents": [
+      -10,
+      10
+    ]
+  },
+  {
+    "time": 51.45348837209301,
+    "duration": 0.12209302325581395,
+    "stem": "chords",
+    "reese_low_hz": 125,
+    "reese_filter_hz": 1700,
+    "detune_cents": [
+      -10,
+      10
+    ]
+  },
+  {
+    "time": 51.62790697674418,
+    "duration": 0.2441860465116279,
+    "stem": "chords",
+    "reese_low_hz": 125,
+    "reese_filter_hz": 850,
+    "detune_cents": [
+      -10,
+      10
+    ]
+  },
+  {
+    "time": 52.063953488372086,
+    "duration": 0.20930232558139536,
+    "stem": "chords",
+    "reese_low_hz": 125,
+    "reese_filter_hz": 850,
+    "detune_cents": [
+      -10,
+      10
+    ]
+  },
+  {
+    "time": 52.41279069767441,
+    "duration": 0.5058139534883721,
+    "stem": "chords",
+    "reese_low_hz": 125,
+    "reese_filter_hz": 850,
+    "detune_cents": [
+      -10,
+      10
+    ]
+  },
+  {
+    "time": 53.11046511627906,
+    "duration": 0.3313953488372093,
+    "stem": "chords",
+    "reese_low_hz": 125,
+    "reese_filter_hz": 2200,
+    "detune_cents": [
+      -10,
+      10
+    ]
+  },
+  {
+    "time": 53.63372093023255,
+    "duration": 0.1744186046511628,
+    "stem": "chords",
+    "reese_low_hz": 125,
+    "reese_filter_hz": 2200,
+    "detune_cents": [
+      -10,
+      10
+    ]
+  },
+  {
+    "time": 53.89534883720929,
+    "duration": 0.29651162790697677,
+    "stem": "chords",
+    "reese_low_hz": 125,
+    "reese_filter_hz": 2200,
+    "detune_cents": [
+      -10,
+      10
+    ]
+  },
+  {
+    "time": 54.244186046511615,
+    "duration": 0.12209302325581395,
+    "stem": "chords",
+    "reese_low_hz": 125,
+    "reese_filter_hz": 2200,
+    "detune_cents": [
+      -10,
+      10
+    ]
+  },
+  {
+    "time": 54.41860465116278,
+    "duration": 0.2441860465116279,
+    "stem": "chords",
+    "reese_low_hz": 125,
+    "reese_filter_hz": 1250,
+    "detune_cents": [
+      -10,
+      10
+    ]
+  },
+  {
+    "time": 54.85465116279069,
+    "duration": 0.20930232558139536,
+    "stem": "chords",
+    "reese_low_hz": 125,
+    "reese_filter_hz": 1250,
+    "detune_cents": [
+      -10,
+      10
+    ]
+  },
+  {
+    "time": 55.20348837209301,
+    "duration": 0.5058139534883721,
+    "stem": "chords",
+    "reese_low_hz": 125,
+    "reese_filter_hz": 1250,
+    "detune_cents": [
+      -10,
+      10
+    ]
+  },
+  {
+    "processor": "kick ducking",
+    "kick_onsets_seconds": [
+      5.5813953488372094,
+      6.191860465116279,
+      6.453488372093023,
+      6.976744186046512,
+      7.761627906976744,
+      8.19767441860465,
+      8.372093023255815,
+      8.982558139534884,
+      9.24418604651163,
+      9.767441860465118,
+      10.552325581395351,
+      10.988372093023257,
+      11.162790697674419,
+      12.034883720930234,
+      12.558139534883722,
+      13.430232558139537,
+      13.953488372093023,
+      14.825581395348838,
+      15.348837209302326,
+      16.22093023255814,
+      16.74418604651163,
+      17.3546511627907,
+      17.616279069767444,
+      18.13953488372093,
+      18.924418604651162,
+      19.36046511627907,
+      19.534883720930235,
+      20.145348837209305,
+      20.40697674418605,
+      20.930232558139537,
+      21.71511627906977,
+      22.151162790697676,
+      22.32558139534884,
+      22.93604651162791,
+      23.197674418604656,
+      23.720930232558143,
+      24.505813953488374,
+      24.94186046511628,
+      25.116279069767447,
+      25.726744186046517,
+      25.988372093023262,
+      26.51162790697675,
+      27.29651162790698,
+      27.732558139534888,
+      27.906976744186053,
+      28.517441860465123,
+      28.779069767441868,
+      29.302325581395355,
+      30.087209302325586,
+      30.523255813953494,
+      30.69767441860466,
+      31.30813953488373,
+      31.569767441860474,
+      32.09302325581396,
+      32.87790697674419,
+      33.3139534883721,
+      39.06976744186046,
+      39.68023255813954,
+      39.94186046511628,
+      40.46511627906977,
+      41.25,
+      41.68604651162791,
+      41.860465116279066,
+      42.47093023255814,
+      42.73255813953488,
+      43.25581395348837,
+      44.0406976744186,
+      44.47674418604651,
+      44.65116279069767,
+      45.26162790697674,
+      45.52325581395348,
+      46.04651162790697,
+      46.831395348837205,
+      47.26744186046511,
+      47.44186046511627,
+      48.052325581395344,
+      48.313953488372086,
+      48.837209302325576,
+      49.62209302325581,
+      50.058139534883715,
+      50.23255813953487,
+      50.84302325581395,
+      51.10465116279069,
+      51.62790697674418,
+      52.41279069767441,
+      52.84883720930232,
+      53.023255813953476,
+      53.63372093023255,
+      53.89534883720929,
+      54.41860465116278,
+      55.20348837209301,
+      55.63953488372092
+    ],
+    "depth": 0.58,
+    "recovery_seconds": 0.13,
+    "attack_seconds": 0.003,
+    "stem_depth_multipliers": {
+      "bass": 1,
+      "chords": 0.75,
+      "keys": 0.48,
+      "pad": 0.55
+    }
+  }
+]

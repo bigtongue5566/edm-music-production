@@ -10,52 +10,96 @@
     "fluidsynth": null,
     "soundfont_source": null,
     "license": null,
-    "bpm": 96.0,
-    "key": "A major",
+    "bpm": 132,
+    "key": "C minor",
     "progression": [
-      "I",
-      "vi",
-      "IV",
-      "V"
+      "i",
+      "VI",
+      "III",
+      "VII"
     ],
-    "seed": 20261012,
-    "style": "Synthwave / Electronic",
-    "arrangement": "neon"
+    "seed": 26101043,
+    "style": "UK Garage",
+    "arrangement": "neon",
+    "identity": "uk-garage",
+    "voiced_chords": [
+      {
+        "name": "Cm9",
+        "voices": [
+          51,
+          55,
+          58,
+          62
+        ],
+        "root": 36
+      },
+      {
+        "name": "Abmaj7",
+        "voices": [
+          48,
+          51,
+          56,
+          67
+        ],
+        "root": 44
+      },
+      {
+        "name": "Fm9",
+        "voices": [
+          56,
+          60,
+          63,
+          67
+        ],
+        "root": 41
+      },
+      {
+        "name": "Bb9",
+        "voices": [
+          50,
+          53,
+          56,
+          60
+        ],
+        "root": 46
+      }
+    ],
+    "sound_design": "Swung two-step kick/clap groove; delayed odd sixteenths; tine-key seventh/ninth stabs; organ responses; short bass notes and deliberate gaps. No vocal samples."
   },
   "sections": [
     {
-      "start": 0,
-      "end": 10,
+      "start": 0.0,
+      "end": 7.2727272727272725,
       "role": "intro",
       "label": "霓虹漫遊"
     },
     {
-      "start": 10,
-      "end": 20,
+      "start": 7.2727272727272725,
+      "end": 14.545454545454545,
       "role": "groove",
       "label": "CRUISE"
     },
     {
-      "start": 20,
-      "end": 35,
+      "start": 14.545454545454545,
+      "end": 36.36363636363637,
       "role": "drop",
       "label": "FLOW"
     },
     {
-      "start": 35,
-      "end": 40,
+      "start": 36.36363636363637,
+      "end": 43.63636363636363,
       "role": "break",
       "label": "STILL"
     },
     {
-      "start": 40,
-      "end": 55,
+      "start": 43.63636363636363,
+      "end": 54.54545454545455,
       "role": "drop",
       "label": "EXPLORE"
     },
     {
-      "start": 55,
-      "end": 60,
+      "start": 54.54545454545455,
+      "end": 60.0,
       "role": "outro",
       "label": "NEON DRIFT"
     }
@@ -76,53 +120,54 @@
     },
     "scenes": [
       {
-        "start": 0,
-        "end": 10,
+        "start": 0.0,
+        "end": 7.2727272727272725,
         "kind": "sunrise",
         "headline": "NEON\nDRIFT",
         "caption": "霓虹漫遊",
         "body": "在色彩與旋律之間，慢慢前行。"
       },
       {
-        "start": 10,
-        "end": 20,
+        "start": 7.2727272727272725,
+        "end": 14.545454545454545,
         "kind": "road",
         "headline": "沿著光線\n進入夜色",
         "caption": "CRUISE",
-        "body": "讓步伐放慢，讓想像延伸。"
+        "body": "讓步伐輕盈，讓想像延伸。"
       },
       {
-        "start": 20,
-        "end": 35,
+        "start": 14.545454545454545,
+        "end": 36.36363636363637,
         "kind": "ribbons",
         "headline": "旋律轉彎\n色彩也流動",
         "caption": "FLOW",
-        "body": "柔和的音色，帶出不同的風景。"
+        "body": "切分的低音，帶出不同的風景。"
       },
       {
-        "start": 35,
-        "end": 40,
+        "start": 36.36363636363637,
+        "end": 43.63636363636363,
         "kind": "horizon",
         "headline": "留在此刻\n聽見遠方",
         "caption": "STILL",
         "body": "為下一段旅程，留一點呼吸。"
       },
       {
-        "start": 40,
-        "end": 55,
+        "start": 43.63636363636363,
+        "end": 54.54545454545455,
         "kind": "city",
         "headline": "穿過霓虹\n繼續漫遊",
         "caption": "EXPLORE",
         "body": "層次展開，節奏重新亮起。"
       },
       {
-        "start": 55,
-        "end": 60,
+        "start": 54.54545454545455,
+        "end": 60.0,
         "kind": "closing",
         "headline": "霓虹漫遊",
         "caption": "NEON DRIFT",
         "body": "ORIGINAL MOTION + ORIGINAL MUSIC"
       }
     ]
-  }
+  },
+  "revision": "2026-10-10-multi-style"
 }

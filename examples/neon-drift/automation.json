@@ -1,0 +1,344 @@
+[
+  {
+    "time": 0.0,
+    "duration": 1.8181818181818181,
+    "groove": "two-step",
+    "odd_sixteenth_delay_beats": 0.09,
+    "stem": "drums"
+  },
+  {
+    "time": 1.8181818181818181,
+    "duration": 1.8181818181818181,
+    "groove": "two-step",
+    "odd_sixteenth_delay_beats": 0.09,
+    "stem": "drums"
+  },
+  {
+    "time": 3.6363636363636362,
+    "duration": 1.818181818181818,
+    "groove": "two-step",
+    "odd_sixteenth_delay_beats": 0.09,
+    "stem": "drums"
+  },
+  {
+    "time": 5.454545454545454,
+    "duration": 1.8181818181818183,
+    "groove": "two-step",
+    "odd_sixteenth_delay_beats": 0.09,
+    "stem": "drums"
+  },
+  {
+    "time": 7.2727272727272725,
+    "duration": 1.8181818181818175,
+    "groove": "two-step",
+    "odd_sixteenth_delay_beats": 0.09,
+    "stem": "drums"
+  },
+  {
+    "time": 9.09090909090909,
+    "duration": 1.8181818181818183,
+    "groove": "two-step",
+    "odd_sixteenth_delay_beats": 0.09,
+    "stem": "drums"
+  },
+  {
+    "time": 10.909090909090908,
+    "duration": 1.8181818181818183,
+    "groove": "two-step",
+    "odd_sixteenth_delay_beats": 0.09,
+    "stem": "drums"
+  },
+  {
+    "time": 12.727272727272727,
+    "duration": 1.8181818181818183,
+    "groove": "two-step",
+    "odd_sixteenth_delay_beats": 0.09,
+    "stem": "drums"
+  },
+  {
+    "time": 14.545454545454545,
+    "duration": 0.0,
+    "groove": "two-step",
+    "odd_sixteenth_delay_beats": 0.09,
+    "stem": "drums"
+  },
+  {
+    "time": 14.545454545454545,
+    "duration": 1.8181818181818183,
+    "groove": "two-step",
+    "odd_sixteenth_delay_beats": 0.09,
+    "stem": "drums"
+  },
+  {
+    "time": 16.363636363636363,
+    "duration": 1.8181818181818166,
+    "groove": "two-step",
+    "odd_sixteenth_delay_beats": 0.09,
+    "stem": "drums"
+  },
+  {
+    "time": 18.18181818181818,
+    "duration": 1.8181818181818166,
+    "groove": "two-step",
+    "odd_sixteenth_delay_beats": 0.09,
+    "stem": "drums"
+  },
+  {
+    "time": 19.999999999999996,
+    "duration": 1.8181818181818166,
+    "groove": "two-step",
+    "odd_sixteenth_delay_beats": 0.09,
+    "stem": "drums"
+  },
+  {
+    "time": 21.818181818181817,
+    "duration": 0.0,
+    "groove": "two-step",
+    "odd_sixteenth_delay_beats": 0.09,
+    "stem": "drums"
+  },
+  {
+    "time": 21.818181818181817,
+    "duration": 1.8181818181818166,
+    "groove": "two-step",
+    "odd_sixteenth_delay_beats": 0.09,
+    "stem": "drums"
+  },
+  {
+    "time": 23.636363636363633,
+    "duration": 1.8181818181818166,
+    "groove": "two-step",
+    "odd_sixteenth_delay_beats": 0.09,
+    "stem": "drums"
+  },
+  {
+    "time": 25.454545454545453,
+    "duration": 0.0,
+    "groove": "two-step",
+    "odd_sixteenth_delay_beats": 0.09,
+    "stem": "drums"
+  },
+  {
+    "time": 25.454545454545453,
+    "duration": 1.8181818181818166,
+    "groove": "two-step",
+    "odd_sixteenth_delay_beats": 0.09,
+    "stem": "drums"
+  },
+  {
+    "time": 27.27272727272727,
+    "duration": 1.8181818181818166,
+    "groove": "two-step",
+    "odd_sixteenth_delay_beats": 0.09,
+    "stem": "drums"
+  },
+  {
+    "time": 29.09090909090909,
+    "duration": 0.0,
+    "groove": "two-step",
+    "odd_sixteenth_delay_beats": 0.09,
+    "stem": "drums"
+  },
+  {
+    "time": 29.09090909090909,
+    "duration": 1.8181818181818166,
+    "groove": "two-step",
+    "odd_sixteenth_delay_beats": 0.09,
+    "stem": "drums"
+  },
+  {
+    "time": 30.909090909090907,
+    "duration": 1.8181818181818201,
+    "groove": "two-step",
+    "odd_sixteenth_delay_beats": 0.09,
+    "stem": "drums"
+  },
+  {
+    "time": 32.72727272727273,
+    "duration": 0.0,
+    "groove": "two-step",
+    "odd_sixteenth_delay_beats": 0.09,
+    "stem": "drums"
+  },
+  {
+    "time": 32.72727272727273,
+    "duration": 1.8181818181818201,
+    "groove": "two-step",
+    "odd_sixteenth_delay_beats": 0.09,
+    "stem": "drums"
+  },
+  {
+    "time": 34.54545454545455,
+    "duration": 1.818181818181813,
+    "groove": "two-step",
+    "odd_sixteenth_delay_beats": 0.09,
+    "stem": "drums"
+  },
+  {
+    "time": 36.36363636363637,
+    "duration": 1.8181818181818201,
+    "groove": "two-step",
+    "odd_sixteenth_delay_beats": 0.09,
+    "stem": "drums"
+  },
+  {
+    "time": 38.18181818181819,
+    "duration": 1.818181818181813,
+    "groove": "two-step",
+    "odd_sixteenth_delay_beats": 0.09,
+    "stem": "drums"
+  },
+  {
+    "time": 40.0,
+    "duration": 1.8181818181818201,
+    "groove": "two-step",
+    "odd_sixteenth_delay_beats": 0.09,
+    "stem": "drums"
+  },
+  {
+    "time": 41.81818181818182,
+    "duration": 1.818181818181813,
+    "groove": "two-step",
+    "odd_sixteenth_delay_beats": 0.09,
+    "stem": "drums"
+  },
+  {
+    "time": 43.63636363636363,
+    "duration": 1.8181818181818201,
+    "groove": "two-step",
+    "odd_sixteenth_delay_beats": 0.09,
+    "stem": "drums"
+  },
+  {
+    "time": 45.45454545454545,
+    "duration": 1.818181818181813,
+    "groove": "two-step",
+    "odd_sixteenth_delay_beats": 0.09,
+    "stem": "drums"
+  },
+  {
+    "time": 47.272727272727266,
+    "duration": 1.8181818181818201,
+    "groove": "two-step",
+    "odd_sixteenth_delay_beats": 0.09,
+    "stem": "drums"
+  },
+  {
+    "time": 49.090909090909086,
+    "duration": 1.818181818181813,
+    "groove": "two-step",
+    "odd_sixteenth_delay_beats": 0.09,
+    "stem": "drums"
+  },
+  {
+    "time": 50.9090909090909,
+    "duration": 1.8181818181818201,
+    "groove": "two-step",
+    "odd_sixteenth_delay_beats": 0.09,
+    "stem": "drums"
+  },
+  {
+    "time": 52.72727272727272,
+    "duration": 1.818181818181813,
+    "groove": "two-step",
+    "odd_sixteenth_delay_beats": 0.09,
+    "stem": "drums"
+  },
+  {
+    "time": 54.54545454545455,
+    "duration": 1.8181818181818201,
+    "groove": "two-step",
+    "odd_sixteenth_delay_beats": 0.09,
+    "stem": "drums"
+  },
+  {
+    "time": 56.36363636363637,
+    "duration": 1.818181818181813,
+    "groove": "two-step",
+    "odd_sixteenth_delay_beats": 0.09,
+    "stem": "drums"
+  },
+  {
+    "time": 58.18181818181818,
+    "duration": 1.8181818181818201,
+    "groove": "two-step",
+    "odd_sixteenth_delay_beats": 0.09,
+    "stem": "drums"
+  },
+  {
+    "time": 60.0,
+    "duration": 0.0,
+    "groove": "two-step",
+    "odd_sixteenth_delay_beats": 0.09,
+    "stem": "drums"
+  },
+  {
+    "processor": "kick ducking",
+    "kick_onsets_seconds": [
+      7.2727272727272725,
+      8.409090909090908,
+      9.09090909090909,
+      9.886363636363635,
+      10.568181818181817,
+      10.909090909090908,
+      12.045454545454545,
+      12.727272727272727,
+      13.522727272727272,
+      14.204545454545453,
+      14.545454545454545,
+      15.681818181818182,
+      16.363636363636363,
+      17.15909090909091,
+      17.84090909090909,
+      18.18181818181818,
+      19.318181818181817,
+      19.999999999999996,
+      20.795454545454543,
+      21.477272727272723,
+      21.818181818181817,
+      22.954545454545453,
+      23.636363636363633,
+      24.43181818181818,
+      25.11363636363636,
+      25.454545454545453,
+      26.59090909090909,
+      27.27272727272727,
+      28.068181818181817,
+      28.749999999999996,
+      29.09090909090909,
+      30.227272727272727,
+      30.909090909090907,
+      31.704545454545453,
+      32.38636363636363,
+      32.72727272727273,
+      33.86363636363636,
+      34.54545454545455,
+      35.34090909090909,
+      36.02272727272727,
+      43.63636363636363,
+      44.772727272727266,
+      45.45454545454545,
+      46.25,
+      46.93181818181818,
+      47.272727272727266,
+      48.4090909090909,
+      49.090909090909086,
+      49.88636363636363,
+      50.56818181818181,
+      50.9090909090909,
+      52.04545454545453,
+      52.72727272727272,
+      53.522727272727266,
+      54.204545454545446
+    ],
+    "depth": 0.52,
+    "recovery_seconds": 0.14,
+    "attack_seconds": 0.003,
+    "stem_depth_multipliers": {
+      "bass": 1,
+      "chords": 0.75,
+      "keys": 0.48,
+      "pad": 0.55
+    }
+  }
+]

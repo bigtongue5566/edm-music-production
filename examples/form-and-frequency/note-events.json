@@ -1,0 +1,7737 @@
+[
+  {
+    "stem": "pad",
+    "time": 0.0,
+    "duration": 3.2182432432432435,
+    "note": 65,
+    "velocity": 58
+  },
+  {
+    "stem": "pad",
+    "time": 0.0,
+    "duration": 3.2182432432432435,
+    "note": 68,
+    "velocity": 58
+  },
+  {
+    "stem": "pad",
+    "time": 0.0,
+    "duration": 3.2182432432432435,
+    "note": 72,
+    "velocity": 58
+  },
+  {
+    "stem": "pad",
+    "time": 0.0,
+    "duration": 3.2182432432432435,
+    "note": 75,
+    "velocity": 58
+  },
+  {
+    "stem": "pad",
+    "time": 0.0,
+    "duration": 3.2182432432432435,
+    "note": 79,
+    "velocity": 58
+  },
+  {
+    "stem": "keys",
+    "time": 0.0,
+    "duration": 0.6081081081081081,
+    "note": 65,
+    "velocity": 63
+  },
+  {
+    "stem": "keys",
+    "time": 0.6081081081081081,
+    "duration": 0.6081081081081081,
+    "note": 75,
+    "velocity": 63
+  },
+  {
+    "stem": "keys",
+    "time": 1.3175675675675675,
+    "duration": 0.6081081081081081,
+    "note": 68,
+    "velocity": 63
+  },
+  {
+    "stem": "keys",
+    "time": 1.8243243243243243,
+    "duration": 0.6081081081081081,
+    "note": 79,
+    "velocity": 63
+  },
+  {
+    "stem": "keys",
+    "time": 2.4324324324324325,
+    "duration": 0.6081081081081081,
+    "note": 72,
+    "velocity": 63
+  },
+  {
+    "stem": "pad",
+    "time": 3.2432432432432434,
+    "duration": 3.2182432432432435,
+    "note": 65,
+    "velocity": 58
+  },
+  {
+    "stem": "pad",
+    "time": 3.2432432432432434,
+    "duration": 3.2182432432432435,
+    "note": 68,
+    "velocity": 58
+  },
+  {
+    "stem": "pad",
+    "time": 3.2432432432432434,
+    "duration": 3.2182432432432435,
+    "note": 72,
+    "velocity": 58
+  },
+  {
+    "stem": "pad",
+    "time": 3.2432432432432434,
+    "duration": 3.2182432432432435,
+    "note": 75,
+    "velocity": 58
+  },
+  {
+    "stem": "pad",
+    "time": 3.2432432432432434,
+    "duration": 3.2182432432432435,
+    "note": 80,
+    "velocity": 58
+  },
+  {
+    "stem": "keys",
+    "time": 3.2432432432432434,
+    "duration": 0.6081081081081081,
+    "note": 65,
+    "velocity": 63
+  },
+  {
+    "stem": "keys",
+    "time": 3.8513513513513518,
+    "duration": 0.6081081081081081,
+    "note": 75,
+    "velocity": 63
+  },
+  {
+    "stem": "keys",
+    "time": 4.5608108108108105,
+    "duration": 0.6081081081081081,
+    "note": 68,
+    "velocity": 63
+  },
+  {
+    "stem": "keys",
+    "time": 5.0675675675675675,
+    "duration": 0.6081081081081081,
+    "note": 80,
+    "velocity": 63
+  },
+  {
+    "stem": "keys",
+    "time": 5.675675675675675,
+    "duration": 0.6081081081081081,
+    "note": 72,
+    "velocity": 63
+  },
+  {
+    "stem": "pad",
+    "time": 6.486486486486487,
+    "duration": 3.218243243243243,
+    "note": 60,
+    "velocity": 58
+  },
+  {
+    "stem": "pad",
+    "time": 6.486486486486487,
+    "duration": 3.218243243243243,
+    "note": 63,
+    "velocity": 58
+  },
+  {
+    "stem": "pad",
+    "time": 6.486486486486487,
+    "duration": 3.218243243243243,
+    "note": 68,
+    "velocity": 58
+  },
+  {
+    "stem": "pad",
+    "time": 6.486486486486487,
+    "duration": 3.218243243243243,
+    "note": 72,
+    "velocity": 58
+  },
+  {
+    "stem": "pad",
+    "time": 6.486486486486487,
+    "duration": 3.218243243243243,
+    "note": 79,
+    "velocity": 58
+  },
+  {
+    "stem": "keys",
+    "time": 6.486486486486487,
+    "duration": 0.6081081081081081,
+    "note": 60,
+    "velocity": 60
+  },
+  {
+    "stem": "keys",
+    "time": 7.094594594594595,
+    "duration": 0.6081081081081081,
+    "note": 72,
+    "velocity": 60
+  },
+  {
+    "stem": "keys",
+    "time": 7.804054054054054,
+    "duration": 0.6081081081081081,
+    "note": 63,
+    "velocity": 60
+  },
+  {
+    "stem": "keys",
+    "time": 8.31081081081081,
+    "duration": 0.6081081081081081,
+    "note": 79,
+    "velocity": 60
+  },
+  {
+    "stem": "keys",
+    "time": 8.91891891891892,
+    "duration": 0.6081081081081081,
+    "note": 68,
+    "velocity": 60
+  },
+  {
+    "stem": "drums",
+    "time": 6.486486486486487,
+    "duration": 0.39,
+    "note": 36,
+    "velocity": 105
+  },
+  {
+    "stem": "drums",
+    "time": 7.601351351351352,
+    "duration": 0.39,
+    "note": 36,
+    "velocity": 105
+  },
+  {
+    "stem": "drums",
+    "time": 7.297297297297297,
+    "duration": 0.21,
+    "note": 38,
+    "velocity": 108
+  },
+  {
+    "stem": "drums",
+    "time": 7.3074324324324325,
+    "duration": 0.19,
+    "note": 39,
+    "velocity": 80
+  },
+  {
+    "stem": "drums",
+    "time": 6.486486486486487,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 48
+  },
+  {
+    "stem": "drums",
+    "time": 6.6891891891891895,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 69
+  },
+  {
+    "stem": "drums",
+    "time": 6.891891891891892,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 48
+  },
+  {
+    "stem": "drums",
+    "time": 7.094594594594595,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 69
+  },
+  {
+    "stem": "drums",
+    "time": 7.297297297297297,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 48
+  },
+  {
+    "stem": "drums",
+    "time": 7.5,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 69
+  },
+  {
+    "stem": "drums",
+    "time": 7.7027027027027035,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 48
+  },
+  {
+    "stem": "drums",
+    "time": 7.905405405405406,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 69
+  },
+  {
+    "stem": "bass",
+    "time": 6.486486486486487,
+    "duration": 0.5067567567567568,
+    "note": 44,
+    "velocity": 66
+  },
+  {
+    "stem": "bass",
+    "time": 7.094594594594595,
+    "duration": 0.20270270270270271,
+    "note": 44,
+    "velocity": 66
+  },
+  {
+    "stem": "bass",
+    "time": 7.601351351351352,
+    "duration": 0.30405405405405406,
+    "note": 44,
+    "velocity": 66
+  },
+  {
+    "stem": "bass",
+    "time": 7.905405405405406,
+    "duration": 0.14189189189189189,
+    "note": 44,
+    "velocity": 66
+  },
+  {
+    "stem": "drums",
+    "time": 8.108108108108109,
+    "duration": 0.39,
+    "note": 36,
+    "velocity": 105
+  },
+  {
+    "stem": "drums",
+    "time": 9.222972972972974,
+    "duration": 0.39,
+    "note": 36,
+    "velocity": 105
+  },
+  {
+    "stem": "drums",
+    "time": 8.91891891891892,
+    "duration": 0.21,
+    "note": 38,
+    "velocity": 108
+  },
+  {
+    "stem": "drums",
+    "time": 8.929054054054054,
+    "duration": 0.19,
+    "note": 39,
+    "velocity": 80
+  },
+  {
+    "stem": "drums",
+    "time": 8.108108108108109,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 48
+  },
+  {
+    "stem": "drums",
+    "time": 8.310810810810812,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 69
+  },
+  {
+    "stem": "drums",
+    "time": 8.513513513513514,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 48
+  },
+  {
+    "stem": "drums",
+    "time": 8.716216216216218,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 69
+  },
+  {
+    "stem": "drums",
+    "time": 8.91891891891892,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 48
+  },
+  {
+    "stem": "drums",
+    "time": 9.121621621621623,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 69
+  },
+  {
+    "stem": "drums",
+    "time": 9.324324324324325,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 48
+  },
+  {
+    "stem": "drums",
+    "time": 9.527027027027028,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 69
+  },
+  {
+    "stem": "bass",
+    "time": 8.108108108108109,
+    "duration": 0.5067567567567568,
+    "note": 44,
+    "velocity": 66
+  },
+  {
+    "stem": "bass",
+    "time": 8.716216216216218,
+    "duration": 0.20270270270270271,
+    "note": 44,
+    "velocity": 66
+  },
+  {
+    "stem": "bass",
+    "time": 9.222972972972974,
+    "duration": 0.30405405405405406,
+    "note": 44,
+    "velocity": 66
+  },
+  {
+    "stem": "bass",
+    "time": 9.527027027027028,
+    "duration": 0.14189189189189189,
+    "note": 44,
+    "velocity": 66
+  },
+  {
+    "stem": "pad",
+    "time": 9.72972972972973,
+    "duration": 3.218243243243244,
+    "note": 63,
+    "velocity": 58
+  },
+  {
+    "stem": "pad",
+    "time": 9.72972972972973,
+    "duration": 3.218243243243244,
+    "note": 67,
+    "velocity": 58
+  },
+  {
+    "stem": "pad",
+    "time": 9.72972972972973,
+    "duration": 3.218243243243244,
+    "note": 70,
+    "velocity": 58
+  },
+  {
+    "stem": "pad",
+    "time": 9.72972972972973,
+    "duration": 3.218243243243244,
+    "note": 77,
+    "velocity": 58
+  },
+  {
+    "stem": "pad",
+    "time": 9.72972972972973,
+    "duration": 3.218243243243244,
+    "note": 82,
+    "velocity": 58
+  },
+  {
+    "stem": "keys",
+    "time": 9.72972972972973,
+    "duration": 0.6081081081081081,
+    "note": 63,
+    "velocity": 60
+  },
+  {
+    "stem": "keys",
+    "time": 10.337837837837839,
+    "duration": 0.6081081081081081,
+    "note": 77,
+    "velocity": 60
+  },
+  {
+    "stem": "keys",
+    "time": 11.047297297297298,
+    "duration": 0.6081081081081081,
+    "note": 67,
+    "velocity": 60
+  },
+  {
+    "stem": "keys",
+    "time": 11.554054054054054,
+    "duration": 0.6081081081081081,
+    "note": 82,
+    "velocity": 60
+  },
+  {
+    "stem": "keys",
+    "time": 12.162162162162161,
+    "duration": 0.6081081081081081,
+    "note": 70,
+    "velocity": 60
+  },
+  {
+    "stem": "drums",
+    "time": 9.72972972972973,
+    "duration": 0.39,
+    "note": 36,
+    "velocity": 105
+  },
+  {
+    "stem": "drums",
+    "time": 10.844594594594595,
+    "duration": 0.39,
+    "note": 36,
+    "velocity": 105
+  },
+  {
+    "stem": "drums",
+    "time": 10.54054054054054,
+    "duration": 0.21,
+    "note": 38,
+    "velocity": 108
+  },
+  {
+    "stem": "drums",
+    "time": 10.550675675675675,
+    "duration": 0.19,
+    "note": 39,
+    "velocity": 80
+  },
+  {
+    "stem": "drums",
+    "time": 9.72972972972973,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 48
+  },
+  {
+    "stem": "drums",
+    "time": 9.932432432432433,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 69
+  },
+  {
+    "stem": "drums",
+    "time": 10.135135135135135,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 48
+  },
+  {
+    "stem": "drums",
+    "time": 10.337837837837839,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 69
+  },
+  {
+    "stem": "drums",
+    "time": 10.54054054054054,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 48
+  },
+  {
+    "stem": "drums",
+    "time": 10.743243243243244,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 69
+  },
+  {
+    "stem": "drums",
+    "time": 10.945945945945946,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 48
+  },
+  {
+    "stem": "drums",
+    "time": 11.14864864864865,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 69
+  },
+  {
+    "stem": "bass",
+    "time": 9.72972972972973,
+    "duration": 0.5067567567567568,
+    "note": 39,
+    "velocity": 66
+  },
+  {
+    "stem": "bass",
+    "time": 10.337837837837839,
+    "duration": 0.20270270270270271,
+    "note": 39,
+    "velocity": 66
+  },
+  {
+    "stem": "bass",
+    "time": 10.844594594594595,
+    "duration": 0.30405405405405406,
+    "note": 39,
+    "velocity": 66
+  },
+  {
+    "stem": "bass",
+    "time": 11.14864864864865,
+    "duration": 0.14189189189189189,
+    "note": 39,
+    "velocity": 66
+  },
+  {
+    "stem": "drums",
+    "time": 11.35135135135135,
+    "duration": 0.39,
+    "note": 36,
+    "velocity": 105
+  },
+  {
+    "stem": "drums",
+    "time": 12.466216216216216,
+    "duration": 0.39,
+    "note": 36,
+    "velocity": 105
+  },
+  {
+    "stem": "drums",
+    "time": 12.162162162162161,
+    "duration": 0.21,
+    "note": 38,
+    "velocity": 108
+  },
+  {
+    "stem": "drums",
+    "time": 12.172297297297296,
+    "duration": 0.19,
+    "note": 39,
+    "velocity": 80
+  },
+  {
+    "stem": "drums",
+    "time": 11.35135135135135,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 48
+  },
+  {
+    "stem": "drums",
+    "time": 11.554054054054054,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 69
+  },
+  {
+    "stem": "drums",
+    "time": 11.756756756756756,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 48
+  },
+  {
+    "stem": "drums",
+    "time": 11.95945945945946,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 69
+  },
+  {
+    "stem": "drums",
+    "time": 12.162162162162161,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 48
+  },
+  {
+    "stem": "drums",
+    "time": 12.364864864864865,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 69
+  },
+  {
+    "stem": "drums",
+    "time": 12.567567567567567,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 48
+  },
+  {
+    "stem": "drums",
+    "time": 12.77027027027027,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 69
+  },
+  {
+    "stem": "bass",
+    "time": 11.35135135135135,
+    "duration": 0.5067567567567568,
+    "note": 39,
+    "velocity": 66
+  },
+  {
+    "stem": "bass",
+    "time": 11.95945945945946,
+    "duration": 0.20270270270270271,
+    "note": 39,
+    "velocity": 66
+  },
+  {
+    "stem": "bass",
+    "time": 12.466216216216216,
+    "duration": 0.30405405405405406,
+    "note": 39,
+    "velocity": 66
+  },
+  {
+    "stem": "bass",
+    "time": 12.77027027027027,
+    "duration": 0.14189189189189189,
+    "note": 51,
+    "velocity": 66
+  },
+  {
+    "stem": "pad",
+    "time": 12.972972972972974,
+    "duration": 3.218243243243244,
+    "note": 65,
+    "velocity": 58
+  },
+  {
+    "stem": "pad",
+    "time": 12.972972972972974,
+    "duration": 3.218243243243244,
+    "note": 68,
+    "velocity": 58
+  },
+  {
+    "stem": "pad",
+    "time": 12.972972972972974,
+    "duration": 3.218243243243244,
+    "note": 72,
+    "velocity": 58
+  },
+  {
+    "stem": "pad",
+    "time": 12.972972972972974,
+    "duration": 3.218243243243244,
+    "note": 75,
+    "velocity": 58
+  },
+  {
+    "stem": "pad",
+    "time": 12.972972972972974,
+    "duration": 3.218243243243244,
+    "note": 79,
+    "velocity": 58
+  },
+  {
+    "stem": "keys",
+    "time": 12.972972972972974,
+    "duration": 0.6081081081081081,
+    "note": 65,
+    "velocity": 60
+  },
+  {
+    "stem": "keys",
+    "time": 13.581081081081082,
+    "duration": 0.6081081081081081,
+    "note": 75,
+    "velocity": 60
+  },
+  {
+    "stem": "keys",
+    "time": 14.29054054054054,
+    "duration": 0.6081081081081081,
+    "note": 68,
+    "velocity": 60
+  },
+  {
+    "stem": "keys",
+    "time": 14.797297297297298,
+    "duration": 0.6081081081081081,
+    "note": 79,
+    "velocity": 60
+  },
+  {
+    "stem": "keys",
+    "time": 15.405405405405407,
+    "duration": 0.6081081081081081,
+    "note": 72,
+    "velocity": 60
+  },
+  {
+    "stem": "drums",
+    "time": 12.972972972972974,
+    "duration": 0.39,
+    "note": 36,
+    "velocity": 105
+  },
+  {
+    "stem": "drums",
+    "time": 14.087837837837839,
+    "duration": 0.39,
+    "note": 36,
+    "velocity": 105
+  },
+  {
+    "stem": "drums",
+    "time": 13.783783783783784,
+    "duration": 0.21,
+    "note": 38,
+    "velocity": 108
+  },
+  {
+    "stem": "drums",
+    "time": 13.79391891891892,
+    "duration": 0.19,
+    "note": 39,
+    "velocity": 80
+  },
+  {
+    "stem": "drums",
+    "time": 12.972972972972974,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 48
+  },
+  {
+    "stem": "drums",
+    "time": 13.175675675675677,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 69
+  },
+  {
+    "stem": "drums",
+    "time": 13.378378378378379,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 48
+  },
+  {
+    "stem": "drums",
+    "time": 13.581081081081082,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 69
+  },
+  {
+    "stem": "drums",
+    "time": 13.783783783783784,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 48
+  },
+  {
+    "stem": "drums",
+    "time": 13.986486486486488,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 69
+  },
+  {
+    "stem": "drums",
+    "time": 14.18918918918919,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 48
+  },
+  {
+    "stem": "drums",
+    "time": 14.391891891891893,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 69
+  },
+  {
+    "stem": "bass",
+    "time": 12.972972972972974,
+    "duration": 0.5067567567567568,
+    "note": 41,
+    "velocity": 66
+  },
+  {
+    "stem": "bass",
+    "time": 13.581081081081082,
+    "duration": 0.20270270270270271,
+    "note": 41,
+    "velocity": 66
+  },
+  {
+    "stem": "bass",
+    "time": 14.087837837837839,
+    "duration": 0.30405405405405406,
+    "note": 41,
+    "velocity": 66
+  },
+  {
+    "stem": "bass",
+    "time": 14.391891891891893,
+    "duration": 0.14189189189189189,
+    "note": 41,
+    "velocity": 66
+  },
+  {
+    "stem": "chords",
+    "time": 12.972972972972974,
+    "duration": 1.5966216216216211,
+    "note": 65,
+    "velocity": 80
+  },
+  {
+    "stem": "chords",
+    "time": 12.972972972972974,
+    "duration": 1.5966216216216211,
+    "note": 68,
+    "velocity": 80
+  },
+  {
+    "stem": "chords",
+    "time": 12.972972972972974,
+    "duration": 1.5966216216216211,
+    "note": 72,
+    "velocity": 80
+  },
+  {
+    "stem": "chords",
+    "time": 12.972972972972974,
+    "duration": 1.5966216216216211,
+    "note": 75,
+    "velocity": 80
+  },
+  {
+    "stem": "chords",
+    "time": 12.972972972972974,
+    "duration": 1.5966216216216211,
+    "note": 79,
+    "velocity": 80
+  },
+  {
+    "stem": "drums",
+    "time": 14.594594594594595,
+    "duration": 0.39,
+    "note": 36,
+    "velocity": 105
+  },
+  {
+    "stem": "drums",
+    "time": 15.70945945945946,
+    "duration": 0.39,
+    "note": 36,
+    "velocity": 105
+  },
+  {
+    "stem": "drums",
+    "time": 15.405405405405405,
+    "duration": 0.21,
+    "note": 38,
+    "velocity": 108
+  },
+  {
+    "stem": "drums",
+    "time": 15.41554054054054,
+    "duration": 0.19,
+    "note": 39,
+    "velocity": 80
+  },
+  {
+    "stem": "drums",
+    "time": 14.594594594594595,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 48
+  },
+  {
+    "stem": "drums",
+    "time": 14.797297297297298,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 69
+  },
+  {
+    "stem": "drums",
+    "time": 15.0,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 48
+  },
+  {
+    "stem": "drums",
+    "time": 15.202702702702704,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 69
+  },
+  {
+    "stem": "drums",
+    "time": 15.405405405405405,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 48
+  },
+  {
+    "stem": "drums",
+    "time": 15.608108108108109,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 69
+  },
+  {
+    "stem": "drums",
+    "time": 15.81081081081081,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 48
+  },
+  {
+    "stem": "drums",
+    "time": 16.013513513513512,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 69
+  },
+  {
+    "stem": "bass",
+    "time": 14.594594594594595,
+    "duration": 0.5067567567567568,
+    "note": 41,
+    "velocity": 66
+  },
+  {
+    "stem": "bass",
+    "time": 15.202702702702704,
+    "duration": 0.20270270270270271,
+    "note": 41,
+    "velocity": 66
+  },
+  {
+    "stem": "bass",
+    "time": 15.70945945945946,
+    "duration": 0.30405405405405406,
+    "note": 41,
+    "velocity": 66
+  },
+  {
+    "stem": "bass",
+    "time": 16.013513513513512,
+    "duration": 0.14189189189189189,
+    "note": 41,
+    "velocity": 66
+  },
+  {
+    "stem": "chords",
+    "time": 14.594594594594595,
+    "duration": 1.596621621621623,
+    "note": 65,
+    "velocity": 80
+  },
+  {
+    "stem": "chords",
+    "time": 14.594594594594595,
+    "duration": 1.596621621621623,
+    "note": 68,
+    "velocity": 80
+  },
+  {
+    "stem": "chords",
+    "time": 14.594594594594595,
+    "duration": 1.596621621621623,
+    "note": 72,
+    "velocity": 80
+  },
+  {
+    "stem": "chords",
+    "time": 14.594594594594595,
+    "duration": 1.596621621621623,
+    "note": 75,
+    "velocity": 80
+  },
+  {
+    "stem": "chords",
+    "time": 14.594594594594595,
+    "duration": 1.596621621621623,
+    "note": 79,
+    "velocity": 80
+  },
+  {
+    "stem": "pad",
+    "time": 16.216216216216218,
+    "duration": 3.218243243243242,
+    "note": 65,
+    "velocity": 58
+  },
+  {
+    "stem": "pad",
+    "time": 16.216216216216218,
+    "duration": 3.218243243243242,
+    "note": 68,
+    "velocity": 58
+  },
+  {
+    "stem": "pad",
+    "time": 16.216216216216218,
+    "duration": 3.218243243243242,
+    "note": 72,
+    "velocity": 58
+  },
+  {
+    "stem": "pad",
+    "time": 16.216216216216218,
+    "duration": 3.218243243243242,
+    "note": 75,
+    "velocity": 58
+  },
+  {
+    "stem": "pad",
+    "time": 16.216216216216218,
+    "duration": 3.218243243243242,
+    "note": 80,
+    "velocity": 58
+  },
+  {
+    "stem": "keys",
+    "time": 16.216216216216218,
+    "duration": 0.6081081081081081,
+    "note": 65,
+    "velocity": 60
+  },
+  {
+    "stem": "keys",
+    "time": 16.824324324324326,
+    "duration": 0.6081081081081081,
+    "note": 75,
+    "velocity": 60
+  },
+  {
+    "stem": "keys",
+    "time": 17.533783783783786,
+    "duration": 0.6081081081081081,
+    "note": 68,
+    "velocity": 60
+  },
+  {
+    "stem": "keys",
+    "time": 18.04054054054054,
+    "duration": 0.6081081081081081,
+    "note": 80,
+    "velocity": 60
+  },
+  {
+    "stem": "keys",
+    "time": 18.64864864864865,
+    "duration": 0.6081081081081081,
+    "note": 72,
+    "velocity": 60
+  },
+  {
+    "stem": "drums",
+    "time": 16.216216216216218,
+    "duration": 0.39,
+    "note": 36,
+    "velocity": 105
+  },
+  {
+    "stem": "drums",
+    "time": 17.33108108108108,
+    "duration": 0.39,
+    "note": 36,
+    "velocity": 105
+  },
+  {
+    "stem": "drums",
+    "time": 17.027027027027028,
+    "duration": 0.21,
+    "note": 38,
+    "velocity": 108
+  },
+  {
+    "stem": "drums",
+    "time": 17.037162162162165,
+    "duration": 0.19,
+    "note": 39,
+    "velocity": 80
+  },
+  {
+    "stem": "drums",
+    "time": 16.216216216216218,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 48
+  },
+  {
+    "stem": "drums",
+    "time": 16.41891891891892,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 69
+  },
+  {
+    "stem": "drums",
+    "time": 16.621621621621625,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 48
+  },
+  {
+    "stem": "drums",
+    "time": 16.824324324324326,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 69
+  },
+  {
+    "stem": "drums",
+    "time": 17.027027027027028,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 48
+  },
+  {
+    "stem": "drums",
+    "time": 17.22972972972973,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 69
+  },
+  {
+    "stem": "drums",
+    "time": 17.432432432432435,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 48
+  },
+  {
+    "stem": "drums",
+    "time": 17.635135135135137,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 69
+  },
+  {
+    "stem": "bass",
+    "time": 16.216216216216218,
+    "duration": 0.5067567567567568,
+    "note": 37,
+    "velocity": 66
+  },
+  {
+    "stem": "bass",
+    "time": 16.824324324324326,
+    "duration": 0.20270270270270271,
+    "note": 37,
+    "velocity": 66
+  },
+  {
+    "stem": "bass",
+    "time": 17.33108108108108,
+    "duration": 0.30405405405405406,
+    "note": 37,
+    "velocity": 66
+  },
+  {
+    "stem": "bass",
+    "time": 17.635135135135137,
+    "duration": 0.14189189189189189,
+    "note": 37,
+    "velocity": 66
+  },
+  {
+    "stem": "chords",
+    "time": 16.216216216216218,
+    "duration": 1.5966216216216211,
+    "note": 65,
+    "velocity": 80
+  },
+  {
+    "stem": "chords",
+    "time": 16.216216216216218,
+    "duration": 1.5966216216216211,
+    "note": 68,
+    "velocity": 80
+  },
+  {
+    "stem": "chords",
+    "time": 16.216216216216218,
+    "duration": 1.5966216216216211,
+    "note": 72,
+    "velocity": 80
+  },
+  {
+    "stem": "chords",
+    "time": 16.216216216216218,
+    "duration": 1.5966216216216211,
+    "note": 75,
+    "velocity": 80
+  },
+  {
+    "stem": "chords",
+    "time": 16.216216216216218,
+    "duration": 1.5966216216216211,
+    "note": 80,
+    "velocity": 80
+  },
+  {
+    "stem": "drums",
+    "time": 16.216216216216218,
+    "duration": 0.21,
+    "note": 38,
+    "velocity": 49
+  },
+  {
+    "stem": "drums",
+    "time": 16.41891891891892,
+    "duration": 0.21,
+    "note": 38,
+    "velocity": 51
+  },
+  {
+    "stem": "drums",
+    "time": 16.621621621621625,
+    "duration": 0.21,
+    "note": 38,
+    "velocity": 53
+  },
+  {
+    "stem": "drums",
+    "time": 16.824324324324326,
+    "duration": 0.21,
+    "note": 38,
+    "velocity": 55
+  },
+  {
+    "stem": "drums",
+    "time": 17.027027027027028,
+    "duration": 0.21,
+    "note": 38,
+    "velocity": 57
+  },
+  {
+    "stem": "drums",
+    "time": 17.22972972972973,
+    "duration": 0.21,
+    "note": 38,
+    "velocity": 59
+  },
+  {
+    "stem": "drums",
+    "time": 17.432432432432435,
+    "duration": 0.21,
+    "note": 38,
+    "velocity": 61
+  },
+  {
+    "stem": "drums",
+    "time": 17.635135135135137,
+    "duration": 0.20270270270270174,
+    "note": 38,
+    "velocity": 63
+  },
+  {
+    "stem": "drums",
+    "time": 17.83783783783784,
+    "duration": 0.39,
+    "note": 36,
+    "velocity": 105
+  },
+  {
+    "stem": "drums",
+    "time": 18.9527027027027,
+    "duration": 0.39,
+    "note": 36,
+    "velocity": 105
+  },
+  {
+    "stem": "drums",
+    "time": 18.64864864864865,
+    "duration": 0.21,
+    "note": 38,
+    "velocity": 108
+  },
+  {
+    "stem": "drums",
+    "time": 18.658783783783786,
+    "duration": 0.19,
+    "note": 39,
+    "velocity": 80
+  },
+  {
+    "stem": "drums",
+    "time": 17.83783783783784,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 48
+  },
+  {
+    "stem": "drums",
+    "time": 18.04054054054054,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 69
+  },
+  {
+    "stem": "drums",
+    "time": 18.243243243243246,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 48
+  },
+  {
+    "stem": "drums",
+    "time": 18.445945945945947,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 69
+  },
+  {
+    "stem": "drums",
+    "time": 18.64864864864865,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 48
+  },
+  {
+    "stem": "drums",
+    "time": 18.85135135135135,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 69
+  },
+  {
+    "stem": "drums",
+    "time": 19.054054054054056,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 48
+  },
+  {
+    "stem": "drums",
+    "time": 19.256756756756758,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 69
+  },
+  {
+    "stem": "bass",
+    "time": 17.83783783783784,
+    "duration": 0.5067567567567568,
+    "note": 37,
+    "velocity": 66
+  },
+  {
+    "stem": "bass",
+    "time": 18.445945945945947,
+    "duration": 0.20270270270270271,
+    "note": 37,
+    "velocity": 66
+  },
+  {
+    "stem": "bass",
+    "time": 18.9527027027027,
+    "duration": 0.30405405405405406,
+    "note": 37,
+    "velocity": 66
+  },
+  {
+    "stem": "bass",
+    "time": 19.256756756756758,
+    "duration": 0.14189189189189189,
+    "note": 49,
+    "velocity": 66
+  },
+  {
+    "stem": "chords",
+    "time": 17.83783783783784,
+    "duration": 1.5966216216216211,
+    "note": 65,
+    "velocity": 80
+  },
+  {
+    "stem": "chords",
+    "time": 17.83783783783784,
+    "duration": 1.5966216216216211,
+    "note": 68,
+    "velocity": 80
+  },
+  {
+    "stem": "chords",
+    "time": 17.83783783783784,
+    "duration": 1.5966216216216211,
+    "note": 72,
+    "velocity": 80
+  },
+  {
+    "stem": "chords",
+    "time": 17.83783783783784,
+    "duration": 1.5966216216216211,
+    "note": 75,
+    "velocity": 80
+  },
+  {
+    "stem": "chords",
+    "time": 17.83783783783784,
+    "duration": 1.5966216216216211,
+    "note": 80,
+    "velocity": 80
+  },
+  {
+    "stem": "drums",
+    "time": 17.83783783783784,
+    "duration": 0.21,
+    "note": 38,
+    "velocity": 49
+  },
+  {
+    "stem": "drums",
+    "time": 17.93918918918919,
+    "duration": 0.21,
+    "note": 38,
+    "velocity": 51
+  },
+  {
+    "stem": "drums",
+    "time": 18.04054054054054,
+    "duration": 0.21,
+    "note": 38,
+    "velocity": 53
+  },
+  {
+    "stem": "drums",
+    "time": 18.14189189189189,
+    "duration": 0.21,
+    "note": 38,
+    "velocity": 55
+  },
+  {
+    "stem": "drums",
+    "time": 18.243243243243246,
+    "duration": 0.21,
+    "note": 38,
+    "velocity": 57
+  },
+  {
+    "stem": "drums",
+    "time": 18.344594594594597,
+    "duration": 0.21,
+    "note": 38,
+    "velocity": 59
+  },
+  {
+    "stem": "drums",
+    "time": 18.445945945945947,
+    "duration": 0.21,
+    "note": 38,
+    "velocity": 61
+  },
+  {
+    "stem": "drums",
+    "time": 18.5472972972973,
+    "duration": 0.21,
+    "note": 38,
+    "velocity": 63
+  },
+  {
+    "stem": "drums",
+    "time": 18.64864864864865,
+    "duration": 0.21,
+    "note": 38,
+    "velocity": 65
+  },
+  {
+    "stem": "drums",
+    "time": 18.75,
+    "duration": 0.21,
+    "note": 38,
+    "velocity": 67
+  },
+  {
+    "stem": "drums",
+    "time": 18.85135135135135,
+    "duration": 0.21,
+    "note": 38,
+    "velocity": 69
+  },
+  {
+    "stem": "drums",
+    "time": 18.9527027027027,
+    "duration": 0.21,
+    "note": 38,
+    "velocity": 71
+  },
+  {
+    "stem": "drums",
+    "time": 19.054054054054056,
+    "duration": 0.21,
+    "note": 38,
+    "velocity": 73
+  },
+  {
+    "stem": "drums",
+    "time": 19.155405405405407,
+    "duration": 0.21,
+    "note": 38,
+    "velocity": 75
+  },
+  {
+    "stem": "drums",
+    "time": 19.256756756756758,
+    "duration": 0.20270270270270174,
+    "note": 38,
+    "velocity": 77
+  },
+  {
+    "stem": "drums",
+    "time": 19.35810810810811,
+    "duration": 0.10135135135135087,
+    "note": 38,
+    "velocity": 79
+  },
+  {
+    "stem": "pad",
+    "time": 19.45945945945946,
+    "duration": 3.218243243243242,
+    "note": 60,
+    "velocity": 57
+  },
+  {
+    "stem": "pad",
+    "time": 19.45945945945946,
+    "duration": 3.218243243243242,
+    "note": 63,
+    "velocity": 57
+  },
+  {
+    "stem": "pad",
+    "time": 19.45945945945946,
+    "duration": 3.218243243243242,
+    "note": 68,
+    "velocity": 57
+  },
+  {
+    "stem": "pad",
+    "time": 19.45945945945946,
+    "duration": 3.218243243243242,
+    "note": 72,
+    "velocity": 57
+  },
+  {
+    "stem": "pad",
+    "time": 19.45945945945946,
+    "duration": 3.218243243243242,
+    "note": 79,
+    "velocity": 57
+  },
+  {
+    "stem": "drums",
+    "time": 19.45945945945946,
+    "duration": 0.39,
+    "note": 36,
+    "velocity": 105
+  },
+  {
+    "stem": "drums",
+    "time": 20.574324324324323,
+    "duration": 0.39,
+    "note": 36,
+    "velocity": 105
+  },
+  {
+    "stem": "drums",
+    "time": 20.27027027027027,
+    "duration": 0.21,
+    "note": 38,
+    "velocity": 108
+  },
+  {
+    "stem": "drums",
+    "time": 20.280405405405407,
+    "duration": 0.19,
+    "note": 39,
+    "velocity": 80
+  },
+  {
+    "stem": "drums",
+    "time": 19.45945945945946,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 48
+  },
+  {
+    "stem": "drums",
+    "time": 19.66216216216216,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 69
+  },
+  {
+    "stem": "drums",
+    "time": 19.864864864864867,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 48
+  },
+  {
+    "stem": "drums",
+    "time": 20.06756756756757,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 69
+  },
+  {
+    "stem": "drums",
+    "time": 20.27027027027027,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 48
+  },
+  {
+    "stem": "drums",
+    "time": 20.472972972972972,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 69
+  },
+  {
+    "stem": "drums",
+    "time": 20.675675675675677,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 48
+  },
+  {
+    "stem": "drums",
+    "time": 20.87837837837838,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 69
+  },
+  {
+    "stem": "bass",
+    "time": 19.45945945945946,
+    "duration": 0.5067567567567568,
+    "note": 44,
+    "velocity": 74
+  },
+  {
+    "stem": "bass",
+    "time": 20.06756756756757,
+    "duration": 0.20270270270270271,
+    "note": 44,
+    "velocity": 74
+  },
+  {
+    "stem": "bass",
+    "time": 20.574324324324323,
+    "duration": 0.30405405405405406,
+    "note": 44,
+    "velocity": 74
+  },
+  {
+    "stem": "bass",
+    "time": 20.87837837837838,
+    "duration": 0.14189189189189189,
+    "note": 44,
+    "velocity": 74
+  },
+  {
+    "stem": "chords",
+    "time": 19.45945945945946,
+    "duration": 1.5966216216216211,
+    "note": 60,
+    "velocity": 80
+  },
+  {
+    "stem": "chords",
+    "time": 19.45945945945946,
+    "duration": 1.5966216216216211,
+    "note": 63,
+    "velocity": 80
+  },
+  {
+    "stem": "chords",
+    "time": 19.45945945945946,
+    "duration": 1.5966216216216211,
+    "note": 68,
+    "velocity": 80
+  },
+  {
+    "stem": "chords",
+    "time": 19.45945945945946,
+    "duration": 1.5966216216216211,
+    "note": 72,
+    "velocity": 80
+  },
+  {
+    "stem": "chords",
+    "time": 19.45945945945946,
+    "duration": 1.5966216216216211,
+    "note": 79,
+    "velocity": 80
+  },
+  {
+    "stem": "lead",
+    "time": 19.66216216216216,
+    "duration": 0.20270270270270271,
+    "note": 79,
+    "velocity": 64
+  },
+  {
+    "stem": "lead",
+    "time": 20.06756756756757,
+    "duration": 0.12162162162162163,
+    "note": 72,
+    "velocity": 64
+  },
+  {
+    "stem": "lead",
+    "time": 20.472972972972972,
+    "duration": 0.24324324324324326,
+    "note": 63,
+    "velocity": 64
+  },
+  {
+    "stem": "lead",
+    "time": 20.87837837837838,
+    "duration": 0.14189189189189189,
+    "note": 68,
+    "velocity": 64
+  },
+  {
+    "stem": "drums",
+    "time": 21.08108108108108,
+    "duration": 0.39,
+    "note": 36,
+    "velocity": 105
+  },
+  {
+    "stem": "drums",
+    "time": 21.68918918918919,
+    "duration": 0.39,
+    "note": 36,
+    "velocity": 105
+  },
+  {
+    "stem": "drums",
+    "time": 22.39864864864865,
+    "duration": 0.3040540540540526,
+    "note": 36,
+    "velocity": 105
+  },
+  {
+    "stem": "drums",
+    "time": 21.89189189189189,
+    "duration": 0.21,
+    "note": 38,
+    "velocity": 108
+  },
+  {
+    "stem": "drums",
+    "time": 21.902027027027028,
+    "duration": 0.19,
+    "note": 39,
+    "velocity": 80
+  },
+  {
+    "stem": "drums",
+    "time": 21.08108108108108,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 48
+  },
+  {
+    "stem": "drums",
+    "time": 21.283783783783782,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 69
+  },
+  {
+    "stem": "drums",
+    "time": 21.486486486486488,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 48
+  },
+  {
+    "stem": "drums",
+    "time": 21.68918918918919,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 69
+  },
+  {
+    "stem": "drums",
+    "time": 21.89189189189189,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 48
+  },
+  {
+    "stem": "drums",
+    "time": 22.094594594594593,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 69
+  },
+  {
+    "stem": "drums",
+    "time": 22.2972972972973,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 48
+  },
+  {
+    "stem": "drums",
+    "time": 22.5,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 69
+  },
+  {
+    "stem": "bass",
+    "time": 21.08108108108108,
+    "duration": 0.5067567567567568,
+    "note": 44,
+    "velocity": 74
+  },
+  {
+    "stem": "bass",
+    "time": 21.68918918918919,
+    "duration": 0.20270270270270271,
+    "note": 44,
+    "velocity": 74
+  },
+  {
+    "stem": "bass",
+    "time": 22.195945945945944,
+    "duration": 0.30405405405405406,
+    "note": 44,
+    "velocity": 74
+  },
+  {
+    "stem": "bass",
+    "time": 22.5,
+    "duration": 0.14189189189189189,
+    "note": 44,
+    "velocity": 74
+  },
+  {
+    "stem": "chords",
+    "time": 21.08108108108108,
+    "duration": 1.5966216216216211,
+    "note": 60,
+    "velocity": 80
+  },
+  {
+    "stem": "chords",
+    "time": 21.08108108108108,
+    "duration": 1.5966216216216211,
+    "note": 63,
+    "velocity": 80
+  },
+  {
+    "stem": "chords",
+    "time": 21.08108108108108,
+    "duration": 1.5966216216216211,
+    "note": 68,
+    "velocity": 80
+  },
+  {
+    "stem": "chords",
+    "time": 21.08108108108108,
+    "duration": 1.5966216216216211,
+    "note": 72,
+    "velocity": 80
+  },
+  {
+    "stem": "chords",
+    "time": 21.08108108108108,
+    "duration": 1.5966216216216211,
+    "note": 79,
+    "velocity": 80
+  },
+  {
+    "stem": "lead",
+    "time": 21.08108108108108,
+    "duration": 0.30405405405405406,
+    "note": 68,
+    "velocity": 64
+  },
+  {
+    "stem": "lead",
+    "time": 21.58783783783784,
+    "duration": 0.222972972972973,
+    "note": 63,
+    "velocity": 64
+  },
+  {
+    "stem": "lead",
+    "time": 22.094594594594593,
+    "duration": 0.38513513513513514,
+    "note": 60,
+    "velocity": 64
+  },
+  {
+    "stem": "pad",
+    "time": 22.7027027027027,
+    "duration": 3.218243243243242,
+    "note": 63,
+    "velocity": 57
+  },
+  {
+    "stem": "pad",
+    "time": 22.7027027027027,
+    "duration": 3.218243243243242,
+    "note": 67,
+    "velocity": 57
+  },
+  {
+    "stem": "pad",
+    "time": 22.7027027027027,
+    "duration": 3.218243243243242,
+    "note": 70,
+    "velocity": 57
+  },
+  {
+    "stem": "pad",
+    "time": 22.7027027027027,
+    "duration": 3.218243243243242,
+    "note": 77,
+    "velocity": 57
+  },
+  {
+    "stem": "pad",
+    "time": 22.7027027027027,
+    "duration": 3.218243243243242,
+    "note": 82,
+    "velocity": 57
+  },
+  {
+    "stem": "drums",
+    "time": 22.7027027027027,
+    "duration": 0.39,
+    "note": 36,
+    "velocity": 105
+  },
+  {
+    "stem": "drums",
+    "time": 23.817567567567565,
+    "duration": 0.39,
+    "note": 36,
+    "velocity": 105
+  },
+  {
+    "stem": "drums",
+    "time": 23.513513513513512,
+    "duration": 0.21,
+    "note": 38,
+    "velocity": 108
+  },
+  {
+    "stem": "drums",
+    "time": 23.52364864864865,
+    "duration": 0.19,
+    "note": 39,
+    "velocity": 80
+  },
+  {
+    "stem": "drums",
+    "time": 22.7027027027027,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 48
+  },
+  {
+    "stem": "drums",
+    "time": 22.905405405405403,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 69
+  },
+  {
+    "stem": "drums",
+    "time": 23.10810810810811,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 48
+  },
+  {
+    "stem": "drums",
+    "time": 23.31081081081081,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 69
+  },
+  {
+    "stem": "drums",
+    "time": 23.513513513513512,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 48
+  },
+  {
+    "stem": "drums",
+    "time": 23.716216216216214,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 69
+  },
+  {
+    "stem": "drums",
+    "time": 23.91891891891892,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 48
+  },
+  {
+    "stem": "drums",
+    "time": 24.12162162162162,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 69
+  },
+  {
+    "stem": "bass",
+    "time": 22.7027027027027,
+    "duration": 0.5067567567567568,
+    "note": 39,
+    "velocity": 74
+  },
+  {
+    "stem": "bass",
+    "time": 23.31081081081081,
+    "duration": 0.20270270270270271,
+    "note": 39,
+    "velocity": 74
+  },
+  {
+    "stem": "bass",
+    "time": 23.817567567567565,
+    "duration": 0.30405405405405406,
+    "note": 39,
+    "velocity": 74
+  },
+  {
+    "stem": "bass",
+    "time": 24.12162162162162,
+    "duration": 0.14189189189189189,
+    "note": 39,
+    "velocity": 74
+  },
+  {
+    "stem": "chords",
+    "time": 22.7027027027027,
+    "duration": 1.5966216216216211,
+    "note": 63,
+    "velocity": 80
+  },
+  {
+    "stem": "chords",
+    "time": 22.7027027027027,
+    "duration": 1.5966216216216211,
+    "note": 67,
+    "velocity": 80
+  },
+  {
+    "stem": "chords",
+    "time": 22.7027027027027,
+    "duration": 1.5966216216216211,
+    "note": 70,
+    "velocity": 80
+  },
+  {
+    "stem": "chords",
+    "time": 22.7027027027027,
+    "duration": 1.5966216216216211,
+    "note": 77,
+    "velocity": 80
+  },
+  {
+    "stem": "chords",
+    "time": 22.7027027027027,
+    "duration": 1.5966216216216211,
+    "note": 82,
+    "velocity": 80
+  },
+  {
+    "stem": "drums",
+    "time": 24.324324324324323,
+    "duration": 0.39,
+    "note": 36,
+    "velocity": 105
+  },
+  {
+    "stem": "drums",
+    "time": 24.93243243243243,
+    "duration": 0.39,
+    "note": 36,
+    "velocity": 105
+  },
+  {
+    "stem": "drums",
+    "time": 25.64189189189189,
+    "duration": 0.3040540540540526,
+    "note": 36,
+    "velocity": 105
+  },
+  {
+    "stem": "drums",
+    "time": 25.135135135135133,
+    "duration": 0.21,
+    "note": 38,
+    "velocity": 108
+  },
+  {
+    "stem": "drums",
+    "time": 25.14527027027027,
+    "duration": 0.19,
+    "note": 39,
+    "velocity": 80
+  },
+  {
+    "stem": "drums",
+    "time": 24.324324324324323,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 48
+  },
+  {
+    "stem": "drums",
+    "time": 24.527027027027025,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 69
+  },
+  {
+    "stem": "drums",
+    "time": 24.72972972972973,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 48
+  },
+  {
+    "stem": "drums",
+    "time": 24.93243243243243,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 69
+  },
+  {
+    "stem": "drums",
+    "time": 25.135135135135133,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 48
+  },
+  {
+    "stem": "drums",
+    "time": 25.337837837837835,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 69
+  },
+  {
+    "stem": "drums",
+    "time": 25.54054054054054,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 48
+  },
+  {
+    "stem": "drums",
+    "time": 25.743243243243242,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 69
+  },
+  {
+    "stem": "drums",
+    "time": 25.64189189189189,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 50
+  },
+  {
+    "stem": "drums",
+    "time": 25.692567567567565,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 50
+  },
+  {
+    "stem": "drums",
+    "time": 25.79391891891892,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 50
+  },
+  {
+    "stem": "drums",
+    "time": 25.844594594594593,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 50
+  },
+  {
+    "stem": "drums",
+    "time": 25.89527027027027,
+    "duration": 0.05067567567567366,
+    "note": 42,
+    "velocity": 50
+  },
+  {
+    "stem": "bass",
+    "time": 24.324324324324323,
+    "duration": 0.5067567567567568,
+    "note": 39,
+    "velocity": 74
+  },
+  {
+    "stem": "bass",
+    "time": 24.93243243243243,
+    "duration": 0.20270270270270271,
+    "note": 39,
+    "velocity": 74
+  },
+  {
+    "stem": "bass",
+    "time": 25.439189189189186,
+    "duration": 0.30405405405405406,
+    "note": 39,
+    "velocity": 74
+  },
+  {
+    "stem": "bass",
+    "time": 25.743243243243242,
+    "duration": 0.14189189189189189,
+    "note": 51,
+    "velocity": 74
+  },
+  {
+    "stem": "chords",
+    "time": 24.324324324324323,
+    "duration": 1.5966216216216211,
+    "note": 63,
+    "velocity": 80
+  },
+  {
+    "stem": "chords",
+    "time": 24.324324324324323,
+    "duration": 1.5966216216216211,
+    "note": 67,
+    "velocity": 80
+  },
+  {
+    "stem": "chords",
+    "time": 24.324324324324323,
+    "duration": 1.5966216216216211,
+    "note": 70,
+    "velocity": 80
+  },
+  {
+    "stem": "chords",
+    "time": 24.324324324324323,
+    "duration": 1.5966216216216211,
+    "note": 77,
+    "velocity": 80
+  },
+  {
+    "stem": "chords",
+    "time": 24.324324324324323,
+    "duration": 1.5966216216216211,
+    "note": 82,
+    "velocity": 80
+  },
+  {
+    "stem": "lead",
+    "time": 24.324324324324323,
+    "duration": 0.30405405405405406,
+    "note": 70,
+    "velocity": 64
+  },
+  {
+    "stem": "lead",
+    "time": 24.83108108108108,
+    "duration": 0.222972972972973,
+    "note": 67,
+    "velocity": 64
+  },
+  {
+    "stem": "lead",
+    "time": 25.337837837837835,
+    "duration": 0.38513513513513514,
+    "note": 63,
+    "velocity": 64
+  },
+  {
+    "stem": "pad",
+    "time": 25.945945945945944,
+    "duration": 3.218243243243242,
+    "note": 65,
+    "velocity": 57
+  },
+  {
+    "stem": "pad",
+    "time": 25.945945945945944,
+    "duration": 3.218243243243242,
+    "note": 68,
+    "velocity": 57
+  },
+  {
+    "stem": "pad",
+    "time": 25.945945945945944,
+    "duration": 3.218243243243242,
+    "note": 72,
+    "velocity": 57
+  },
+  {
+    "stem": "pad",
+    "time": 25.945945945945944,
+    "duration": 3.218243243243242,
+    "note": 75,
+    "velocity": 57
+  },
+  {
+    "stem": "pad",
+    "time": 25.945945945945944,
+    "duration": 3.218243243243242,
+    "note": 79,
+    "velocity": 57
+  },
+  {
+    "stem": "drums",
+    "time": 25.945945945945944,
+    "duration": 0.39,
+    "note": 36,
+    "velocity": 105
+  },
+  {
+    "stem": "drums",
+    "time": 27.060810810810807,
+    "duration": 0.39,
+    "note": 36,
+    "velocity": 105
+  },
+  {
+    "stem": "drums",
+    "time": 26.756756756756754,
+    "duration": 0.21,
+    "note": 38,
+    "velocity": 108
+  },
+  {
+    "stem": "drums",
+    "time": 26.76689189189189,
+    "duration": 0.19,
+    "note": 39,
+    "velocity": 80
+  },
+  {
+    "stem": "drums",
+    "time": 25.945945945945944,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 48
+  },
+  {
+    "stem": "drums",
+    "time": 26.148648648648646,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 69
+  },
+  {
+    "stem": "drums",
+    "time": 26.35135135135135,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 48
+  },
+  {
+    "stem": "drums",
+    "time": 26.554054054054053,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 69
+  },
+  {
+    "stem": "drums",
+    "time": 26.756756756756754,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 48
+  },
+  {
+    "stem": "drums",
+    "time": 26.959459459459456,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 69
+  },
+  {
+    "stem": "drums",
+    "time": 27.16216216216216,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 48
+  },
+  {
+    "stem": "drums",
+    "time": 27.364864864864863,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 69
+  },
+  {
+    "stem": "bass",
+    "time": 25.945945945945944,
+    "duration": 0.5067567567567568,
+    "note": 41,
+    "velocity": 74
+  },
+  {
+    "stem": "bass",
+    "time": 26.554054054054053,
+    "duration": 0.20270270270270271,
+    "note": 41,
+    "velocity": 74
+  },
+  {
+    "stem": "bass",
+    "time": 27.060810810810807,
+    "duration": 0.30405405405405406,
+    "note": 41,
+    "velocity": 74
+  },
+  {
+    "stem": "bass",
+    "time": 27.364864864864863,
+    "duration": 0.14189189189189189,
+    "note": 41,
+    "velocity": 74
+  },
+  {
+    "stem": "chords",
+    "time": 25.945945945945944,
+    "duration": 1.5966216216216211,
+    "note": 65,
+    "velocity": 80
+  },
+  {
+    "stem": "chords",
+    "time": 25.945945945945944,
+    "duration": 1.5966216216216211,
+    "note": 68,
+    "velocity": 80
+  },
+  {
+    "stem": "chords",
+    "time": 25.945945945945944,
+    "duration": 1.5966216216216211,
+    "note": 72,
+    "velocity": 80
+  },
+  {
+    "stem": "chords",
+    "time": 25.945945945945944,
+    "duration": 1.5966216216216211,
+    "note": 75,
+    "velocity": 80
+  },
+  {
+    "stem": "chords",
+    "time": 25.945945945945944,
+    "duration": 1.5966216216216211,
+    "note": 79,
+    "velocity": 80
+  },
+  {
+    "stem": "lead",
+    "time": 26.148648648648646,
+    "duration": 0.20270270270270271,
+    "note": 79,
+    "velocity": 64
+  },
+  {
+    "stem": "lead",
+    "time": 26.554054054054053,
+    "duration": 0.12162162162162163,
+    "note": 75,
+    "velocity": 64
+  },
+  {
+    "stem": "lead",
+    "time": 26.959459459459456,
+    "duration": 0.24324324324324326,
+    "note": 68,
+    "velocity": 64
+  },
+  {
+    "stem": "lead",
+    "time": 27.364864864864863,
+    "duration": 0.14189189189189189,
+    "note": 72,
+    "velocity": 64
+  },
+  {
+    "stem": "drums",
+    "time": 27.567567567567565,
+    "duration": 0.39,
+    "note": 36,
+    "velocity": 105
+  },
+  {
+    "stem": "drums",
+    "time": 28.175675675675674,
+    "duration": 0.39,
+    "note": 36,
+    "velocity": 105
+  },
+  {
+    "stem": "drums",
+    "time": 28.885135135135133,
+    "duration": 0.3040540540540526,
+    "note": 36,
+    "velocity": 105
+  },
+  {
+    "stem": "drums",
+    "time": 28.378378378378375,
+    "duration": 0.21,
+    "note": 38,
+    "velocity": 108
+  },
+  {
+    "stem": "drums",
+    "time": 28.388513513513512,
+    "duration": 0.19,
+    "note": 39,
+    "velocity": 80
+  },
+  {
+    "stem": "drums",
+    "time": 27.567567567567565,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 48
+  },
+  {
+    "stem": "drums",
+    "time": 27.770270270270267,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 69
+  },
+  {
+    "stem": "drums",
+    "time": 27.972972972972972,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 48
+  },
+  {
+    "stem": "drums",
+    "time": 28.175675675675674,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 69
+  },
+  {
+    "stem": "drums",
+    "time": 28.378378378378375,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 48
+  },
+  {
+    "stem": "drums",
+    "time": 28.581081081081077,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 69
+  },
+  {
+    "stem": "drums",
+    "time": 28.783783783783782,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 48
+  },
+  {
+    "stem": "drums",
+    "time": 28.986486486486484,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 69
+  },
+  {
+    "stem": "bass",
+    "time": 27.567567567567565,
+    "duration": 0.5067567567567568,
+    "note": 41,
+    "velocity": 74
+  },
+  {
+    "stem": "bass",
+    "time": 28.175675675675674,
+    "duration": 0.20270270270270271,
+    "note": 41,
+    "velocity": 74
+  },
+  {
+    "stem": "bass",
+    "time": 28.682432432432428,
+    "duration": 0.30405405405405406,
+    "note": 41,
+    "velocity": 74
+  },
+  {
+    "stem": "bass",
+    "time": 28.986486486486484,
+    "duration": 0.14189189189189189,
+    "note": 41,
+    "velocity": 74
+  },
+  {
+    "stem": "chords",
+    "time": 27.567567567567565,
+    "duration": 1.5966216216216211,
+    "note": 65,
+    "velocity": 80
+  },
+  {
+    "stem": "chords",
+    "time": 27.567567567567565,
+    "duration": 1.5966216216216211,
+    "note": 68,
+    "velocity": 80
+  },
+  {
+    "stem": "chords",
+    "time": 27.567567567567565,
+    "duration": 1.5966216216216211,
+    "note": 72,
+    "velocity": 80
+  },
+  {
+    "stem": "chords",
+    "time": 27.567567567567565,
+    "duration": 1.5966216216216211,
+    "note": 75,
+    "velocity": 80
+  },
+  {
+    "stem": "chords",
+    "time": 27.567567567567565,
+    "duration": 1.5966216216216211,
+    "note": 79,
+    "velocity": 80
+  },
+  {
+    "stem": "lead",
+    "time": 27.567567567567565,
+    "duration": 0.30405405405405406,
+    "note": 72,
+    "velocity": 64
+  },
+  {
+    "stem": "lead",
+    "time": 28.074324324324323,
+    "duration": 0.222972972972973,
+    "note": 68,
+    "velocity": 64
+  },
+  {
+    "stem": "lead",
+    "time": 28.581081081081077,
+    "duration": 0.38513513513513514,
+    "note": 65,
+    "velocity": 64
+  },
+  {
+    "stem": "pad",
+    "time": 29.189189189189186,
+    "duration": 3.218243243243242,
+    "note": 65,
+    "velocity": 57
+  },
+  {
+    "stem": "pad",
+    "time": 29.189189189189186,
+    "duration": 3.218243243243242,
+    "note": 68,
+    "velocity": 57
+  },
+  {
+    "stem": "pad",
+    "time": 29.189189189189186,
+    "duration": 3.218243243243242,
+    "note": 72,
+    "velocity": 57
+  },
+  {
+    "stem": "pad",
+    "time": 29.189189189189186,
+    "duration": 3.218243243243242,
+    "note": 75,
+    "velocity": 57
+  },
+  {
+    "stem": "pad",
+    "time": 29.189189189189186,
+    "duration": 3.218243243243242,
+    "note": 80,
+    "velocity": 57
+  },
+  {
+    "stem": "drums",
+    "time": 29.189189189189186,
+    "duration": 0.39,
+    "note": 36,
+    "velocity": 105
+  },
+  {
+    "stem": "drums",
+    "time": 30.30405405405405,
+    "duration": 0.39,
+    "note": 36,
+    "velocity": 105
+  },
+  {
+    "stem": "drums",
+    "time": 29.999999999999996,
+    "duration": 0.21,
+    "note": 38,
+    "velocity": 108
+  },
+  {
+    "stem": "drums",
+    "time": 30.010135135135133,
+    "duration": 0.19,
+    "note": 39,
+    "velocity": 80
+  },
+  {
+    "stem": "drums",
+    "time": 29.189189189189186,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 48
+  },
+  {
+    "stem": "drums",
+    "time": 29.391891891891888,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 69
+  },
+  {
+    "stem": "drums",
+    "time": 29.594594594594593,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 48
+  },
+  {
+    "stem": "drums",
+    "time": 29.797297297297295,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 69
+  },
+  {
+    "stem": "drums",
+    "time": 29.999999999999996,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 48
+  },
+  {
+    "stem": "drums",
+    "time": 30.202702702702698,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 69
+  },
+  {
+    "stem": "drums",
+    "time": 30.405405405405403,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 48
+  },
+  {
+    "stem": "drums",
+    "time": 30.608108108108105,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 69
+  },
+  {
+    "stem": "bass",
+    "time": 29.189189189189186,
+    "duration": 0.5067567567567568,
+    "note": 37,
+    "velocity": 74
+  },
+  {
+    "stem": "bass",
+    "time": 29.797297297297295,
+    "duration": 0.20270270270270271,
+    "note": 37,
+    "velocity": 74
+  },
+  {
+    "stem": "bass",
+    "time": 30.30405405405405,
+    "duration": 0.30405405405405406,
+    "note": 37,
+    "velocity": 74
+  },
+  {
+    "stem": "bass",
+    "time": 30.608108108108105,
+    "duration": 0.14189189189189189,
+    "note": 37,
+    "velocity": 74
+  },
+  {
+    "stem": "chords",
+    "time": 29.189189189189186,
+    "duration": 1.5966216216216211,
+    "note": 65,
+    "velocity": 80
+  },
+  {
+    "stem": "chords",
+    "time": 29.189189189189186,
+    "duration": 1.5966216216216211,
+    "note": 68,
+    "velocity": 80
+  },
+  {
+    "stem": "chords",
+    "time": 29.189189189189186,
+    "duration": 1.5966216216216211,
+    "note": 72,
+    "velocity": 80
+  },
+  {
+    "stem": "chords",
+    "time": 29.189189189189186,
+    "duration": 1.5966216216216211,
+    "note": 75,
+    "velocity": 80
+  },
+  {
+    "stem": "chords",
+    "time": 29.189189189189186,
+    "duration": 1.5966216216216211,
+    "note": 80,
+    "velocity": 80
+  },
+  {
+    "stem": "drums",
+    "time": 30.810810810810807,
+    "duration": 0.39,
+    "note": 36,
+    "velocity": 105
+  },
+  {
+    "stem": "drums",
+    "time": 31.418918918918916,
+    "duration": 0.39,
+    "note": 36,
+    "velocity": 105
+  },
+  {
+    "stem": "drums",
+    "time": 32.12837837837837,
+    "duration": 0.30405405405405617,
+    "note": 36,
+    "velocity": 105
+  },
+  {
+    "stem": "drums",
+    "time": 31.621621621621617,
+    "duration": 0.21,
+    "note": 38,
+    "velocity": 108
+  },
+  {
+    "stem": "drums",
+    "time": 31.631756756756754,
+    "duration": 0.19,
+    "note": 39,
+    "velocity": 80
+  },
+  {
+    "stem": "drums",
+    "time": 30.810810810810807,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 48
+  },
+  {
+    "stem": "drums",
+    "time": 31.01351351351351,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 69
+  },
+  {
+    "stem": "drums",
+    "time": 31.216216216216214,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 48
+  },
+  {
+    "stem": "drums",
+    "time": 31.418918918918916,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 69
+  },
+  {
+    "stem": "drums",
+    "time": 31.621621621621617,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 48
+  },
+  {
+    "stem": "drums",
+    "time": 31.82432432432432,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 69
+  },
+  {
+    "stem": "drums",
+    "time": 32.027027027027025,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 48
+  },
+  {
+    "stem": "drums",
+    "time": 32.229729729729726,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 69
+  },
+  {
+    "stem": "drums",
+    "time": 32.12837837837837,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 50
+  },
+  {
+    "stem": "drums",
+    "time": 32.17905405405405,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 50
+  },
+  {
+    "stem": "drums",
+    "time": 32.2804054054054,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 50
+  },
+  {
+    "stem": "drums",
+    "time": 32.33108108108108,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 50
+  },
+  {
+    "stem": "drums",
+    "time": 32.38175675675675,
+    "duration": 0.05067567567567721,
+    "note": 42,
+    "velocity": 50
+  },
+  {
+    "stem": "bass",
+    "time": 30.810810810810807,
+    "duration": 0.5067567567567568,
+    "note": 37,
+    "velocity": 74
+  },
+  {
+    "stem": "bass",
+    "time": 31.418918918918916,
+    "duration": 0.20270270270270271,
+    "note": 37,
+    "velocity": 74
+  },
+  {
+    "stem": "bass",
+    "time": 31.92567567567567,
+    "duration": 0.30405405405405406,
+    "note": 37,
+    "velocity": 74
+  },
+  {
+    "stem": "bass",
+    "time": 32.229729729729726,
+    "duration": 0.14189189189189189,
+    "note": 49,
+    "velocity": 74
+  },
+  {
+    "stem": "chords",
+    "time": 30.810810810810807,
+    "duration": 1.5966216216216211,
+    "note": 65,
+    "velocity": 80
+  },
+  {
+    "stem": "chords",
+    "time": 30.810810810810807,
+    "duration": 1.5966216216216211,
+    "note": 68,
+    "velocity": 80
+  },
+  {
+    "stem": "chords",
+    "time": 30.810810810810807,
+    "duration": 1.5966216216216211,
+    "note": 72,
+    "velocity": 80
+  },
+  {
+    "stem": "chords",
+    "time": 30.810810810810807,
+    "duration": 1.5966216216216211,
+    "note": 75,
+    "velocity": 80
+  },
+  {
+    "stem": "chords",
+    "time": 30.810810810810807,
+    "duration": 1.5966216216216211,
+    "note": 80,
+    "velocity": 80
+  },
+  {
+    "stem": "lead",
+    "time": 30.810810810810807,
+    "duration": 0.30405405405405406,
+    "note": 72,
+    "velocity": 64
+  },
+  {
+    "stem": "lead",
+    "time": 31.317567567567565,
+    "duration": 0.222972972972973,
+    "note": 68,
+    "velocity": 64
+  },
+  {
+    "stem": "lead",
+    "time": 31.82432432432432,
+    "duration": 0.38513513513513514,
+    "note": 65,
+    "velocity": 64
+  },
+  {
+    "stem": "pad",
+    "time": 32.43243243243243,
+    "duration": 3.218243243243242,
+    "note": 60,
+    "velocity": 57
+  },
+  {
+    "stem": "pad",
+    "time": 32.43243243243243,
+    "duration": 3.218243243243242,
+    "note": 63,
+    "velocity": 57
+  },
+  {
+    "stem": "pad",
+    "time": 32.43243243243243,
+    "duration": 3.218243243243242,
+    "note": 68,
+    "velocity": 57
+  },
+  {
+    "stem": "pad",
+    "time": 32.43243243243243,
+    "duration": 3.218243243243242,
+    "note": 72,
+    "velocity": 57
+  },
+  {
+    "stem": "pad",
+    "time": 32.43243243243243,
+    "duration": 3.218243243243242,
+    "note": 79,
+    "velocity": 57
+  },
+  {
+    "stem": "drums",
+    "time": 32.43243243243243,
+    "duration": 0.39,
+    "note": 36,
+    "velocity": 105
+  },
+  {
+    "stem": "drums",
+    "time": 33.54729729729729,
+    "duration": 0.39,
+    "note": 36,
+    "velocity": 105
+  },
+  {
+    "stem": "drums",
+    "time": 33.24324324324324,
+    "duration": 0.21,
+    "note": 38,
+    "velocity": 108
+  },
+  {
+    "stem": "drums",
+    "time": 33.25337837837837,
+    "duration": 0.19,
+    "note": 39,
+    "velocity": 80
+  },
+  {
+    "stem": "drums",
+    "time": 32.43243243243243,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 48
+  },
+  {
+    "stem": "drums",
+    "time": 32.63513513513513,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 69
+  },
+  {
+    "stem": "drums",
+    "time": 32.83783783783783,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 48
+  },
+  {
+    "stem": "drums",
+    "time": 33.04054054054053,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 69
+  },
+  {
+    "stem": "drums",
+    "time": 33.24324324324324,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 48
+  },
+  {
+    "stem": "drums",
+    "time": 33.445945945945944,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 69
+  },
+  {
+    "stem": "drums",
+    "time": 33.648648648648646,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 48
+  },
+  {
+    "stem": "drums",
+    "time": 33.85135135135135,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 69
+  },
+  {
+    "stem": "bass",
+    "time": 32.43243243243243,
+    "duration": 0.5067567567567568,
+    "note": 44,
+    "velocity": 74
+  },
+  {
+    "stem": "bass",
+    "time": 33.04054054054053,
+    "duration": 0.20270270270270271,
+    "note": 44,
+    "velocity": 74
+  },
+  {
+    "stem": "bass",
+    "time": 33.54729729729729,
+    "duration": 0.30405405405405406,
+    "note": 44,
+    "velocity": 74
+  },
+  {
+    "stem": "bass",
+    "time": 33.85135135135135,
+    "duration": 0.14189189189189189,
+    "note": 44,
+    "velocity": 74
+  },
+  {
+    "stem": "chords",
+    "time": 32.43243243243243,
+    "duration": 1.5966216216216211,
+    "note": 60,
+    "velocity": 80
+  },
+  {
+    "stem": "chords",
+    "time": 32.43243243243243,
+    "duration": 1.5966216216216211,
+    "note": 63,
+    "velocity": 80
+  },
+  {
+    "stem": "chords",
+    "time": 32.43243243243243,
+    "duration": 1.5966216216216211,
+    "note": 68,
+    "velocity": 80
+  },
+  {
+    "stem": "chords",
+    "time": 32.43243243243243,
+    "duration": 1.5966216216216211,
+    "note": 72,
+    "velocity": 80
+  },
+  {
+    "stem": "chords",
+    "time": 32.43243243243243,
+    "duration": 1.5966216216216211,
+    "note": 79,
+    "velocity": 80
+  },
+  {
+    "stem": "lead",
+    "time": 32.63513513513513,
+    "duration": 0.20270270270270271,
+    "note": 79,
+    "velocity": 64
+  },
+  {
+    "stem": "lead",
+    "time": 33.04054054054053,
+    "duration": 0.12162162162162163,
+    "note": 72,
+    "velocity": 64
+  },
+  {
+    "stem": "lead",
+    "time": 33.445945945945944,
+    "duration": 0.24324324324324326,
+    "note": 63,
+    "velocity": 64
+  },
+  {
+    "stem": "lead",
+    "time": 33.85135135135135,
+    "duration": 0.14189189189189189,
+    "note": 68,
+    "velocity": 64
+  },
+  {
+    "stem": "drums",
+    "time": 34.05405405405405,
+    "duration": 0.39,
+    "note": 36,
+    "velocity": 105
+  },
+  {
+    "stem": "drums",
+    "time": 34.662162162162154,
+    "duration": 0.39,
+    "note": 36,
+    "velocity": 105
+  },
+  {
+    "stem": "drums",
+    "time": 35.371621621621614,
+    "duration": 0.30405405405405617,
+    "note": 36,
+    "velocity": 105
+  },
+  {
+    "stem": "drums",
+    "time": 34.86486486486486,
+    "duration": 0.21,
+    "note": 38,
+    "velocity": 108
+  },
+  {
+    "stem": "drums",
+    "time": 34.87499999999999,
+    "duration": 0.19,
+    "note": 39,
+    "velocity": 80
+  },
+  {
+    "stem": "drums",
+    "time": 34.05405405405405,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 48
+  },
+  {
+    "stem": "drums",
+    "time": 34.25675675675675,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 69
+  },
+  {
+    "stem": "drums",
+    "time": 34.45945945945945,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 48
+  },
+  {
+    "stem": "drums",
+    "time": 34.662162162162154,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 69
+  },
+  {
+    "stem": "drums",
+    "time": 34.86486486486486,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 48
+  },
+  {
+    "stem": "drums",
+    "time": 35.067567567567565,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 69
+  },
+  {
+    "stem": "drums",
+    "time": 35.27027027027027,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 48
+  },
+  {
+    "stem": "drums",
+    "time": 35.47297297297297,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 69
+  },
+  {
+    "stem": "bass",
+    "time": 34.05405405405405,
+    "duration": 0.5067567567567568,
+    "note": 44,
+    "velocity": 74
+  },
+  {
+    "stem": "bass",
+    "time": 34.662162162162154,
+    "duration": 0.20270270270270271,
+    "note": 44,
+    "velocity": 74
+  },
+  {
+    "stem": "bass",
+    "time": 35.16891891891891,
+    "duration": 0.30405405405405406,
+    "note": 44,
+    "velocity": 74
+  },
+  {
+    "stem": "bass",
+    "time": 35.47297297297297,
+    "duration": 0.14189189189189189,
+    "note": 44,
+    "velocity": 74
+  },
+  {
+    "stem": "chords",
+    "time": 34.05405405405405,
+    "duration": 1.5966216216216211,
+    "note": 60,
+    "velocity": 80
+  },
+  {
+    "stem": "chords",
+    "time": 34.05405405405405,
+    "duration": 1.5966216216216211,
+    "note": 63,
+    "velocity": 80
+  },
+  {
+    "stem": "chords",
+    "time": 34.05405405405405,
+    "duration": 1.5966216216216211,
+    "note": 68,
+    "velocity": 80
+  },
+  {
+    "stem": "chords",
+    "time": 34.05405405405405,
+    "duration": 1.5966216216216211,
+    "note": 72,
+    "velocity": 80
+  },
+  {
+    "stem": "chords",
+    "time": 34.05405405405405,
+    "duration": 1.5966216216216211,
+    "note": 79,
+    "velocity": 80
+  },
+  {
+    "stem": "lead",
+    "time": 34.05405405405405,
+    "duration": 0.30405405405405406,
+    "note": 68,
+    "velocity": 64
+  },
+  {
+    "stem": "lead",
+    "time": 34.56081081081081,
+    "duration": 0.222972972972973,
+    "note": 63,
+    "velocity": 64
+  },
+  {
+    "stem": "lead",
+    "time": 35.067567567567565,
+    "duration": 0.38513513513513514,
+    "note": 60,
+    "velocity": 64
+  },
+  {
+    "stem": "pad",
+    "time": 35.67567567567567,
+    "duration": 3.218243243243242,
+    "note": 63,
+    "velocity": 57
+  },
+  {
+    "stem": "pad",
+    "time": 35.67567567567567,
+    "duration": 3.218243243243242,
+    "note": 67,
+    "velocity": 57
+  },
+  {
+    "stem": "pad",
+    "time": 35.67567567567567,
+    "duration": 3.218243243243242,
+    "note": 70,
+    "velocity": 57
+  },
+  {
+    "stem": "pad",
+    "time": 35.67567567567567,
+    "duration": 3.218243243243242,
+    "note": 77,
+    "velocity": 57
+  },
+  {
+    "stem": "pad",
+    "time": 35.67567567567567,
+    "duration": 3.218243243243242,
+    "note": 82,
+    "velocity": 57
+  },
+  {
+    "stem": "drums",
+    "time": 35.67567567567567,
+    "duration": 0.39,
+    "note": 36,
+    "velocity": 105
+  },
+  {
+    "stem": "drums",
+    "time": 36.79054054054053,
+    "duration": 0.39,
+    "note": 36,
+    "velocity": 105
+  },
+  {
+    "stem": "drums",
+    "time": 36.486486486486484,
+    "duration": 0.21,
+    "note": 38,
+    "velocity": 108
+  },
+  {
+    "stem": "drums",
+    "time": 36.496621621621614,
+    "duration": 0.19,
+    "note": 39,
+    "velocity": 80
+  },
+  {
+    "stem": "drums",
+    "time": 35.67567567567567,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 48
+  },
+  {
+    "stem": "drums",
+    "time": 35.87837837837837,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 69
+  },
+  {
+    "stem": "drums",
+    "time": 36.081081081081074,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 48
+  },
+  {
+    "stem": "drums",
+    "time": 36.283783783783775,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 69
+  },
+  {
+    "stem": "drums",
+    "time": 36.486486486486484,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 48
+  },
+  {
+    "stem": "drums",
+    "time": 36.689189189189186,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 69
+  },
+  {
+    "stem": "drums",
+    "time": 36.89189189189189,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 48
+  },
+  {
+    "stem": "drums",
+    "time": 37.09459459459459,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 69
+  },
+  {
+    "stem": "bass",
+    "time": 35.67567567567567,
+    "duration": 0.5067567567567568,
+    "note": 39,
+    "velocity": 74
+  },
+  {
+    "stem": "bass",
+    "time": 36.283783783783775,
+    "duration": 0.20270270270270271,
+    "note": 39,
+    "velocity": 74
+  },
+  {
+    "stem": "bass",
+    "time": 36.79054054054053,
+    "duration": 0.30405405405405406,
+    "note": 39,
+    "velocity": 74
+  },
+  {
+    "stem": "bass",
+    "time": 37.09459459459459,
+    "duration": 0.14189189189189189,
+    "note": 39,
+    "velocity": 74
+  },
+  {
+    "stem": "chords",
+    "time": 35.67567567567567,
+    "duration": 1.5966216216216211,
+    "note": 63,
+    "velocity": 80
+  },
+  {
+    "stem": "chords",
+    "time": 35.67567567567567,
+    "duration": 1.5966216216216211,
+    "note": 67,
+    "velocity": 80
+  },
+  {
+    "stem": "chords",
+    "time": 35.67567567567567,
+    "duration": 1.5966216216216211,
+    "note": 70,
+    "velocity": 80
+  },
+  {
+    "stem": "chords",
+    "time": 35.67567567567567,
+    "duration": 1.5966216216216211,
+    "note": 77,
+    "velocity": 80
+  },
+  {
+    "stem": "chords",
+    "time": 35.67567567567567,
+    "duration": 1.5966216216216211,
+    "note": 82,
+    "velocity": 80
+  },
+  {
+    "stem": "drums",
+    "time": 37.29729729729729,
+    "duration": 0.39,
+    "note": 36,
+    "velocity": 105
+  },
+  {
+    "stem": "drums",
+    "time": 37.905405405405396,
+    "duration": 0.39,
+    "note": 36,
+    "velocity": 105
+  },
+  {
+    "stem": "drums",
+    "time": 38.614864864864856,
+    "duration": 0.30405405405405617,
+    "note": 36,
+    "velocity": 105
+  },
+  {
+    "stem": "drums",
+    "time": 38.108108108108105,
+    "duration": 0.21,
+    "note": 38,
+    "velocity": 108
+  },
+  {
+    "stem": "drums",
+    "time": 38.118243243243235,
+    "duration": 0.19,
+    "note": 39,
+    "velocity": 80
+  },
+  {
+    "stem": "drums",
+    "time": 37.29729729729729,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 48
+  },
+  {
+    "stem": "drums",
+    "time": 37.49999999999999,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 69
+  },
+  {
+    "stem": "drums",
+    "time": 37.702702702702695,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 48
+  },
+  {
+    "stem": "drums",
+    "time": 37.905405405405396,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 69
+  },
+  {
+    "stem": "drums",
+    "time": 38.108108108108105,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 48
+  },
+  {
+    "stem": "drums",
+    "time": 38.31081081081081,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 69
+  },
+  {
+    "stem": "drums",
+    "time": 38.51351351351351,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 48
+  },
+  {
+    "stem": "drums",
+    "time": 38.71621621621621,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 69
+  },
+  {
+    "stem": "drums",
+    "time": 38.614864864864856,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 50
+  },
+  {
+    "stem": "drums",
+    "time": 38.66554054054053,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 50
+  },
+  {
+    "stem": "drums",
+    "time": 38.76689189189189,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 50
+  },
+  {
+    "stem": "drums",
+    "time": 38.817567567567565,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 50
+  },
+  {
+    "stem": "drums",
+    "time": 38.868243243243235,
+    "duration": 0.05067567567567721,
+    "note": 42,
+    "velocity": 50
+  },
+  {
+    "stem": "bass",
+    "time": 37.29729729729729,
+    "duration": 0.5067567567567568,
+    "note": 39,
+    "velocity": 74
+  },
+  {
+    "stem": "bass",
+    "time": 37.905405405405396,
+    "duration": 0.20270270270270271,
+    "note": 39,
+    "velocity": 74
+  },
+  {
+    "stem": "bass",
+    "time": 38.412162162162154,
+    "duration": 0.30405405405405406,
+    "note": 39,
+    "velocity": 74
+  },
+  {
+    "stem": "bass",
+    "time": 38.71621621621621,
+    "duration": 0.14189189189189189,
+    "note": 51,
+    "velocity": 74
+  },
+  {
+    "stem": "chords",
+    "time": 37.29729729729729,
+    "duration": 1.5966216216216211,
+    "note": 63,
+    "velocity": 80
+  },
+  {
+    "stem": "chords",
+    "time": 37.29729729729729,
+    "duration": 1.5966216216216211,
+    "note": 67,
+    "velocity": 80
+  },
+  {
+    "stem": "chords",
+    "time": 37.29729729729729,
+    "duration": 1.5966216216216211,
+    "note": 70,
+    "velocity": 80
+  },
+  {
+    "stem": "chords",
+    "time": 37.29729729729729,
+    "duration": 1.5966216216216211,
+    "note": 77,
+    "velocity": 80
+  },
+  {
+    "stem": "chords",
+    "time": 37.29729729729729,
+    "duration": 1.5966216216216211,
+    "note": 82,
+    "velocity": 80
+  },
+  {
+    "stem": "lead",
+    "time": 37.29729729729729,
+    "duration": 0.30405405405405406,
+    "note": 70,
+    "velocity": 64
+  },
+  {
+    "stem": "lead",
+    "time": 37.80405405405405,
+    "duration": 0.222972972972973,
+    "note": 67,
+    "velocity": 64
+  },
+  {
+    "stem": "lead",
+    "time": 38.31081081081081,
+    "duration": 0.38513513513513514,
+    "note": 63,
+    "velocity": 64
+  },
+  {
+    "stem": "pad",
+    "time": 38.91891891891892,
+    "duration": 3.218243243243242,
+    "note": 65,
+    "velocity": 58
+  },
+  {
+    "stem": "pad",
+    "time": 38.91891891891892,
+    "duration": 3.218243243243242,
+    "note": 68,
+    "velocity": 58
+  },
+  {
+    "stem": "pad",
+    "time": 38.91891891891892,
+    "duration": 3.218243243243242,
+    "note": 72,
+    "velocity": 58
+  },
+  {
+    "stem": "pad",
+    "time": 38.91891891891892,
+    "duration": 3.218243243243242,
+    "note": 75,
+    "velocity": 58
+  },
+  {
+    "stem": "pad",
+    "time": 38.91891891891892,
+    "duration": 3.218243243243242,
+    "note": 79,
+    "velocity": 58
+  },
+  {
+    "stem": "keys",
+    "time": 38.91891891891892,
+    "duration": 0.6081081081081081,
+    "note": 65,
+    "velocity": 63
+  },
+  {
+    "stem": "keys",
+    "time": 39.527027027027025,
+    "duration": 0.6081081081081081,
+    "note": 75,
+    "velocity": 63
+  },
+  {
+    "stem": "keys",
+    "time": 40.236486486486484,
+    "duration": 0.6081081081081081,
+    "note": 68,
+    "velocity": 63
+  },
+  {
+    "stem": "keys",
+    "time": 40.74324324324324,
+    "duration": 0.6081081081081081,
+    "note": 79,
+    "velocity": 63
+  },
+  {
+    "stem": "keys",
+    "time": 41.351351351351354,
+    "duration": 0.6081081081081081,
+    "note": 72,
+    "velocity": 63
+  },
+  {
+    "stem": "pad",
+    "time": 42.16216216216216,
+    "duration": 3.218243243243242,
+    "note": 65,
+    "velocity": 58
+  },
+  {
+    "stem": "pad",
+    "time": 42.16216216216216,
+    "duration": 3.218243243243242,
+    "note": 68,
+    "velocity": 58
+  },
+  {
+    "stem": "pad",
+    "time": 42.16216216216216,
+    "duration": 3.218243243243242,
+    "note": 72,
+    "velocity": 58
+  },
+  {
+    "stem": "pad",
+    "time": 42.16216216216216,
+    "duration": 3.218243243243242,
+    "note": 75,
+    "velocity": 58
+  },
+  {
+    "stem": "pad",
+    "time": 42.16216216216216,
+    "duration": 3.218243243243242,
+    "note": 80,
+    "velocity": 58
+  },
+  {
+    "stem": "keys",
+    "time": 42.16216216216216,
+    "duration": 0.6081081081081081,
+    "note": 65,
+    "velocity": 63
+  },
+  {
+    "stem": "keys",
+    "time": 42.77027027027027,
+    "duration": 0.6081081081081081,
+    "note": 75,
+    "velocity": 63
+  },
+  {
+    "stem": "keys",
+    "time": 43.479729729729726,
+    "duration": 0.6081081081081081,
+    "note": 68,
+    "velocity": 63
+  },
+  {
+    "stem": "keys",
+    "time": 43.986486486486484,
+    "duration": 0.6081081081081081,
+    "note": 80,
+    "velocity": 63
+  },
+  {
+    "stem": "keys",
+    "time": 44.5945945945946,
+    "duration": 0.6081081081081081,
+    "note": 72,
+    "velocity": 63
+  },
+  {
+    "stem": "pad",
+    "time": 45.4054054054054,
+    "duration": 3.218243243243242,
+    "note": 60,
+    "velocity": 58
+  },
+  {
+    "stem": "pad",
+    "time": 45.4054054054054,
+    "duration": 3.218243243243242,
+    "note": 63,
+    "velocity": 58
+  },
+  {
+    "stem": "pad",
+    "time": 45.4054054054054,
+    "duration": 3.218243243243242,
+    "note": 68,
+    "velocity": 58
+  },
+  {
+    "stem": "pad",
+    "time": 45.4054054054054,
+    "duration": 3.218243243243242,
+    "note": 72,
+    "velocity": 58
+  },
+  {
+    "stem": "pad",
+    "time": 45.4054054054054,
+    "duration": 3.218243243243242,
+    "note": 79,
+    "velocity": 58
+  },
+  {
+    "stem": "keys",
+    "time": 45.4054054054054,
+    "duration": 0.6081081081081081,
+    "note": 60,
+    "velocity": 60
+  },
+  {
+    "stem": "keys",
+    "time": 46.01351351351351,
+    "duration": 0.6081081081081081,
+    "note": 72,
+    "velocity": 60
+  },
+  {
+    "stem": "keys",
+    "time": 46.72297297297297,
+    "duration": 0.6081081081081081,
+    "note": 63,
+    "velocity": 60
+  },
+  {
+    "stem": "keys",
+    "time": 47.229729729729726,
+    "duration": 0.6081081081081081,
+    "note": 79,
+    "velocity": 60
+  },
+  {
+    "stem": "keys",
+    "time": 47.83783783783784,
+    "duration": 0.6081081081081081,
+    "note": 68,
+    "velocity": 60
+  },
+  {
+    "stem": "drums",
+    "time": 45.4054054054054,
+    "duration": 0.39,
+    "note": 36,
+    "velocity": 105
+  },
+  {
+    "stem": "drums",
+    "time": 46.52027027027027,
+    "duration": 0.39,
+    "note": 36,
+    "velocity": 105
+  },
+  {
+    "stem": "drums",
+    "time": 46.21621621621622,
+    "duration": 0.21,
+    "note": 38,
+    "velocity": 108
+  },
+  {
+    "stem": "drums",
+    "time": 46.22635135135135,
+    "duration": 0.19,
+    "note": 39,
+    "velocity": 80
+  },
+  {
+    "stem": "drums",
+    "time": 45.4054054054054,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 48
+  },
+  {
+    "stem": "drums",
+    "time": 45.608108108108105,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 69
+  },
+  {
+    "stem": "drums",
+    "time": 45.81081081081081,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 48
+  },
+  {
+    "stem": "drums",
+    "time": 46.01351351351351,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 69
+  },
+  {
+    "stem": "drums",
+    "time": 46.21621621621622,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 48
+  },
+  {
+    "stem": "drums",
+    "time": 46.41891891891892,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 69
+  },
+  {
+    "stem": "drums",
+    "time": 46.62162162162162,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 48
+  },
+  {
+    "stem": "drums",
+    "time": 46.82432432432432,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 69
+  },
+  {
+    "stem": "bass",
+    "time": 45.4054054054054,
+    "duration": 0.5067567567567568,
+    "note": 44,
+    "velocity": 66
+  },
+  {
+    "stem": "bass",
+    "time": 46.01351351351351,
+    "duration": 0.20270270270270271,
+    "note": 44,
+    "velocity": 66
+  },
+  {
+    "stem": "bass",
+    "time": 46.52027027027027,
+    "duration": 0.30405405405405406,
+    "note": 44,
+    "velocity": 66
+  },
+  {
+    "stem": "bass",
+    "time": 46.82432432432432,
+    "duration": 0.14189189189189189,
+    "note": 44,
+    "velocity": 66
+  },
+  {
+    "stem": "chords",
+    "time": 45.4054054054054,
+    "duration": 1.5966216216216211,
+    "note": 60,
+    "velocity": 80
+  },
+  {
+    "stem": "chords",
+    "time": 45.4054054054054,
+    "duration": 1.5966216216216211,
+    "note": 63,
+    "velocity": 80
+  },
+  {
+    "stem": "chords",
+    "time": 45.4054054054054,
+    "duration": 1.5966216216216211,
+    "note": 68,
+    "velocity": 80
+  },
+  {
+    "stem": "chords",
+    "time": 45.4054054054054,
+    "duration": 1.5966216216216211,
+    "note": 72,
+    "velocity": 80
+  },
+  {
+    "stem": "chords",
+    "time": 45.4054054054054,
+    "duration": 1.5966216216216211,
+    "note": 79,
+    "velocity": 80
+  },
+  {
+    "stem": "drums",
+    "time": 47.027027027027025,
+    "duration": 0.39,
+    "note": 36,
+    "velocity": 105
+  },
+  {
+    "stem": "drums",
+    "time": 48.14189189189189,
+    "duration": 0.39,
+    "note": 36,
+    "velocity": 105
+  },
+  {
+    "stem": "drums",
+    "time": 47.83783783783784,
+    "duration": 0.21,
+    "note": 38,
+    "velocity": 108
+  },
+  {
+    "stem": "drums",
+    "time": 47.84797297297297,
+    "duration": 0.19,
+    "note": 39,
+    "velocity": 80
+  },
+  {
+    "stem": "drums",
+    "time": 47.027027027027025,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 48
+  },
+  {
+    "stem": "drums",
+    "time": 47.229729729729726,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 69
+  },
+  {
+    "stem": "drums",
+    "time": 47.43243243243243,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 48
+  },
+  {
+    "stem": "drums",
+    "time": 47.63513513513513,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 69
+  },
+  {
+    "stem": "drums",
+    "time": 47.83783783783784,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 48
+  },
+  {
+    "stem": "drums",
+    "time": 48.04054054054054,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 69
+  },
+  {
+    "stem": "drums",
+    "time": 48.24324324324324,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 48
+  },
+  {
+    "stem": "drums",
+    "time": 48.445945945945944,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 69
+  },
+  {
+    "stem": "bass",
+    "time": 47.027027027027025,
+    "duration": 0.5067567567567568,
+    "note": 44,
+    "velocity": 66
+  },
+  {
+    "stem": "bass",
+    "time": 47.63513513513513,
+    "duration": 0.20270270270270271,
+    "note": 44,
+    "velocity": 66
+  },
+  {
+    "stem": "bass",
+    "time": 48.14189189189189,
+    "duration": 0.30405405405405406,
+    "note": 44,
+    "velocity": 66
+  },
+  {
+    "stem": "bass",
+    "time": 48.445945945945944,
+    "duration": 0.14189189189189189,
+    "note": 44,
+    "velocity": 66
+  },
+  {
+    "stem": "chords",
+    "time": 47.027027027027025,
+    "duration": 1.5966216216216211,
+    "note": 60,
+    "velocity": 80
+  },
+  {
+    "stem": "chords",
+    "time": 47.027027027027025,
+    "duration": 1.5966216216216211,
+    "note": 63,
+    "velocity": 80
+  },
+  {
+    "stem": "chords",
+    "time": 47.027027027027025,
+    "duration": 1.5966216216216211,
+    "note": 68,
+    "velocity": 80
+  },
+  {
+    "stem": "chords",
+    "time": 47.027027027027025,
+    "duration": 1.5966216216216211,
+    "note": 72,
+    "velocity": 80
+  },
+  {
+    "stem": "chords",
+    "time": 47.027027027027025,
+    "duration": 1.5966216216216211,
+    "note": 79,
+    "velocity": 80
+  },
+  {
+    "stem": "pad",
+    "time": 48.648648648648646,
+    "duration": 3.218243243243242,
+    "note": 63,
+    "velocity": 58
+  },
+  {
+    "stem": "pad",
+    "time": 48.648648648648646,
+    "duration": 3.218243243243242,
+    "note": 67,
+    "velocity": 58
+  },
+  {
+    "stem": "pad",
+    "time": 48.648648648648646,
+    "duration": 3.218243243243242,
+    "note": 70,
+    "velocity": 58
+  },
+  {
+    "stem": "pad",
+    "time": 48.648648648648646,
+    "duration": 3.218243243243242,
+    "note": 77,
+    "velocity": 58
+  },
+  {
+    "stem": "pad",
+    "time": 48.648648648648646,
+    "duration": 3.218243243243242,
+    "note": 82,
+    "velocity": 58
+  },
+  {
+    "stem": "keys",
+    "time": 48.648648648648646,
+    "duration": 0.6081081081081081,
+    "note": 63,
+    "velocity": 60
+  },
+  {
+    "stem": "keys",
+    "time": 49.25675675675675,
+    "duration": 0.6081081081081081,
+    "note": 77,
+    "velocity": 60
+  },
+  {
+    "stem": "keys",
+    "time": 49.96621621621621,
+    "duration": 0.6081081081081081,
+    "note": 67,
+    "velocity": 60
+  },
+  {
+    "stem": "keys",
+    "time": 50.47297297297297,
+    "duration": 0.6081081081081081,
+    "note": 82,
+    "velocity": 60
+  },
+  {
+    "stem": "keys",
+    "time": 51.08108108108108,
+    "duration": 0.6081081081081081,
+    "note": 70,
+    "velocity": 60
+  },
+  {
+    "stem": "drums",
+    "time": 48.648648648648646,
+    "duration": 0.39,
+    "note": 36,
+    "velocity": 105
+  },
+  {
+    "stem": "drums",
+    "time": 49.76351351351351,
+    "duration": 0.39,
+    "note": 36,
+    "velocity": 105
+  },
+  {
+    "stem": "drums",
+    "time": 49.45945945945946,
+    "duration": 0.21,
+    "note": 38,
+    "velocity": 108
+  },
+  {
+    "stem": "drums",
+    "time": 49.46959459459459,
+    "duration": 0.19,
+    "note": 39,
+    "velocity": 80
+  },
+  {
+    "stem": "drums",
+    "time": 48.648648648648646,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 48
+  },
+  {
+    "stem": "drums",
+    "time": 48.85135135135135,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 69
+  },
+  {
+    "stem": "drums",
+    "time": 49.05405405405405,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 48
+  },
+  {
+    "stem": "drums",
+    "time": 49.25675675675675,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 69
+  },
+  {
+    "stem": "drums",
+    "time": 49.45945945945946,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 48
+  },
+  {
+    "stem": "drums",
+    "time": 49.66216216216216,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 69
+  },
+  {
+    "stem": "drums",
+    "time": 49.86486486486486,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 48
+  },
+  {
+    "stem": "drums",
+    "time": 50.067567567567565,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 69
+  },
+  {
+    "stem": "bass",
+    "time": 48.648648648648646,
+    "duration": 0.5067567567567568,
+    "note": 39,
+    "velocity": 66
+  },
+  {
+    "stem": "bass",
+    "time": 49.25675675675675,
+    "duration": 0.20270270270270271,
+    "note": 39,
+    "velocity": 66
+  },
+  {
+    "stem": "bass",
+    "time": 49.76351351351351,
+    "duration": 0.30405405405405406,
+    "note": 39,
+    "velocity": 66
+  },
+  {
+    "stem": "bass",
+    "time": 50.067567567567565,
+    "duration": 0.14189189189189189,
+    "note": 39,
+    "velocity": 66
+  },
+  {
+    "stem": "chords",
+    "time": 48.648648648648646,
+    "duration": 1.5966216216216211,
+    "note": 63,
+    "velocity": 80
+  },
+  {
+    "stem": "chords",
+    "time": 48.648648648648646,
+    "duration": 1.5966216216216211,
+    "note": 67,
+    "velocity": 80
+  },
+  {
+    "stem": "chords",
+    "time": 48.648648648648646,
+    "duration": 1.5966216216216211,
+    "note": 70,
+    "velocity": 80
+  },
+  {
+    "stem": "chords",
+    "time": 48.648648648648646,
+    "duration": 1.5966216216216211,
+    "note": 77,
+    "velocity": 80
+  },
+  {
+    "stem": "chords",
+    "time": 48.648648648648646,
+    "duration": 1.5966216216216211,
+    "note": 82,
+    "velocity": 80
+  },
+  {
+    "stem": "drums",
+    "time": 48.648648648648646,
+    "duration": 0.21,
+    "note": 38,
+    "velocity": 49
+  },
+  {
+    "stem": "drums",
+    "time": 48.85135135135135,
+    "duration": 0.21,
+    "note": 38,
+    "velocity": 51
+  },
+  {
+    "stem": "drums",
+    "time": 49.05405405405405,
+    "duration": 0.21,
+    "note": 38,
+    "velocity": 53
+  },
+  {
+    "stem": "drums",
+    "time": 49.25675675675675,
+    "duration": 0.21,
+    "note": 38,
+    "velocity": 55
+  },
+  {
+    "stem": "drums",
+    "time": 49.45945945945946,
+    "duration": 0.21,
+    "note": 38,
+    "velocity": 57
+  },
+  {
+    "stem": "drums",
+    "time": 49.66216216216216,
+    "duration": 0.21,
+    "note": 38,
+    "velocity": 59
+  },
+  {
+    "stem": "drums",
+    "time": 49.86486486486486,
+    "duration": 0.21,
+    "note": 38,
+    "velocity": 61
+  },
+  {
+    "stem": "drums",
+    "time": 50.067567567567565,
+    "duration": 0.20270270270270174,
+    "note": 38,
+    "velocity": 63
+  },
+  {
+    "stem": "drums",
+    "time": 50.27027027027027,
+    "duration": 0.39,
+    "note": 36,
+    "velocity": 105
+  },
+  {
+    "stem": "drums",
+    "time": 51.38513513513513,
+    "duration": 0.39,
+    "note": 36,
+    "velocity": 105
+  },
+  {
+    "stem": "drums",
+    "time": 51.08108108108108,
+    "duration": 0.21,
+    "note": 38,
+    "velocity": 108
+  },
+  {
+    "stem": "drums",
+    "time": 51.09121621621621,
+    "duration": 0.19,
+    "note": 39,
+    "velocity": 80
+  },
+  {
+    "stem": "drums",
+    "time": 50.27027027027027,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 48
+  },
+  {
+    "stem": "drums",
+    "time": 50.47297297297297,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 69
+  },
+  {
+    "stem": "drums",
+    "time": 50.67567567567567,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 48
+  },
+  {
+    "stem": "drums",
+    "time": 50.87837837837837,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 69
+  },
+  {
+    "stem": "drums",
+    "time": 51.08108108108108,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 48
+  },
+  {
+    "stem": "drums",
+    "time": 51.28378378378378,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 69
+  },
+  {
+    "stem": "drums",
+    "time": 51.486486486486484,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 48
+  },
+  {
+    "stem": "drums",
+    "time": 51.689189189189186,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 69
+  },
+  {
+    "stem": "bass",
+    "time": 50.27027027027027,
+    "duration": 0.5067567567567568,
+    "note": 39,
+    "velocity": 66
+  },
+  {
+    "stem": "bass",
+    "time": 50.87837837837837,
+    "duration": 0.20270270270270271,
+    "note": 39,
+    "velocity": 66
+  },
+  {
+    "stem": "bass",
+    "time": 51.38513513513513,
+    "duration": 0.30405405405405406,
+    "note": 39,
+    "velocity": 66
+  },
+  {
+    "stem": "bass",
+    "time": 51.689189189189186,
+    "duration": 0.14189189189189189,
+    "note": 51,
+    "velocity": 66
+  },
+  {
+    "stem": "chords",
+    "time": 50.27027027027027,
+    "duration": 1.5966216216216211,
+    "note": 63,
+    "velocity": 80
+  },
+  {
+    "stem": "chords",
+    "time": 50.27027027027027,
+    "duration": 1.5966216216216211,
+    "note": 67,
+    "velocity": 80
+  },
+  {
+    "stem": "chords",
+    "time": 50.27027027027027,
+    "duration": 1.5966216216216211,
+    "note": 70,
+    "velocity": 80
+  },
+  {
+    "stem": "chords",
+    "time": 50.27027027027027,
+    "duration": 1.5966216216216211,
+    "note": 77,
+    "velocity": 80
+  },
+  {
+    "stem": "chords",
+    "time": 50.27027027027027,
+    "duration": 1.5966216216216211,
+    "note": 82,
+    "velocity": 80
+  },
+  {
+    "stem": "drums",
+    "time": 50.27027027027027,
+    "duration": 0.21,
+    "note": 38,
+    "velocity": 49
+  },
+  {
+    "stem": "drums",
+    "time": 50.37162162162162,
+    "duration": 0.21,
+    "note": 38,
+    "velocity": 51
+  },
+  {
+    "stem": "drums",
+    "time": 50.47297297297297,
+    "duration": 0.21,
+    "note": 38,
+    "velocity": 53
+  },
+  {
+    "stem": "drums",
+    "time": 50.57432432432432,
+    "duration": 0.21,
+    "note": 38,
+    "velocity": 55
+  },
+  {
+    "stem": "drums",
+    "time": 50.67567567567567,
+    "duration": 0.21,
+    "note": 38,
+    "velocity": 57
+  },
+  {
+    "stem": "drums",
+    "time": 50.777027027027025,
+    "duration": 0.21,
+    "note": 38,
+    "velocity": 59
+  },
+  {
+    "stem": "drums",
+    "time": 50.87837837837837,
+    "duration": 0.21,
+    "note": 38,
+    "velocity": 61
+  },
+  {
+    "stem": "drums",
+    "time": 50.979729729729726,
+    "duration": 0.21,
+    "note": 38,
+    "velocity": 63
+  },
+  {
+    "stem": "drums",
+    "time": 51.08108108108108,
+    "duration": 0.21,
+    "note": 38,
+    "velocity": 65
+  },
+  {
+    "stem": "drums",
+    "time": 51.18243243243243,
+    "duration": 0.21,
+    "note": 38,
+    "velocity": 67
+  },
+  {
+    "stem": "drums",
+    "time": 51.28378378378378,
+    "duration": 0.21,
+    "note": 38,
+    "velocity": 69
+  },
+  {
+    "stem": "drums",
+    "time": 51.38513513513513,
+    "duration": 0.21,
+    "note": 38,
+    "velocity": 71
+  },
+  {
+    "stem": "drums",
+    "time": 51.486486486486484,
+    "duration": 0.21,
+    "note": 38,
+    "velocity": 73
+  },
+  {
+    "stem": "drums",
+    "time": 51.58783783783783,
+    "duration": 0.21,
+    "note": 38,
+    "velocity": 75
+  },
+  {
+    "stem": "drums",
+    "time": 51.689189189189186,
+    "duration": 0.20270270270270174,
+    "note": 38,
+    "velocity": 77
+  },
+  {
+    "stem": "drums",
+    "time": 51.79054054054054,
+    "duration": 0.10135135135134732,
+    "note": 38,
+    "velocity": 79
+  },
+  {
+    "stem": "pad",
+    "time": 51.891891891891895,
+    "duration": 3.218243243243242,
+    "note": 65,
+    "velocity": 57
+  },
+  {
+    "stem": "pad",
+    "time": 51.891891891891895,
+    "duration": 3.218243243243242,
+    "note": 68,
+    "velocity": 57
+  },
+  {
+    "stem": "pad",
+    "time": 51.891891891891895,
+    "duration": 3.218243243243242,
+    "note": 72,
+    "velocity": 57
+  },
+  {
+    "stem": "pad",
+    "time": 51.891891891891895,
+    "duration": 3.218243243243242,
+    "note": 75,
+    "velocity": 57
+  },
+  {
+    "stem": "pad",
+    "time": 51.891891891891895,
+    "duration": 3.218243243243242,
+    "note": 79,
+    "velocity": 57
+  },
+  {
+    "stem": "drums",
+    "time": 51.891891891891895,
+    "duration": 0.39,
+    "note": 36,
+    "velocity": 105
+  },
+  {
+    "stem": "drums",
+    "time": 53.00675675675676,
+    "duration": 0.39,
+    "note": 36,
+    "velocity": 105
+  },
+  {
+    "stem": "drums",
+    "time": 52.70270270270271,
+    "duration": 0.21,
+    "note": 38,
+    "velocity": 108
+  },
+  {
+    "stem": "drums",
+    "time": 52.71283783783784,
+    "duration": 0.19,
+    "note": 39,
+    "velocity": 80
+  },
+  {
+    "stem": "drums",
+    "time": 51.891891891891895,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 48
+  },
+  {
+    "stem": "drums",
+    "time": 52.0945945945946,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 69
+  },
+  {
+    "stem": "drums",
+    "time": 52.2972972972973,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 48
+  },
+  {
+    "stem": "drums",
+    "time": 52.5,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 69
+  },
+  {
+    "stem": "drums",
+    "time": 52.70270270270271,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 48
+  },
+  {
+    "stem": "drums",
+    "time": 52.90540540540541,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 69
+  },
+  {
+    "stem": "drums",
+    "time": 53.10810810810811,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 48
+  },
+  {
+    "stem": "drums",
+    "time": 53.310810810810814,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 69
+  },
+  {
+    "stem": "bass",
+    "time": 51.891891891891895,
+    "duration": 0.5067567567567568,
+    "note": 41,
+    "velocity": 74
+  },
+  {
+    "stem": "bass",
+    "time": 52.5,
+    "duration": 0.20270270270270271,
+    "note": 41,
+    "velocity": 74
+  },
+  {
+    "stem": "bass",
+    "time": 53.00675675675676,
+    "duration": 0.30405405405405406,
+    "note": 41,
+    "velocity": 74
+  },
+  {
+    "stem": "bass",
+    "time": 53.310810810810814,
+    "duration": 0.14189189189189189,
+    "note": 41,
+    "velocity": 74
+  },
+  {
+    "stem": "chords",
+    "time": 51.891891891891895,
+    "duration": 1.5966216216216211,
+    "note": 65,
+    "velocity": 80
+  },
+  {
+    "stem": "chords",
+    "time": 51.891891891891895,
+    "duration": 1.5966216216216211,
+    "note": 68,
+    "velocity": 80
+  },
+  {
+    "stem": "chords",
+    "time": 51.891891891891895,
+    "duration": 1.5966216216216211,
+    "note": 72,
+    "velocity": 80
+  },
+  {
+    "stem": "chords",
+    "time": 51.891891891891895,
+    "duration": 1.5966216216216211,
+    "note": 75,
+    "velocity": 80
+  },
+  {
+    "stem": "chords",
+    "time": 51.891891891891895,
+    "duration": 1.5966216216216211,
+    "note": 79,
+    "velocity": 80
+  },
+  {
+    "stem": "lead",
+    "time": 52.0945945945946,
+    "duration": 0.20270270270270271,
+    "note": 79,
+    "velocity": 64
+  },
+  {
+    "stem": "lead",
+    "time": 52.5,
+    "duration": 0.12162162162162163,
+    "note": 75,
+    "velocity": 64
+  },
+  {
+    "stem": "lead",
+    "time": 52.90540540540541,
+    "duration": 0.24324324324324326,
+    "note": 68,
+    "velocity": 64
+  },
+  {
+    "stem": "lead",
+    "time": 53.310810810810814,
+    "duration": 0.14189189189189189,
+    "note": 72,
+    "velocity": 64
+  },
+  {
+    "stem": "drums",
+    "time": 53.513513513513516,
+    "duration": 0.39,
+    "note": 36,
+    "velocity": 105
+  },
+  {
+    "stem": "drums",
+    "time": 54.12162162162162,
+    "duration": 0.39,
+    "note": 36,
+    "velocity": 105
+  },
+  {
+    "stem": "drums",
+    "time": 54.83108108108108,
+    "duration": 0.30405405405405617,
+    "note": 36,
+    "velocity": 105
+  },
+  {
+    "stem": "drums",
+    "time": 54.32432432432433,
+    "duration": 0.21,
+    "note": 38,
+    "velocity": 108
+  },
+  {
+    "stem": "drums",
+    "time": 54.33445945945946,
+    "duration": 0.19,
+    "note": 39,
+    "velocity": 80
+  },
+  {
+    "stem": "drums",
+    "time": 53.513513513513516,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 48
+  },
+  {
+    "stem": "drums",
+    "time": 53.71621621621622,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 69
+  },
+  {
+    "stem": "drums",
+    "time": 53.91891891891892,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 48
+  },
+  {
+    "stem": "drums",
+    "time": 54.12162162162162,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 69
+  },
+  {
+    "stem": "drums",
+    "time": 54.32432432432433,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 48
+  },
+  {
+    "stem": "drums",
+    "time": 54.52702702702703,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 69
+  },
+  {
+    "stem": "drums",
+    "time": 54.72972972972973,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 48
+  },
+  {
+    "stem": "drums",
+    "time": 54.932432432432435,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 69
+  },
+  {
+    "stem": "bass",
+    "time": 53.513513513513516,
+    "duration": 0.5067567567567568,
+    "note": 41,
+    "velocity": 74
+  },
+  {
+    "stem": "bass",
+    "time": 54.12162162162162,
+    "duration": 0.20270270270270271,
+    "note": 41,
+    "velocity": 74
+  },
+  {
+    "stem": "bass",
+    "time": 54.62837837837838,
+    "duration": 0.30405405405405406,
+    "note": 41,
+    "velocity": 74
+  },
+  {
+    "stem": "bass",
+    "time": 54.932432432432435,
+    "duration": 0.14189189189189189,
+    "note": 41,
+    "velocity": 74
+  },
+  {
+    "stem": "chords",
+    "time": 53.513513513513516,
+    "duration": 1.5966216216216211,
+    "note": 65,
+    "velocity": 80
+  },
+  {
+    "stem": "chords",
+    "time": 53.513513513513516,
+    "duration": 1.5966216216216211,
+    "note": 68,
+    "velocity": 80
+  },
+  {
+    "stem": "chords",
+    "time": 53.513513513513516,
+    "duration": 1.5966216216216211,
+    "note": 72,
+    "velocity": 80
+  },
+  {
+    "stem": "chords",
+    "time": 53.513513513513516,
+    "duration": 1.5966216216216211,
+    "note": 75,
+    "velocity": 80
+  },
+  {
+    "stem": "chords",
+    "time": 53.513513513513516,
+    "duration": 1.5966216216216211,
+    "note": 79,
+    "velocity": 80
+  },
+  {
+    "stem": "lead",
+    "time": 53.513513513513516,
+    "duration": 0.30405405405405406,
+    "note": 72,
+    "velocity": 64
+  },
+  {
+    "stem": "lead",
+    "time": 54.020270270270274,
+    "duration": 0.222972972972973,
+    "note": 68,
+    "velocity": 64
+  },
+  {
+    "stem": "lead",
+    "time": 54.52702702702703,
+    "duration": 0.38513513513513514,
+    "note": 65,
+    "velocity": 64
+  },
+  {
+    "stem": "pad",
+    "time": 55.13513513513514,
+    "duration": 3.218243243243242,
+    "note": 65,
+    "velocity": 57
+  },
+  {
+    "stem": "pad",
+    "time": 55.13513513513514,
+    "duration": 3.218243243243242,
+    "note": 68,
+    "velocity": 57
+  },
+  {
+    "stem": "pad",
+    "time": 55.13513513513514,
+    "duration": 3.218243243243242,
+    "note": 72,
+    "velocity": 57
+  },
+  {
+    "stem": "pad",
+    "time": 55.13513513513514,
+    "duration": 3.218243243243242,
+    "note": 75,
+    "velocity": 57
+  },
+  {
+    "stem": "pad",
+    "time": 55.13513513513514,
+    "duration": 3.218243243243242,
+    "note": 80,
+    "velocity": 57
+  },
+  {
+    "stem": "drums",
+    "time": 55.13513513513514,
+    "duration": 0.39,
+    "note": 36,
+    "velocity": 105
+  },
+  {
+    "stem": "drums",
+    "time": 56.25,
+    "duration": 0.39,
+    "note": 36,
+    "velocity": 105
+  },
+  {
+    "stem": "drums",
+    "time": 55.94594594594595,
+    "duration": 0.21,
+    "note": 38,
+    "velocity": 108
+  },
+  {
+    "stem": "drums",
+    "time": 55.95608108108108,
+    "duration": 0.19,
+    "note": 39,
+    "velocity": 80
+  },
+  {
+    "stem": "drums",
+    "time": 55.13513513513514,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 48
+  },
+  {
+    "stem": "drums",
+    "time": 55.33783783783784,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 69
+  },
+  {
+    "stem": "drums",
+    "time": 55.54054054054054,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 48
+  },
+  {
+    "stem": "drums",
+    "time": 55.74324324324324,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 69
+  },
+  {
+    "stem": "drums",
+    "time": 55.94594594594595,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 48
+  },
+  {
+    "stem": "drums",
+    "time": 56.14864864864865,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 69
+  },
+  {
+    "stem": "drums",
+    "time": 56.351351351351354,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 48
+  },
+  {
+    "stem": "drums",
+    "time": 56.554054054054056,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 69
+  },
+  {
+    "stem": "bass",
+    "time": 55.13513513513514,
+    "duration": 0.5067567567567568,
+    "note": 37,
+    "velocity": 74
+  },
+  {
+    "stem": "bass",
+    "time": 55.74324324324324,
+    "duration": 0.20270270270270271,
+    "note": 37,
+    "velocity": 74
+  },
+  {
+    "stem": "bass",
+    "time": 56.25,
+    "duration": 0.30405405405405406,
+    "note": 37,
+    "velocity": 74
+  },
+  {
+    "stem": "bass",
+    "time": 56.554054054054056,
+    "duration": 0.14189189189189189,
+    "note": 37,
+    "velocity": 74
+  },
+  {
+    "stem": "chords",
+    "time": 55.13513513513514,
+    "duration": 1.5966216216216211,
+    "note": 65,
+    "velocity": 80
+  },
+  {
+    "stem": "chords",
+    "time": 55.13513513513514,
+    "duration": 1.5966216216216211,
+    "note": 68,
+    "velocity": 80
+  },
+  {
+    "stem": "chords",
+    "time": 55.13513513513514,
+    "duration": 1.5966216216216211,
+    "note": 72,
+    "velocity": 80
+  },
+  {
+    "stem": "chords",
+    "time": 55.13513513513514,
+    "duration": 1.5966216216216211,
+    "note": 75,
+    "velocity": 80
+  },
+  {
+    "stem": "chords",
+    "time": 55.13513513513514,
+    "duration": 1.5966216216216211,
+    "note": 80,
+    "velocity": 80
+  },
+  {
+    "stem": "drums",
+    "time": 56.75675675675676,
+    "duration": 0.39,
+    "note": 36,
+    "velocity": 105
+  },
+  {
+    "stem": "drums",
+    "time": 57.36486486486486,
+    "duration": 0.39,
+    "note": 36,
+    "velocity": 105
+  },
+  {
+    "stem": "drums",
+    "time": 58.07432432432432,
+    "duration": 0.30405405405405617,
+    "note": 36,
+    "velocity": 105
+  },
+  {
+    "stem": "drums",
+    "time": 57.56756756756757,
+    "duration": 0.21,
+    "note": 38,
+    "velocity": 108
+  },
+  {
+    "stem": "drums",
+    "time": 57.5777027027027,
+    "duration": 0.19,
+    "note": 39,
+    "velocity": 80
+  },
+  {
+    "stem": "drums",
+    "time": 56.75675675675676,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 48
+  },
+  {
+    "stem": "drums",
+    "time": 56.95945945945946,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 69
+  },
+  {
+    "stem": "drums",
+    "time": 57.16216216216216,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 48
+  },
+  {
+    "stem": "drums",
+    "time": 57.36486486486486,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 69
+  },
+  {
+    "stem": "drums",
+    "time": 57.56756756756757,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 48
+  },
+  {
+    "stem": "drums",
+    "time": 57.770270270270274,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 69
+  },
+  {
+    "stem": "drums",
+    "time": 57.972972972972975,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 48
+  },
+  {
+    "stem": "drums",
+    "time": 58.17567567567568,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 69
+  },
+  {
+    "stem": "drums",
+    "time": 58.07432432432432,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 50
+  },
+  {
+    "stem": "drums",
+    "time": 58.125,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 50
+  },
+  {
+    "stem": "drums",
+    "time": 58.226351351351354,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 50
+  },
+  {
+    "stem": "drums",
+    "time": 58.27702702702703,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 50
+  },
+  {
+    "stem": "drums",
+    "time": 58.3277027027027,
+    "duration": 0.05067567567567721,
+    "note": 42,
+    "velocity": 50
+  },
+  {
+    "stem": "bass",
+    "time": 56.75675675675676,
+    "duration": 0.5067567567567568,
+    "note": 37,
+    "velocity": 74
+  },
+  {
+    "stem": "bass",
+    "time": 57.36486486486486,
+    "duration": 0.20270270270270271,
+    "note": 37,
+    "velocity": 74
+  },
+  {
+    "stem": "bass",
+    "time": 57.87162162162162,
+    "duration": 0.30405405405405406,
+    "note": 37,
+    "velocity": 74
+  },
+  {
+    "stem": "bass",
+    "time": 58.17567567567568,
+    "duration": 0.14189189189189189,
+    "note": 49,
+    "velocity": 74
+  },
+  {
+    "stem": "chords",
+    "time": 56.75675675675676,
+    "duration": 1.5966216216216211,
+    "note": 65,
+    "velocity": 80
+  },
+  {
+    "stem": "chords",
+    "time": 56.75675675675676,
+    "duration": 1.5966216216216211,
+    "note": 68,
+    "velocity": 80
+  },
+  {
+    "stem": "chords",
+    "time": 56.75675675675676,
+    "duration": 1.5966216216216211,
+    "note": 72,
+    "velocity": 80
+  },
+  {
+    "stem": "chords",
+    "time": 56.75675675675676,
+    "duration": 1.5966216216216211,
+    "note": 75,
+    "velocity": 80
+  },
+  {
+    "stem": "chords",
+    "time": 56.75675675675676,
+    "duration": 1.5966216216216211,
+    "note": 80,
+    "velocity": 80
+  },
+  {
+    "stem": "lead",
+    "time": 56.75675675675676,
+    "duration": 0.30405405405405406,
+    "note": 72,
+    "velocity": 64
+  },
+  {
+    "stem": "lead",
+    "time": 57.263513513513516,
+    "duration": 0.222972972972973,
+    "note": 68,
+    "velocity": 64
+  },
+  {
+    "stem": "lead",
+    "time": 57.770270270270274,
+    "duration": 0.38513513513513514,
+    "note": 65,
+    "velocity": 64
+  },
+  {
+    "stem": "pad",
+    "time": 58.37837837837838,
+    "duration": 3.218243243243242,
+    "note": 60,
+    "velocity": 57
+  },
+  {
+    "stem": "pad",
+    "time": 58.37837837837838,
+    "duration": 3.218243243243242,
+    "note": 63,
+    "velocity": 57
+  },
+  {
+    "stem": "pad",
+    "time": 58.37837837837838,
+    "duration": 3.218243243243242,
+    "note": 68,
+    "velocity": 57
+  },
+  {
+    "stem": "pad",
+    "time": 58.37837837837838,
+    "duration": 3.218243243243242,
+    "note": 72,
+    "velocity": 57
+  },
+  {
+    "stem": "pad",
+    "time": 58.37837837837838,
+    "duration": 3.218243243243242,
+    "note": 79,
+    "velocity": 57
+  },
+  {
+    "stem": "drums",
+    "time": 58.37837837837838,
+    "duration": 0.39,
+    "note": 36,
+    "velocity": 105
+  },
+  {
+    "stem": "drums",
+    "time": 59.49324324324324,
+    "duration": 0.39,
+    "note": 36,
+    "velocity": 105
+  },
+  {
+    "stem": "drums",
+    "time": 59.18918918918919,
+    "duration": 0.21,
+    "note": 38,
+    "velocity": 108
+  },
+  {
+    "stem": "drums",
+    "time": 59.19932432432432,
+    "duration": 0.19,
+    "note": 39,
+    "velocity": 80
+  },
+  {
+    "stem": "drums",
+    "time": 58.37837837837838,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 48
+  },
+  {
+    "stem": "drums",
+    "time": 58.58108108108108,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 69
+  },
+  {
+    "stem": "drums",
+    "time": 58.78378378378378,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 48
+  },
+  {
+    "stem": "drums",
+    "time": 58.986486486486484,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 69
+  },
+  {
+    "stem": "drums",
+    "time": 59.18918918918919,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 48
+  },
+  {
+    "stem": "drums",
+    "time": 59.391891891891895,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 69
+  },
+  {
+    "stem": "drums",
+    "time": 59.5945945945946,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 48
+  },
+  {
+    "stem": "drums",
+    "time": 59.7972972972973,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 69
+  },
+  {
+    "stem": "bass",
+    "time": 58.37837837837838,
+    "duration": 0.5067567567567568,
+    "note": 44,
+    "velocity": 74
+  },
+  {
+    "stem": "bass",
+    "time": 58.986486486486484,
+    "duration": 0.20270270270270271,
+    "note": 44,
+    "velocity": 74
+  },
+  {
+    "stem": "bass",
+    "time": 59.49324324324324,
+    "duration": 0.30405405405405406,
+    "note": 44,
+    "velocity": 74
+  },
+  {
+    "stem": "bass",
+    "time": 59.7972972972973,
+    "duration": 0.14189189189189189,
+    "note": 44,
+    "velocity": 74
+  },
+  {
+    "stem": "chords",
+    "time": 58.37837837837838,
+    "duration": 1.5966216216216211,
+    "note": 60,
+    "velocity": 80
+  },
+  {
+    "stem": "chords",
+    "time": 58.37837837837838,
+    "duration": 1.5966216216216211,
+    "note": 63,
+    "velocity": 80
+  },
+  {
+    "stem": "chords",
+    "time": 58.37837837837838,
+    "duration": 1.5966216216216211,
+    "note": 68,
+    "velocity": 80
+  },
+  {
+    "stem": "chords",
+    "time": 58.37837837837838,
+    "duration": 1.5966216216216211,
+    "note": 72,
+    "velocity": 80
+  },
+  {
+    "stem": "chords",
+    "time": 58.37837837837838,
+    "duration": 1.5966216216216211,
+    "note": 79,
+    "velocity": 80
+  },
+  {
+    "stem": "lead",
+    "time": 58.58108108108108,
+    "duration": 0.20270270270270271,
+    "note": 79,
+    "velocity": 64
+  },
+  {
+    "stem": "lead",
+    "time": 58.986486486486484,
+    "duration": 0.12162162162162163,
+    "note": 72,
+    "velocity": 64
+  },
+  {
+    "stem": "lead",
+    "time": 59.391891891891895,
+    "duration": 0.24324324324324326,
+    "note": 63,
+    "velocity": 64
+  },
+  {
+    "stem": "lead",
+    "time": 59.7972972972973,
+    "duration": 0.14189189189189189,
+    "note": 68,
+    "velocity": 64
+  },
+  {
+    "stem": "drums",
+    "time": 60.0,
+    "duration": 0.39,
+    "note": 36,
+    "velocity": 105
+  },
+  {
+    "stem": "drums",
+    "time": 60.608108108108105,
+    "duration": 0.39,
+    "note": 36,
+    "velocity": 105
+  },
+  {
+    "stem": "drums",
+    "time": 61.317567567567565,
+    "duration": 0.30405405405405617,
+    "note": 36,
+    "velocity": 105
+  },
+  {
+    "stem": "drums",
+    "time": 60.810810810810814,
+    "duration": 0.21,
+    "note": 38,
+    "velocity": 108
+  },
+  {
+    "stem": "drums",
+    "time": 60.820945945945944,
+    "duration": 0.19,
+    "note": 39,
+    "velocity": 80
+  },
+  {
+    "stem": "drums",
+    "time": 60.0,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 48
+  },
+  {
+    "stem": "drums",
+    "time": 60.2027027027027,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 69
+  },
+  {
+    "stem": "drums",
+    "time": 60.4054054054054,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 48
+  },
+  {
+    "stem": "drums",
+    "time": 60.608108108108105,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 69
+  },
+  {
+    "stem": "drums",
+    "time": 60.810810810810814,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 48
+  },
+  {
+    "stem": "drums",
+    "time": 61.013513513513516,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 69
+  },
+  {
+    "stem": "drums",
+    "time": 61.21621621621622,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 48
+  },
+  {
+    "stem": "drums",
+    "time": 61.41891891891892,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 69
+  },
+  {
+    "stem": "bass",
+    "time": 60.0,
+    "duration": 0.5067567567567568,
+    "note": 44,
+    "velocity": 74
+  },
+  {
+    "stem": "bass",
+    "time": 60.608108108108105,
+    "duration": 0.20270270270270271,
+    "note": 44,
+    "velocity": 74
+  },
+  {
+    "stem": "bass",
+    "time": 61.11486486486486,
+    "duration": 0.30405405405405406,
+    "note": 44,
+    "velocity": 74
+  },
+  {
+    "stem": "bass",
+    "time": 61.41891891891892,
+    "duration": 0.14189189189189189,
+    "note": 44,
+    "velocity": 74
+  },
+  {
+    "stem": "chords",
+    "time": 60.0,
+    "duration": 1.5966216216216211,
+    "note": 60,
+    "velocity": 80
+  },
+  {
+    "stem": "chords",
+    "time": 60.0,
+    "duration": 1.5966216216216211,
+    "note": 63,
+    "velocity": 80
+  },
+  {
+    "stem": "chords",
+    "time": 60.0,
+    "duration": 1.5966216216216211,
+    "note": 68,
+    "velocity": 80
+  },
+  {
+    "stem": "chords",
+    "time": 60.0,
+    "duration": 1.5966216216216211,
+    "note": 72,
+    "velocity": 80
+  },
+  {
+    "stem": "chords",
+    "time": 60.0,
+    "duration": 1.5966216216216211,
+    "note": 79,
+    "velocity": 80
+  },
+  {
+    "stem": "lead",
+    "time": 60.0,
+    "duration": 0.30405405405405406,
+    "note": 68,
+    "velocity": 64
+  },
+  {
+    "stem": "lead",
+    "time": 60.50675675675676,
+    "duration": 0.222972972972973,
+    "note": 63,
+    "velocity": 64
+  },
+  {
+    "stem": "lead",
+    "time": 61.013513513513516,
+    "duration": 0.38513513513513514,
+    "note": 60,
+    "velocity": 64
+  },
+  {
+    "stem": "pad",
+    "time": 61.62162162162162,
+    "duration": 3.2182432432432493,
+    "note": 63,
+    "velocity": 57
+  },
+  {
+    "stem": "pad",
+    "time": 61.62162162162162,
+    "duration": 3.2182432432432493,
+    "note": 67,
+    "velocity": 57
+  },
+  {
+    "stem": "pad",
+    "time": 61.62162162162162,
+    "duration": 3.2182432432432493,
+    "note": 70,
+    "velocity": 57
+  },
+  {
+    "stem": "pad",
+    "time": 61.62162162162162,
+    "duration": 3.2182432432432493,
+    "note": 77,
+    "velocity": 57
+  },
+  {
+    "stem": "pad",
+    "time": 61.62162162162162,
+    "duration": 3.2182432432432493,
+    "note": 82,
+    "velocity": 57
+  },
+  {
+    "stem": "drums",
+    "time": 61.62162162162162,
+    "duration": 0.39,
+    "note": 36,
+    "velocity": 105
+  },
+  {
+    "stem": "drums",
+    "time": 62.736486486486484,
+    "duration": 0.39,
+    "note": 36,
+    "velocity": 105
+  },
+  {
+    "stem": "drums",
+    "time": 62.432432432432435,
+    "duration": 0.21,
+    "note": 38,
+    "velocity": 108
+  },
+  {
+    "stem": "drums",
+    "time": 62.442567567567565,
+    "duration": 0.19,
+    "note": 39,
+    "velocity": 80
+  },
+  {
+    "stem": "drums",
+    "time": 61.62162162162162,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 48
+  },
+  {
+    "stem": "drums",
+    "time": 61.82432432432432,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 69
+  },
+  {
+    "stem": "drums",
+    "time": 62.027027027027025,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 48
+  },
+  {
+    "stem": "drums",
+    "time": 62.229729729729726,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 69
+  },
+  {
+    "stem": "drums",
+    "time": 62.432432432432435,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 48
+  },
+  {
+    "stem": "drums",
+    "time": 62.63513513513514,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 69
+  },
+  {
+    "stem": "drums",
+    "time": 62.83783783783784,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 48
+  },
+  {
+    "stem": "drums",
+    "time": 63.04054054054054,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 69
+  },
+  {
+    "stem": "bass",
+    "time": 61.62162162162162,
+    "duration": 0.5067567567567568,
+    "note": 39,
+    "velocity": 74
+  },
+  {
+    "stem": "bass",
+    "time": 62.229729729729726,
+    "duration": 0.20270270270270271,
+    "note": 39,
+    "velocity": 74
+  },
+  {
+    "stem": "bass",
+    "time": 62.736486486486484,
+    "duration": 0.30405405405405406,
+    "note": 39,
+    "velocity": 74
+  },
+  {
+    "stem": "bass",
+    "time": 63.04054054054054,
+    "duration": 0.14189189189189189,
+    "note": 39,
+    "velocity": 74
+  },
+  {
+    "stem": "chords",
+    "time": 61.62162162162162,
+    "duration": 1.5966216216216211,
+    "note": 63,
+    "velocity": 80
+  },
+  {
+    "stem": "chords",
+    "time": 61.62162162162162,
+    "duration": 1.5966216216216211,
+    "note": 67,
+    "velocity": 80
+  },
+  {
+    "stem": "chords",
+    "time": 61.62162162162162,
+    "duration": 1.5966216216216211,
+    "note": 70,
+    "velocity": 80
+  },
+  {
+    "stem": "chords",
+    "time": 61.62162162162162,
+    "duration": 1.5966216216216211,
+    "note": 77,
+    "velocity": 80
+  },
+  {
+    "stem": "chords",
+    "time": 61.62162162162162,
+    "duration": 1.5966216216216211,
+    "note": 82,
+    "velocity": 80
+  },
+  {
+    "stem": "drums",
+    "time": 63.24324324324324,
+    "duration": 0.39,
+    "note": 36,
+    "velocity": 105
+  },
+  {
+    "stem": "drums",
+    "time": 63.85135135135135,
+    "duration": 0.39,
+    "note": 36,
+    "velocity": 105
+  },
+  {
+    "stem": "drums",
+    "time": 64.5608108108108,
+    "duration": 0.30405405405406327,
+    "note": 36,
+    "velocity": 105
+  },
+  {
+    "stem": "drums",
+    "time": 64.05405405405405,
+    "duration": 0.21,
+    "note": 38,
+    "velocity": 108
+  },
+  {
+    "stem": "drums",
+    "time": 64.0641891891892,
+    "duration": 0.19,
+    "note": 39,
+    "velocity": 80
+  },
+  {
+    "stem": "drums",
+    "time": 63.24324324324324,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 48
+  },
+  {
+    "stem": "drums",
+    "time": 63.445945945945944,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 69
+  },
+  {
+    "stem": "drums",
+    "time": 63.648648648648646,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 48
+  },
+  {
+    "stem": "drums",
+    "time": 63.85135135135135,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 69
+  },
+  {
+    "stem": "drums",
+    "time": 64.05405405405405,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 48
+  },
+  {
+    "stem": "drums",
+    "time": 64.25675675675676,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 69
+  },
+  {
+    "stem": "drums",
+    "time": 64.45945945945945,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 48
+  },
+  {
+    "stem": "drums",
+    "time": 64.66216216216216,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 69
+  },
+  {
+    "stem": "drums",
+    "time": 64.5608108108108,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 50
+  },
+  {
+    "stem": "drums",
+    "time": 64.61148648648648,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 50
+  },
+  {
+    "stem": "drums",
+    "time": 64.71283783783784,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 50
+  },
+  {
+    "stem": "drums",
+    "time": 64.76351351351352,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 50
+  },
+  {
+    "stem": "drums",
+    "time": 64.8141891891892,
+    "duration": 0.05067567567567721,
+    "note": 42,
+    "velocity": 50
+  },
+  {
+    "stem": "bass",
+    "time": 63.24324324324324,
+    "duration": 0.5067567567567568,
+    "note": 39,
+    "velocity": 74
+  },
+  {
+    "stem": "bass",
+    "time": 63.85135135135135,
+    "duration": 0.20270270270270271,
+    "note": 39,
+    "velocity": 74
+  },
+  {
+    "stem": "bass",
+    "time": 64.35810810810811,
+    "duration": 0.30405405405405406,
+    "note": 39,
+    "velocity": 74
+  },
+  {
+    "stem": "bass",
+    "time": 64.66216216216216,
+    "duration": 0.14189189189189189,
+    "note": 51,
+    "velocity": 74
+  },
+  {
+    "stem": "chords",
+    "time": 63.24324324324324,
+    "duration": 1.5966216216216282,
+    "note": 63,
+    "velocity": 80
+  },
+  {
+    "stem": "chords",
+    "time": 63.24324324324324,
+    "duration": 1.5966216216216282,
+    "note": 67,
+    "velocity": 80
+  },
+  {
+    "stem": "chords",
+    "time": 63.24324324324324,
+    "duration": 1.5966216216216282,
+    "note": 70,
+    "velocity": 80
+  },
+  {
+    "stem": "chords",
+    "time": 63.24324324324324,
+    "duration": 1.5966216216216282,
+    "note": 77,
+    "velocity": 80
+  },
+  {
+    "stem": "chords",
+    "time": 63.24324324324324,
+    "duration": 1.5966216216216282,
+    "note": 82,
+    "velocity": 80
+  },
+  {
+    "stem": "lead",
+    "time": 63.24324324324324,
+    "duration": 0.30405405405405406,
+    "note": 70,
+    "velocity": 64
+  },
+  {
+    "stem": "lead",
+    "time": 63.75,
+    "duration": 0.222972972972973,
+    "note": 67,
+    "velocity": 64
+  },
+  {
+    "stem": "lead",
+    "time": 64.25675675675676,
+    "duration": 0.38513513513513514,
+    "note": 63,
+    "velocity": 64
+  },
+  {
+    "stem": "pad",
+    "time": 64.86486486486487,
+    "duration": 3.218243243243242,
+    "note": 65,
+    "velocity": 57
+  },
+  {
+    "stem": "pad",
+    "time": 64.86486486486487,
+    "duration": 3.218243243243242,
+    "note": 68,
+    "velocity": 57
+  },
+  {
+    "stem": "pad",
+    "time": 64.86486486486487,
+    "duration": 3.218243243243242,
+    "note": 72,
+    "velocity": 57
+  },
+  {
+    "stem": "pad",
+    "time": 64.86486486486487,
+    "duration": 3.218243243243242,
+    "note": 75,
+    "velocity": 57
+  },
+  {
+    "stem": "pad",
+    "time": 64.86486486486487,
+    "duration": 3.218243243243242,
+    "note": 79,
+    "velocity": 57
+  },
+  {
+    "stem": "drums",
+    "time": 64.86486486486487,
+    "duration": 0.39,
+    "note": 36,
+    "velocity": 105
+  },
+  {
+    "stem": "drums",
+    "time": 65.97972972972974,
+    "duration": 0.39,
+    "note": 36,
+    "velocity": 105
+  },
+  {
+    "stem": "drums",
+    "time": 65.67567567567568,
+    "duration": 0.21,
+    "note": 38,
+    "velocity": 108
+  },
+  {
+    "stem": "drums",
+    "time": 65.68581081081082,
+    "duration": 0.19,
+    "note": 39,
+    "velocity": 80
+  },
+  {
+    "stem": "drums",
+    "time": 64.86486486486487,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 48
+  },
+  {
+    "stem": "drums",
+    "time": 65.06756756756758,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 69
+  },
+  {
+    "stem": "drums",
+    "time": 65.27027027027027,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 48
+  },
+  {
+    "stem": "drums",
+    "time": 65.47297297297298,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 69
+  },
+  {
+    "stem": "drums",
+    "time": 65.67567567567568,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 48
+  },
+  {
+    "stem": "drums",
+    "time": 65.87837837837839,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 69
+  },
+  {
+    "stem": "drums",
+    "time": 66.08108108108108,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 48
+  },
+  {
+    "stem": "drums",
+    "time": 66.28378378378379,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 69
+  },
+  {
+    "stem": "bass",
+    "time": 64.86486486486487,
+    "duration": 0.5067567567567568,
+    "note": 41,
+    "velocity": 74
+  },
+  {
+    "stem": "bass",
+    "time": 65.47297297297298,
+    "duration": 0.20270270270270271,
+    "note": 41,
+    "velocity": 74
+  },
+  {
+    "stem": "bass",
+    "time": 65.97972972972974,
+    "duration": 0.30405405405405406,
+    "note": 41,
+    "velocity": 74
+  },
+  {
+    "stem": "bass",
+    "time": 66.28378378378379,
+    "duration": 0.14189189189189189,
+    "note": 41,
+    "velocity": 74
+  },
+  {
+    "stem": "chords",
+    "time": 64.86486486486487,
+    "duration": 1.5966216216216282,
+    "note": 65,
+    "velocity": 80
+  },
+  {
+    "stem": "chords",
+    "time": 64.86486486486487,
+    "duration": 1.5966216216216282,
+    "note": 68,
+    "velocity": 80
+  },
+  {
+    "stem": "chords",
+    "time": 64.86486486486487,
+    "duration": 1.5966216216216282,
+    "note": 72,
+    "velocity": 80
+  },
+  {
+    "stem": "chords",
+    "time": 64.86486486486487,
+    "duration": 1.5966216216216282,
+    "note": 75,
+    "velocity": 80
+  },
+  {
+    "stem": "chords",
+    "time": 64.86486486486487,
+    "duration": 1.5966216216216282,
+    "note": 79,
+    "velocity": 80
+  },
+  {
+    "stem": "lead",
+    "time": 65.06756756756758,
+    "duration": 0.20270270270270271,
+    "note": 79,
+    "velocity": 64
+  },
+  {
+    "stem": "lead",
+    "time": 65.47297297297298,
+    "duration": 0.12162162162162163,
+    "note": 75,
+    "velocity": 64
+  },
+  {
+    "stem": "lead",
+    "time": 65.87837837837839,
+    "duration": 0.24324324324324326,
+    "note": 68,
+    "velocity": 64
+  },
+  {
+    "stem": "lead",
+    "time": 66.28378378378379,
+    "duration": 0.14189189189189189,
+    "note": 72,
+    "velocity": 64
+  },
+  {
+    "stem": "drums",
+    "time": 66.4864864864865,
+    "duration": 0.39,
+    "note": 36,
+    "velocity": 105
+  },
+  {
+    "stem": "drums",
+    "time": 67.09459459459461,
+    "duration": 0.39,
+    "note": 36,
+    "velocity": 105
+  },
+  {
+    "stem": "drums",
+    "time": 67.80405405405406,
+    "duration": 0.30405405405404906,
+    "note": 36,
+    "velocity": 105
+  },
+  {
+    "stem": "drums",
+    "time": 67.2972972972973,
+    "duration": 0.21,
+    "note": 38,
+    "velocity": 108
+  },
+  {
+    "stem": "drums",
+    "time": 67.30743243243245,
+    "duration": 0.19,
+    "note": 39,
+    "velocity": 80
+  },
+  {
+    "stem": "drums",
+    "time": 66.4864864864865,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 48
+  },
+  {
+    "stem": "drums",
+    "time": 66.68918918918921,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 69
+  },
+  {
+    "stem": "drums",
+    "time": 66.8918918918919,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 48
+  },
+  {
+    "stem": "drums",
+    "time": 67.09459459459461,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 69
+  },
+  {
+    "stem": "drums",
+    "time": 67.2972972972973,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 48
+  },
+  {
+    "stem": "drums",
+    "time": 67.50000000000001,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 69
+  },
+  {
+    "stem": "drums",
+    "time": 67.70270270270271,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 48
+  },
+  {
+    "stem": "drums",
+    "time": 67.90540540540542,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 69
+  },
+  {
+    "stem": "bass",
+    "time": 66.4864864864865,
+    "duration": 0.5067567567567568,
+    "note": 41,
+    "velocity": 74
+  },
+  {
+    "stem": "bass",
+    "time": 67.09459459459461,
+    "duration": 0.20270270270270271,
+    "note": 41,
+    "velocity": 74
+  },
+  {
+    "stem": "bass",
+    "time": 67.60135135135137,
+    "duration": 0.30405405405405406,
+    "note": 41,
+    "velocity": 74
+  },
+  {
+    "stem": "bass",
+    "time": 67.90540540540542,
+    "duration": 0.14189189189189189,
+    "note": 41,
+    "velocity": 74
+  },
+  {
+    "stem": "chords",
+    "time": 66.4864864864865,
+    "duration": 1.596621621621614,
+    "note": 65,
+    "velocity": 80
+  },
+  {
+    "stem": "chords",
+    "time": 66.4864864864865,
+    "duration": 1.596621621621614,
+    "note": 68,
+    "velocity": 80
+  },
+  {
+    "stem": "chords",
+    "time": 66.4864864864865,
+    "duration": 1.596621621621614,
+    "note": 72,
+    "velocity": 80
+  },
+  {
+    "stem": "chords",
+    "time": 66.4864864864865,
+    "duration": 1.596621621621614,
+    "note": 75,
+    "velocity": 80
+  },
+  {
+    "stem": "chords",
+    "time": 66.4864864864865,
+    "duration": 1.596621621621614,
+    "note": 79,
+    "velocity": 80
+  },
+  {
+    "stem": "lead",
+    "time": 66.4864864864865,
+    "duration": 0.30405405405405406,
+    "note": 72,
+    "velocity": 64
+  },
+  {
+    "stem": "lead",
+    "time": 66.99324324324326,
+    "duration": 0.222972972972973,
+    "note": 68,
+    "velocity": 64
+  },
+  {
+    "stem": "lead",
+    "time": 67.50000000000001,
+    "duration": 0.38513513513513514,
+    "note": 65,
+    "velocity": 64
+  },
+  {
+    "stem": "pad",
+    "time": 68.10810810810811,
+    "duration": 3.218243243243242,
+    "note": 65,
+    "velocity": 57
+  },
+  {
+    "stem": "pad",
+    "time": 68.10810810810811,
+    "duration": 3.218243243243242,
+    "note": 68,
+    "velocity": 57
+  },
+  {
+    "stem": "pad",
+    "time": 68.10810810810811,
+    "duration": 3.218243243243242,
+    "note": 72,
+    "velocity": 57
+  },
+  {
+    "stem": "pad",
+    "time": 68.10810810810811,
+    "duration": 3.218243243243242,
+    "note": 75,
+    "velocity": 57
+  },
+  {
+    "stem": "pad",
+    "time": 68.10810810810811,
+    "duration": 3.218243243243242,
+    "note": 80,
+    "velocity": 57
+  },
+  {
+    "stem": "drums",
+    "time": 68.10810810810811,
+    "duration": 0.39,
+    "note": 36,
+    "velocity": 105
+  },
+  {
+    "stem": "drums",
+    "time": 69.22297297297298,
+    "duration": 0.39,
+    "note": 36,
+    "velocity": 105
+  },
+  {
+    "stem": "drums",
+    "time": 68.91891891891892,
+    "duration": 0.21,
+    "note": 38,
+    "velocity": 108
+  },
+  {
+    "stem": "drums",
+    "time": 68.92905405405406,
+    "duration": 0.19,
+    "note": 39,
+    "velocity": 80
+  },
+  {
+    "stem": "drums",
+    "time": 68.10810810810811,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 48
+  },
+  {
+    "stem": "drums",
+    "time": 68.31081081081082,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 69
+  },
+  {
+    "stem": "drums",
+    "time": 68.51351351351352,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 48
+  },
+  {
+    "stem": "drums",
+    "time": 68.71621621621622,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 69
+  },
+  {
+    "stem": "drums",
+    "time": 68.91891891891892,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 48
+  },
+  {
+    "stem": "drums",
+    "time": 69.12162162162163,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 69
+  },
+  {
+    "stem": "drums",
+    "time": 69.32432432432432,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 48
+  },
+  {
+    "stem": "drums",
+    "time": 69.52702702702703,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 69
+  },
+  {
+    "stem": "bass",
+    "time": 68.10810810810811,
+    "duration": 0.5067567567567568,
+    "note": 37,
+    "velocity": 74
+  },
+  {
+    "stem": "bass",
+    "time": 68.71621621621622,
+    "duration": 0.20270270270270271,
+    "note": 37,
+    "velocity": 74
+  },
+  {
+    "stem": "bass",
+    "time": 69.22297297297298,
+    "duration": 0.30405405405405406,
+    "note": 37,
+    "velocity": 74
+  },
+  {
+    "stem": "bass",
+    "time": 69.52702702702703,
+    "duration": 0.14189189189189189,
+    "note": 37,
+    "velocity": 74
+  },
+  {
+    "stem": "chords",
+    "time": 68.10810810810811,
+    "duration": 1.5966216216216282,
+    "note": 65,
+    "velocity": 80
+  },
+  {
+    "stem": "chords",
+    "time": 68.10810810810811,
+    "duration": 1.5966216216216282,
+    "note": 68,
+    "velocity": 80
+  },
+  {
+    "stem": "chords",
+    "time": 68.10810810810811,
+    "duration": 1.5966216216216282,
+    "note": 72,
+    "velocity": 80
+  },
+  {
+    "stem": "chords",
+    "time": 68.10810810810811,
+    "duration": 1.5966216216216282,
+    "note": 75,
+    "velocity": 80
+  },
+  {
+    "stem": "chords",
+    "time": 68.10810810810811,
+    "duration": 1.5966216216216282,
+    "note": 80,
+    "velocity": 80
+  },
+  {
+    "stem": "drums",
+    "time": 69.72972972972974,
+    "duration": 0.39,
+    "note": 36,
+    "velocity": 105
+  },
+  {
+    "stem": "drums",
+    "time": 70.33783783783785,
+    "duration": 0.39,
+    "note": 36,
+    "velocity": 105
+  },
+  {
+    "stem": "drums",
+    "time": 71.0472972972973,
+    "duration": 0.30405405405404906,
+    "note": 36,
+    "velocity": 105
+  },
+  {
+    "stem": "drums",
+    "time": 70.54054054054055,
+    "duration": 0.21,
+    "note": 38,
+    "velocity": 108
+  },
+  {
+    "stem": "drums",
+    "time": 70.55067567567569,
+    "duration": 0.19,
+    "note": 39,
+    "velocity": 80
+  },
+  {
+    "stem": "drums",
+    "time": 69.72972972972974,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 48
+  },
+  {
+    "stem": "drums",
+    "time": 69.93243243243245,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 69
+  },
+  {
+    "stem": "drums",
+    "time": 70.13513513513514,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 48
+  },
+  {
+    "stem": "drums",
+    "time": 70.33783783783785,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 69
+  },
+  {
+    "stem": "drums",
+    "time": 70.54054054054055,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 48
+  },
+  {
+    "stem": "drums",
+    "time": 70.74324324324326,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 69
+  },
+  {
+    "stem": "drums",
+    "time": 70.94594594594595,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 48
+  },
+  {
+    "stem": "drums",
+    "time": 71.14864864864866,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 69
+  },
+  {
+    "stem": "drums",
+    "time": 71.0472972972973,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 50
+  },
+  {
+    "stem": "drums",
+    "time": 71.09797297297298,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 50
+  },
+  {
+    "stem": "drums",
+    "time": 71.19932432432434,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 50
+  },
+  {
+    "stem": "drums",
+    "time": 71.25000000000001,
+    "duration": 0.074,
+    "note": 42,
+    "velocity": 50
+  },
+  {
+    "stem": "drums",
+    "time": 71.30067567567569,
+    "duration": 0.050675675675663,
+    "note": 42,
+    "velocity": 50
+  },
+  {
+    "stem": "bass",
+    "time": 69.72972972972974,
+    "duration": 0.5067567567567568,
+    "note": 37,
+    "velocity": 74
+  },
+  {
+    "stem": "bass",
+    "time": 70.33783783783785,
+    "duration": 0.20270270270270271,
+    "note": 37,
+    "velocity": 74
+  },
+  {
+    "stem": "bass",
+    "time": 70.84459459459461,
+    "duration": 0.30405405405405406,
+    "note": 37,
+    "velocity": 74
+  },
+  {
+    "stem": "bass",
+    "time": 71.14864864864866,
+    "duration": 0.14189189189189189,
+    "note": 49,
+    "velocity": 74
+  },
+  {
+    "stem": "chords",
+    "time": 69.72972972972974,
+    "duration": 1.596621621621614,
+    "note": 65,
+    "velocity": 80
+  },
+  {
+    "stem": "chords",
+    "time": 69.72972972972974,
+    "duration": 1.596621621621614,
+    "note": 68,
+    "velocity": 80
+  },
+  {
+    "stem": "chords",
+    "time": 69.72972972972974,
+    "duration": 1.596621621621614,
+    "note": 72,
+    "velocity": 80
+  },
+  {
+    "stem": "chords",
+    "time": 69.72972972972974,
+    "duration": 1.596621621621614,
+    "note": 75,
+    "velocity": 80
+  },
+  {
+    "stem": "chords",
+    "time": 69.72972972972974,
+    "duration": 1.596621621621614,
+    "note": 80,
+    "velocity": 80
+  },
+  {
+    "stem": "lead",
+    "time": 69.72972972972974,
+    "duration": 0.30405405405405406,
+    "note": 72,
+    "velocity": 64
+  },
+  {
+    "stem": "lead",
+    "time": 70.2364864864865,
+    "duration": 0.222972972972973,
+    "note": 68,
+    "velocity": 64
+  },
+  {
+    "stem": "lead",
+    "time": 70.74324324324326,
+    "duration": 0.38513513513513514,
+    "note": 65,
+    "velocity": 64
+  },
+  {
+    "stem": "pad",
+    "time": 71.35135135135135,
+    "duration": 3.218243243243242,
+    "note": 60,
+    "velocity": 58
+  },
+  {
+    "stem": "pad",
+    "time": 71.35135135135135,
+    "duration": 3.218243243243242,
+    "note": 63,
+    "velocity": 58
+  },
+  {
+    "stem": "pad",
+    "time": 71.35135135135135,
+    "duration": 3.218243243243242,
+    "note": 68,
+    "velocity": 58
+  },
+  {
+    "stem": "pad",
+    "time": 71.35135135135135,
+    "duration": 3.218243243243242,
+    "note": 72,
+    "velocity": 58
+  },
+  {
+    "stem": "pad",
+    "time": 71.35135135135135,
+    "duration": 3.218243243243242,
+    "note": 79,
+    "velocity": 58
+  },
+  {
+    "stem": "keys",
+    "time": 71.35135135135135,
+    "duration": 0.6081081081081081,
+    "note": 60,
+    "velocity": 63
+  },
+  {
+    "stem": "keys",
+    "time": 71.95945945945947,
+    "duration": 0.6081081081081081,
+    "note": 72,
+    "velocity": 63
+  },
+  {
+    "stem": "keys",
+    "time": 72.66891891891892,
+    "duration": 0.6081081081081081,
+    "note": 63,
+    "velocity": 63
+  },
+  {
+    "stem": "keys",
+    "time": 73.17567567567568,
+    "duration": 0.6081081081081081,
+    "note": 79,
+    "velocity": 63
+  },
+  {
+    "stem": "keys",
+    "time": 73.78378378378379,
+    "duration": 0.6081081081081081,
+    "note": 68,
+    "velocity": 63
+  },
+  {
+    "stem": "pad",
+    "time": 74.5945945945946,
+    "duration": 3.218243243243242,
+    "note": 63,
+    "velocity": 58
+  },
+  {
+    "stem": "pad",
+    "time": 74.5945945945946,
+    "duration": 3.218243243243242,
+    "note": 67,
+    "velocity": 58
+  },
+  {
+    "stem": "pad",
+    "time": 74.5945945945946,
+    "duration": 3.218243243243242,
+    "note": 70,
+    "velocity": 58
+  },
+  {
+    "stem": "pad",
+    "time": 74.5945945945946,
+    "duration": 3.218243243243242,
+    "note": 77,
+    "velocity": 58
+  },
+  {
+    "stem": "pad",
+    "time": 74.5945945945946,
+    "duration": 3.218243243243242,
+    "note": 82,
+    "velocity": 58
+  },
+  {
+    "stem": "keys",
+    "time": 74.5945945945946,
+    "duration": 0.6081081081081081,
+    "note": 63,
+    "velocity": 63
+  },
+  {
+    "stem": "keys",
+    "time": 75.20270270270271,
+    "duration": 0.6081081081081081,
+    "note": 77,
+    "velocity": 63
+  },
+  {
+    "stem": "keys",
+    "time": 75.91216216216216,
+    "duration": 0.6081081081081081,
+    "note": 67,
+    "velocity": 63
+  },
+  {
+    "stem": "keys",
+    "time": 76.41891891891892,
+    "duration": 0.6081081081081081,
+    "note": 82,
+    "velocity": 63
+  },
+  {
+    "stem": "keys",
+    "time": 77.02702702702703,
+    "duration": 0.6081081081081081,
+    "note": 70,
+    "velocity": 63
+  },
+  {
+    "stem": "pad",
+    "time": 77.83783783783784,
+    "duration": 3.218243243243242,
+    "note": 65,
+    "velocity": 58
+  },
+  {
+    "stem": "pad",
+    "time": 77.83783783783784,
+    "duration": 3.218243243243242,
+    "note": 68,
+    "velocity": 58
+  },
+  {
+    "stem": "pad",
+    "time": 77.83783783783784,
+    "duration": 3.218243243243242,
+    "note": 72,
+    "velocity": 58
+  },
+  {
+    "stem": "pad",
+    "time": 77.83783783783784,
+    "duration": 3.218243243243242,
+    "note": 75,
+    "velocity": 58
+  },
+  {
+    "stem": "pad",
+    "time": 77.83783783783784,
+    "duration": 3.218243243243242,
+    "note": 79,
+    "velocity": 58
+  },
+  {
+    "stem": "keys",
+    "time": 77.83783783783784,
+    "duration": 0.6081081081081081,
+    "note": 65,
+    "velocity": 63
+  },
+  {
+    "stem": "keys",
+    "time": 78.44594594594595,
+    "duration": 0.6081081081081081,
+    "note": 75,
+    "velocity": 63
+  },
+  {
+    "stem": "keys",
+    "time": 79.1554054054054,
+    "duration": 0.6081081081081081,
+    "note": 68,
+    "velocity": 63
+  },
+  {
+    "stem": "keys",
+    "time": 79.66216216216216,
+    "duration": 0.6081081081081081,
+    "note": 79,
+    "velocity": 63
+  },
+  {
+    "stem": "keys",
+    "time": 80.27027027027027,
+    "duration": 0.6081081081081081,
+    "note": 72,
+    "velocity": 63
+  },
+  {
+    "stem": "pad",
+    "time": 81.08108108108108,
+    "duration": 3.218243243243242,
+    "note": 65,
+    "velocity": 58
+  },
+  {
+    "stem": "pad",
+    "time": 81.08108108108108,
+    "duration": 3.218243243243242,
+    "note": 68,
+    "velocity": 58
+  },
+  {
+    "stem": "pad",
+    "time": 81.08108108108108,
+    "duration": 3.218243243243242,
+    "note": 72,
+    "velocity": 58
+  },
+  {
+    "stem": "pad",
+    "time": 81.08108108108108,
+    "duration": 3.218243243243242,
+    "note": 75,
+    "velocity": 58
+  },
+  {
+    "stem": "pad",
+    "time": 81.08108108108108,
+    "duration": 3.218243243243242,
+    "note": 79,
+    "velocity": 58
+  },
+  {
+    "stem": "keys",
+    "time": 81.08108108108108,
+    "duration": 0.6081081081081081,
+    "note": 65,
+    "velocity": 63
+  },
+  {
+    "stem": "keys",
+    "time": 81.6891891891892,
+    "duration": 0.6081081081081081,
+    "note": 75,
+    "velocity": 63
+  },
+  {
+    "stem": "keys",
+    "time": 82.39864864864865,
+    "duration": 0.6081081081081081,
+    "note": 68,
+    "velocity": 63
+  },
+  {
+    "stem": "keys",
+    "time": 82.9054054054054,
+    "duration": 0.6081081081081081,
+    "note": 79,
+    "velocity": 63
+  },
+  {
+    "stem": "keys",
+    "time": 83.51351351351352,
+    "duration": 0.6081081081081081,
+    "note": 72,
+    "velocity": 63
+  },
+  {
+    "stem": "pad",
+    "time": 84.32432432432432,
+    "duration": 3.218243243243242,
+    "note": 65,
+    "velocity": 58
+  },
+  {
+    "stem": "pad",
+    "time": 84.32432432432432,
+    "duration": 3.218243243243242,
+    "note": 68,
+    "velocity": 58
+  },
+  {
+    "stem": "pad",
+    "time": 84.32432432432432,
+    "duration": 3.218243243243242,
+    "note": 72,
+    "velocity": 58
+  },
+  {
+    "stem": "pad",
+    "time": 84.32432432432432,
+    "duration": 3.218243243243242,
+    "note": 75,
+    "velocity": 58
+  },
+  {
+    "stem": "pad",
+    "time": 84.32432432432432,
+    "duration": 3.218243243243242,
+    "note": 79,
+    "velocity": 58
+  },
+  {
+    "stem": "keys",
+    "time": 84.32432432432432,
+    "duration": 0.6081081081081081,
+    "note": 65,
+    "velocity": 63
+  },
+  {
+    "stem": "keys",
+    "time": 84.93243243243244,
+    "duration": 0.6081081081081081,
+    "note": 75,
+    "velocity": 63
+  },
+  {
+    "stem": "keys",
+    "time": 85.64189189189189,
+    "duration": 0.6081081081081081,
+    "note": 68,
+    "velocity": 63
+  },
+  {
+    "stem": "keys",
+    "time": 86.14864864864865,
+    "duration": 0.6081081081081081,
+    "note": 79,
+    "velocity": 63
+  },
+  {
+    "stem": "keys",
+    "time": 86.75675675675676,
+    "duration": 0.6081081081081081,
+    "note": 72,
+    "velocity": 63
+  },
+  {
+    "stem": "pad",
+    "time": 87.56756756756756,
+    "duration": 2.407432432432435,
+    "note": 65,
+    "velocity": 58
+  },
+  {
+    "stem": "pad",
+    "time": 87.56756756756756,
+    "duration": 2.407432432432435,
+    "note": 68,
+    "velocity": 58
+  },
+  {
+    "stem": "pad",
+    "time": 87.56756756756756,
+    "duration": 2.407432432432435,
+    "note": 72,
+    "velocity": 58
+  },
+  {
+    "stem": "pad",
+    "time": 87.56756756756756,
+    "duration": 2.407432432432435,
+    "note": 75,
+    "velocity": 58
+  },
+  {
+    "stem": "pad",
+    "time": 87.56756756756756,
+    "duration": 2.407432432432435,
+    "note": 79,
+    "velocity": 58
+  },
+  {
+    "stem": "keys",
+    "time": 87.56756756756756,
+    "duration": 0.6081081081081081,
+    "note": 65,
+    "velocity": 63
+  },
+  {
+    "stem": "keys",
+    "time": 88.17567567567568,
+    "duration": 0.6081081081081081,
+    "note": 75,
+    "velocity": 63
+  },
+  {
+    "stem": "keys",
+    "time": 88.88513513513513,
+    "duration": 0.6081081081081081,
+    "note": 68,
+    "velocity": 63
+  },
+  {
+    "stem": "keys",
+    "time": 89.39189189189189,
+    "duration": 0.5961081081081123,
+    "note": 79,
+    "velocity": 63
+  }
+]

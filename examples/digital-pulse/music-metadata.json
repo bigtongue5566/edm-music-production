@@ -1,0 +1,324 @@
+{
+  "duration_seconds": 60.0,
+  "bpm": 172.0,
+  "key": "E minor",
+  "style": "Drum & Bass",
+  "identity": "drum-and-bass",
+  "sound_design": "Broken kick rhythm; snare on beats two and four plus ghost notes; fast, dynamic hats; detuned Reese mid bass separated from mono sine sub; sparse organ atmosphere.",
+  "original_composition": true,
+  "instrument_source": "original oscillators and generated percussion noise; no sampled recordings",
+  "note_events": 1057,
+  "unexpected_chord_conflicts": 0,
+  "harmonic_audit": "Explicit root and seventh/ninth chord pitch classes; sounding echoes clipped at harmonic boundaries.",
+  "limits": "Symbolic harmony and signal measurements do not establish listening quality.",
+  "harmony": [
+    {
+      "start": 0.0,
+      "end": 2.7906976744186047,
+      "role": "intro",
+      "name": "Em7",
+      "voices": [
+        55,
+        59,
+        62,
+        64
+      ],
+      "root": 40,
+      "section": 0
+    },
+    {
+      "start": 2.7906976744186047,
+      "end": 5.5813953488372094,
+      "role": "intro",
+      "name": "Cmaj7",
+      "voices": [
+        55,
+        59,
+        60,
+        64
+      ],
+      "root": 36,
+      "section": 0
+    },
+    {
+      "start": 5.5813953488372094,
+      "end": 8.372093023255815,
+      "role": "groove",
+      "name": "Gmaj7",
+      "voices": [
+        54,
+        59,
+        62,
+        67
+      ],
+      "root": 43,
+      "section": 1
+    },
+    {
+      "start": 8.372093023255815,
+      "end": 11.162790697674419,
+      "role": "groove",
+      "name": "Dadd9",
+      "voices": [
+        54,
+        57,
+        62,
+        64
+      ],
+      "root": 38,
+      "section": 1
+    },
+    {
+      "start": 11.162790697674419,
+      "end": 13.953488372093023,
+      "role": "build",
+      "name": "Em7",
+      "voices": [
+        55,
+        59,
+        62,
+        64
+      ],
+      "root": 40,
+      "section": 2
+    },
+    {
+      "start": 13.953488372093023,
+      "end": 16.74418604651163,
+      "role": "build",
+      "name": "Cmaj7",
+      "voices": [
+        55,
+        59,
+        60,
+        64
+      ],
+      "root": 36,
+      "section": 2
+    },
+    {
+      "start": 16.74418604651163,
+      "end": 19.534883720930235,
+      "role": "drop",
+      "name": "Gmaj7",
+      "voices": [
+        54,
+        59,
+        62,
+        67
+      ],
+      "root": 43,
+      "section": 3
+    },
+    {
+      "start": 19.534883720930235,
+      "end": 22.32558139534884,
+      "role": "drop",
+      "name": "Dadd9",
+      "voices": [
+        54,
+        57,
+        62,
+        64
+      ],
+      "root": 38,
+      "section": 3
+    },
+    {
+      "start": 22.32558139534884,
+      "end": 25.116279069767447,
+      "role": "drop",
+      "name": "Em7",
+      "voices": [
+        55,
+        59,
+        62,
+        64
+      ],
+      "root": 40,
+      "section": 3
+    },
+    {
+      "start": 25.116279069767447,
+      "end": 27.906976744186053,
+      "role": "drop",
+      "name": "Cmaj7",
+      "voices": [
+        55,
+        59,
+        60,
+        64
+      ],
+      "root": 36,
+      "section": 3
+    },
+    {
+      "start": 27.906976744186053,
+      "end": 30.69767441860466,
+      "role": "drop",
+      "name": "Gmaj7",
+      "voices": [
+        54,
+        59,
+        62,
+        67
+      ],
+      "root": 43,
+      "section": 3
+    },
+    {
+      "start": 30.69767441860466,
+      "end": 33.48837209302326,
+      "role": "drop",
+      "name": "Dadd9",
+      "voices": [
+        54,
+        57,
+        62,
+        64
+      ],
+      "root": 38,
+      "section": 3
+    },
+    {
+      "start": 33.48837209302326,
+      "end": 36.27906976744186,
+      "role": "break",
+      "name": "Em7",
+      "voices": [
+        55,
+        59,
+        62,
+        64
+      ],
+      "root": 40,
+      "section": 4
+    },
+    {
+      "start": 36.27906976744186,
+      "end": 39.06976744186046,
+      "role": "break",
+      "name": "Cmaj7",
+      "voices": [
+        55,
+        59,
+        60,
+        64
+      ],
+      "root": 36,
+      "section": 4
+    },
+    {
+      "start": 39.06976744186046,
+      "end": 41.860465116279066,
+      "role": "drop",
+      "name": "Gmaj7",
+      "voices": [
+        54,
+        59,
+        62,
+        67
+      ],
+      "root": 43,
+      "section": 5
+    },
+    {
+      "start": 41.860465116279066,
+      "end": 44.65116279069767,
+      "role": "drop",
+      "name": "Dadd9",
+      "voices": [
+        54,
+        57,
+        62,
+        64
+      ],
+      "root": 38,
+      "section": 5
+    },
+    {
+      "start": 44.65116279069767,
+      "end": 47.44186046511627,
+      "role": "drop",
+      "name": "Em7",
+      "voices": [
+        55,
+        59,
+        62,
+        64
+      ],
+      "root": 40,
+      "section": 5
+    },
+    {
+      "start": 47.44186046511627,
+      "end": 50.23255813953487,
+      "role": "drop",
+      "name": "Cmaj7",
+      "voices": [
+        55,
+        59,
+        60,
+        64
+      ],
+      "root": 36,
+      "section": 5
+    },
+    {
+      "start": 50.23255813953487,
+      "end": 53.023255813953476,
+      "role": "drop",
+      "name": "Gmaj7",
+      "voices": [
+        54,
+        59,
+        62,
+        67
+      ],
+      "root": 43,
+      "section": 5
+    },
+    {
+      "start": 53.023255813953476,
+      "end": 55.81395348837208,
+      "role": "drop",
+      "name": "Dadd9",
+      "voices": [
+        54,
+        57,
+        62,
+        64
+      ],
+      "root": 38,
+      "section": 5
+    },
+    {
+      "start": 55.81395348837209,
+      "end": 58.604651162790695,
+      "role": "outro",
+      "name": "Em7",
+      "voices": [
+        55,
+        59,
+        62,
+        64
+      ],
+      "root": 40,
+      "section": 6
+    },
+    {
+      "start": 58.604651162790695,
+      "end": 60.0,
+      "role": "outro",
+      "name": "Em7",
+      "voices": [
+        55,
+        59,
+        62,
+        64
+      ],
+      "root": 40,
+      "section": 6
+    }
+  ]
+}

@@ -19,8 +19,8 @@ to fit each brief; the starter melody is a starting point.
 
 **[Watch Form & Frequency with sound →](https://bigtongue5566.github.io/?demo=form-and-frequency)**
 
-An original 90-second motion-and-music study: 1080p, 128 BPM, D major,
-procedural geometry, and a new synthesized Melodic House arrangement.
+An original 90-second motion-and-music study: 1080p, 148 BPM, F minor,
+procedural geometry, and a new custom Future Bass arrangement.
 
 [Download the video](https://bigtongue5566.github.io/edm-music-production/media/form-and-frequency-90s.mp4) ·
 [Hear the music](https://bigtongue5566.github.io/edm-music-production/media/form-and-frequency.m4a) ·
@@ -37,8 +37,8 @@ media checks are included in the example.
 
 | Work | Music | Film | Standalone soundtrack | Reproducible source |
 | --- | --- | --- | --- | --- |
-| Digital Pulse / 數位脈動 | 60 sec · 128 BPM · Progressive House | [Watch](https://bigtongue5566.github.io/?demo=digital-pulse) | [Listen](https://bigtongue5566.github.io/?demo=digital-pulse-music) | [Project](https://github.com/bigtongue5566/edm-music-production/tree/main/examples/digital-pulse) |
-| Neon Drift / 霓虹漫遊 | 60 sec · 96 BPM · Synthwave / Electronic | [Watch](https://bigtongue5566.github.io/?demo=neon-drift) | [Listen](https://bigtongue5566.github.io/?demo=neon-drift-music) | [Project](https://github.com/bigtongue5566/edm-music-production/tree/main/examples/neon-drift) |
+| Digital Pulse / 數位脈動 | 60 sec · 172 BPM · Drum & Bass | [Watch](https://bigtongue5566.github.io/?demo=digital-pulse) | [Listen](https://bigtongue5566.github.io/?demo=digital-pulse-music) | [Project](https://github.com/bigtongue5566/edm-music-production/tree/main/examples/digital-pulse) |
+| Neon Drift / 霓虹漫遊 | 60 sec · 132 BPM · UK Garage | [Watch](https://bigtongue5566.github.io/?demo=neon-drift) | [Listen](https://bigtongue5566.github.io/?demo=neon-drift-music) | [Project](https://github.com/bigtongue5566/edm-music-production/tree/main/examples/neon-drift) |
 
 Each work has a new musical arrangement and original procedural visuals,
 documented sources, MIDI, editable code, and checks of the finished media.
@@ -49,11 +49,19 @@ documented sources, MIDI, editable code, and checks of the finished media.
 [Watch the paired film](https://bigtongue5566.github.io/?demo=tsmc-explained) ·
 [MIDI, synthesis source and checks](https://github.com/bigtongue5566/motion-graphics-video/tree/main/examples/tsmc-explained)
 
-A new 90-second, 120 BPM E minor Melodic House score for an independent, unofficial
+A new 90-second, 124 BPM D minor Dub Techno score for an independent, unofficial
 TSMC explainer. Oscillators and generated noise supply the instruments; no third-party
 recordings are sampled. The source includes the newly composed note patterns,
 editable MIDI, mastering code and direct AAC/WAV verification. This is an original
 creative Demo, not a TSMC commission or endorsement.
+
+## Refreshed multi-style showcase
+
+The four current films and soundtracks were recomposed and re-rendered on 2026-10-10:
+Future Bass (148 BPM), Drum & Bass (172 BPM), UK Garage (132 BPM), and Dub Techno (124 BPM).
+Their source packages retain explicit extended chords, notes, actual synthesis/automation,
+MIDI and finished-media QC. These custom example implementations are separate from the
+audio starter's three selectable presets. The films follow the new audio and actual kick events.
 
 ## Capabilities
 

@@ -1,0 +1,254 @@
+{
+  "duration_seconds": 60.0,
+  "bpm": 132.0,
+  "key": "C minor",
+  "style": "UK Garage",
+  "identity": "uk-garage",
+  "sound_design": "Swung two-step kick/clap groove; delayed odd sixteenths; tine-key seventh/ninth stabs; organ responses; short bass notes and deliberate gaps. No vocal samples.",
+  "original_composition": true,
+  "instrument_source": "original oscillators and generated percussion noise; no sampled recordings",
+  "note_events": 933,
+  "unexpected_chord_conflicts": 0,
+  "harmonic_audit": "Explicit root and seventh/ninth chord pitch classes; sounding echoes clipped at harmonic boundaries.",
+  "limits": "Symbolic harmony and signal measurements do not establish listening quality.",
+  "harmony": [
+    {
+      "start": 0.0,
+      "end": 3.6363636363636362,
+      "role": "intro",
+      "name": "Cm9",
+      "voices": [
+        51,
+        55,
+        58,
+        62
+      ],
+      "root": 36,
+      "section": 0
+    },
+    {
+      "start": 3.6363636363636362,
+      "end": 7.2727272727272725,
+      "role": "intro",
+      "name": "Abmaj7",
+      "voices": [
+        48,
+        51,
+        56,
+        67
+      ],
+      "root": 44,
+      "section": 0
+    },
+    {
+      "start": 7.2727272727272725,
+      "end": 10.909090909090908,
+      "role": "groove",
+      "name": "Fm9",
+      "voices": [
+        56,
+        60,
+        63,
+        67
+      ],
+      "root": 41,
+      "section": 1
+    },
+    {
+      "start": 10.909090909090908,
+      "end": 14.545454545454545,
+      "role": "groove",
+      "name": "Bb9",
+      "voices": [
+        50,
+        53,
+        56,
+        60
+      ],
+      "root": 46,
+      "section": 1
+    },
+    {
+      "start": 14.545454545454545,
+      "end": 18.18181818181818,
+      "role": "drop",
+      "name": "Cm9",
+      "voices": [
+        51,
+        55,
+        58,
+        62
+      ],
+      "root": 36,
+      "section": 2
+    },
+    {
+      "start": 18.18181818181818,
+      "end": 21.818181818181817,
+      "role": "drop",
+      "name": "Abmaj7",
+      "voices": [
+        48,
+        51,
+        56,
+        67
+      ],
+      "root": 44,
+      "section": 2
+    },
+    {
+      "start": 21.818181818181817,
+      "end": 25.454545454545453,
+      "role": "drop",
+      "name": "Fm9",
+      "voices": [
+        56,
+        60,
+        63,
+        67
+      ],
+      "root": 41,
+      "section": 2
+    },
+    {
+      "start": 25.454545454545453,
+      "end": 29.09090909090909,
+      "role": "drop",
+      "name": "Bb9",
+      "voices": [
+        50,
+        53,
+        56,
+        60
+      ],
+      "root": 46,
+      "section": 2
+    },
+    {
+      "start": 29.09090909090909,
+      "end": 32.72727272727273,
+      "role": "drop",
+      "name": "Cm9",
+      "voices": [
+        51,
+        55,
+        58,
+        62
+      ],
+      "root": 36,
+      "section": 2
+    },
+    {
+      "start": 32.72727272727273,
+      "end": 36.36363636363636,
+      "role": "drop",
+      "name": "Abmaj7",
+      "voices": [
+        48,
+        51,
+        56,
+        67
+      ],
+      "root": 44,
+      "section": 2
+    },
+    {
+      "start": 36.36363636363637,
+      "end": 40.0,
+      "role": "break",
+      "name": "Fm9",
+      "voices": [
+        56,
+        60,
+        63,
+        67
+      ],
+      "root": 41,
+      "section": 3
+    },
+    {
+      "start": 40.0,
+      "end": 43.63636363636363,
+      "role": "break",
+      "name": "Bb9",
+      "voices": [
+        50,
+        53,
+        56,
+        60
+      ],
+      "root": 46,
+      "section": 3
+    },
+    {
+      "start": 43.63636363636363,
+      "end": 47.272727272727266,
+      "role": "drop",
+      "name": "Cm9",
+      "voices": [
+        51,
+        55,
+        58,
+        62
+      ],
+      "root": 36,
+      "section": 4
+    },
+    {
+      "start": 47.272727272727266,
+      "end": 50.9090909090909,
+      "role": "drop",
+      "name": "Abmaj7",
+      "voices": [
+        48,
+        51,
+        56,
+        67
+      ],
+      "root": 44,
+      "section": 4
+    },
+    {
+      "start": 50.9090909090909,
+      "end": 54.54545454545453,
+      "role": "drop",
+      "name": "Fm9",
+      "voices": [
+        56,
+        60,
+        63,
+        67
+      ],
+      "root": 41,
+      "section": 4
+    },
+    {
+      "start": 54.54545454545455,
+      "end": 58.18181818181818,
+      "role": "outro",
+      "name": "Cm9",
+      "voices": [
+        51,
+        55,
+        58,
+        62
+      ],
+      "root": 36,
+      "section": 5
+    },
+    {
+      "start": 58.18181818181818,
+      "end": 60.0,
+      "role": "outro",
+      "name": "Cm9",
+      "voices": [
+        51,
+        55,
+        58,
+        62
+      ],
+      "root": 36,
+      "section": 5
+    }
+  ]
+}

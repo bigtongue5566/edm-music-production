@@ -1,0 +1,49 @@
+{
+  "composition": "original UK Garage Demo arrangement",
+  "bpm": 132.0,
+  "key": "C minor",
+  "instrument_source": "original oscillators and generated percussion noise; no sampled recordings",
+  "soundfont_source": null,
+  "soundfont_sha256": null,
+  "soundfont_license_file": null,
+  "sections": [
+    {
+      "start": 0.0,
+      "end": 7.2727272727272725,
+      "role": "intro",
+      "label": "霓虹漫遊"
+    },
+    {
+      "start": 7.2727272727272725,
+      "end": 14.545454545454545,
+      "role": "groove",
+      "label": "CRUISE"
+    },
+    {
+      "start": 14.545454545454545,
+      "end": 36.36363636363637,
+      "role": "drop",
+      "label": "FLOW"
+    },
+    {
+      "start": 36.36363636363637,
+      "end": 43.63636363636363,
+      "role": "break",
+      "label": "STILL"
+    },
+    {
+      "start": 43.63636363636363,
+      "end": 54.54545454545455,
+      "role": "drop",
+      "label": "EXPLORE"
+    },
+    {
+      "start": 54.54545454545455,
+      "end": 60.0,
+      "role": "outro",
+      "label": "NEON DRIFT"
+    }
+  ],
+  "midi_note": "GM instrument suggestions; MIDI playback will not reproduce the custom synthesized audio.",
+  "stem_note": "Float32 premaster stems share gain and fades; they are not separately loudness normalized."
+}

@@ -10,58 +10,102 @@
     "fluidsynth": null,
     "soundfont_source": null,
     "license": null,
-    "bpm": 128.0,
-    "key": "F# minor",
+    "bpm": 172,
+    "key": "E minor",
     "progression": [
       "i",
       "VI",
       "III",
       "VII"
     ],
-    "seed": 20261011,
-    "style": "Progressive House",
-    "arrangement": "pulse"
+    "seed": 26101042,
+    "style": "Drum & Bass",
+    "arrangement": "pulse",
+    "identity": "drum-and-bass",
+    "voiced_chords": [
+      {
+        "name": "Em7",
+        "voices": [
+          55,
+          59,
+          62,
+          64
+        ],
+        "root": 40
+      },
+      {
+        "name": "Cmaj7",
+        "voices": [
+          55,
+          59,
+          60,
+          64
+        ],
+        "root": 36
+      },
+      {
+        "name": "Gmaj7",
+        "voices": [
+          54,
+          59,
+          62,
+          67
+        ],
+        "root": 43
+      },
+      {
+        "name": "Dadd9",
+        "voices": [
+          54,
+          57,
+          62,
+          64
+        ],
+        "root": 38
+      }
+    ],
+    "sound_design": "Broken kick rhythm; snare on beats two and four plus ghost notes; fast, dynamic hats; detuned Reese mid bass separated from mono sine sub; sparse organ atmosphere."
   },
   "sections": [
     {
-      "start": 0,
-      "end": 7.5,
+      "start": 0.0,
+      "end": 5.5813953488372094,
       "role": "intro",
       "label": "數位脈動"
     },
     {
-      "start": 7.5,
-      "end": 15,
+      "start": 5.5813953488372094,
+      "end": 11.162790697674419,
       "role": "groove",
       "label": "CONNECT"
     },
     {
-      "start": 15,
-      "end": 22.5,
+      "start": 11.162790697674419,
+      "end": 16.74418604651163,
       "role": "build",
       "label": "CHARGE"
     },
     {
-      "start": 22.5,
-      "end": 37.5,
+      "start": 16.74418604651163,
+      "end": 33.48837209302326,
       "role": "drop",
       "label": "ACTIVATE"
     },
     {
-      "start": 37.5,
-      "end": 45,
+      "start": 33.48837209302326,
+      "end": 39.06976744186046,
       "role": "break",
       "label": "PAUSE"
     },
     {
-      "start": 45,
-      "end": 56.25,
+      "start": 39.06976744186046,
+      "end": 55.81395348837209,
       "role": "drop",
       "label": "TRANSMIT"
     },
     {
-      "start": 56.25,
-      "end": 60,
+      "start": 55.81395348837209,
+      "end": 60.0,
       "role": "outro",
       "label": "DIGITAL PULSE"
     }
@@ -82,61 +126,62 @@
     },
     "scenes": [
       {
-        "start": 0,
-        "end": 7.5,
+        "start": 0.0,
+        "end": 5.5813953488372094,
         "kind": "origin",
         "headline": "DIGITAL\nPULSE",
         "caption": "數位脈動",
         "body": "把微小訊號，轉成前進的能量。"
       },
       {
-        "start": 7.5,
-        "end": 15,
+        "start": 5.5813953488372094,
+        "end": 11.162790697674419,
         "kind": "circuit",
         "headline": "訊號開始\n彼此連接",
         "caption": "CONNECT",
         "body": "每一個節點，都有自己的節奏。"
       },
       {
-        "start": 15,
-        "end": 22.5,
+        "start": 11.162790697674419,
+        "end": 16.74418604651163,
         "kind": "scan",
         "headline": "能量聚集\n準備啟動",
         "caption": "CHARGE",
         "body": "讓線條、光點與聲音一起推進。"
       },
       {
-        "start": 22.5,
-        "end": 37.5,
+        "start": 16.74418604651163,
+        "end": 33.48837209302326,
         "kind": "matrix",
         "headline": "一個節拍\n喚醒整個網絡",
         "caption": "ACTIVATE",
         "body": "資料流動，畫面也跟著展開。"
       },
       {
-        "start": 37.5,
-        "end": 45,
+        "start": 33.48837209302326,
+        "end": 39.06976744186046,
         "kind": "wave",
         "headline": "訊號之間\n留下空間",
         "caption": "PAUSE",
         "body": "降低密度，看見細微的變化。"
       },
       {
-        "start": 45,
-        "end": 56.25,
+        "start": 39.06976744186046,
+        "end": 55.81395348837209,
         "kind": "radar",
         "headline": "向外傳遞\n更多可能",
         "caption": "TRANSMIT",
         "body": "節奏越過邊界，形成新的連接。"
       },
       {
-        "start": 56.25,
-        "end": 60,
+        "start": 55.81395348837209,
+        "end": 60.0,
         "kind": "closing",
         "headline": "數位脈動",
         "caption": "DIGITAL PULSE",
         "body": "ORIGINAL MOTION + ORIGINAL MUSIC"
       }
     ]
-  }
+  },
+  "revision": "2026-10-10-multi-style"
 }

@@ -9,17 +9,17 @@
   "audio_sample_rate": 48000,
   "audio_channels": 2,
   "audio_decoded_seconds": 60.01067,
-  "integrated_lufs": -15.9,
+  "integrated_lufs": -16.0,
   "true_peak_dbtp": -2.0,
   "full_decode_errors": 0,
   "sampled_encoded_frames": 12,
   "geometry_motion_difference": {
-    "intro_motion": 1.624,
-    "drop_motion": 5.327
+    "intro_motion": 1.627,
+    "drop_motion": 6.539
   },
-  "music_bpm": 128.0,
-  "music_key": "F# minor",
-  "mp4_bytes": 9359568,
-  "mp4_sha256": "fc0f2a2e14d9823dceebd1b016e2d3aaa93f6888ca0d1e9c1eb62fea1b867580",
+  "music_bpm": 172,
+  "music_key": "E minor",
+  "mp4_bytes": 9486777,
+  "mp4_sha256": "eb155f4a22e7a370b517100ece09a4bbe3cc12799a72a6277b5eb274b0ec03be",
   "limits": "Objective verification does not certify subjective listening quality."
 }

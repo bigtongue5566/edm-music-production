@@ -9,23 +9,23 @@
     "sample_width_bytes": 3,
     "samples": 4320000,
     "integrated_lufs": -15.9,
-    "true_peak_dbfs": -2.2,
-    "loudness_range_lu": 3.9
+    "true_peak_dbfs": -3.7,
+    "loudness_range_lu": 4.3
   },
   "aac": {
     "file": "form-and-frequency.m4a",
     "decoded_seconds": 90.00533,
     "integrated_lufs": -15.9,
-    "true_peak_dbfs": -2.3,
-    "loudness_range_lu": 3.9
+    "true_peak_dbfs": -3.7,
+    "loudness_range_lu": 4.3
   },
   "full_decode_errors": 0,
-  "mono_fold_down_db": -0.689,
-  "ending_rms_last_50ms": 0.0,
+  "mono_fold_down_db": -0.974,
+  "ending_rms_last_50ms": 1e-06,
   "unexpected_near_silent_seconds": [],
-  "bpm": 128.0,
-  "key": "D major",
+  "bpm": 148.0,
+  "key": "F minor",
   "unexpected_chord_conflicts": 0,
-  "aac_sha256": "387d7c72baaa2f16a43ded03e778c0aa2c615b83824d2e403a50e3cc578e5e67",
+  "aac_sha256": "6b456863eae28a6a3b27a0ca6d2f3f82adf97f04c9706291acf88b4a8d0800e3",
   "limits": "Objective QC does not certify listening quality."
 }

@@ -44,7 +44,7 @@ class Master:
                   "-c:a", "pcm_s24le", "-t", str(self.cfg["duration"]), str(self.wav)], "mastering.log")
         self.run(["-y", "-i", str(self.wav), "-c:a", "aac", "-b:a", "256k", "-ar", "48000", "-ac", "2",
                   "-movflags", "+faststart", "-metadata", "title=" + self.cfg["name"],
-                  "-metadata", "comment=Original melodic-house composition; see music provenance.", str(self.aac)], "aac-encoding.log")
+                  "-metadata", "comment=Original electronic Demo composition; see music provenance.", str(self.aac)], "aac-encoding.log")
         print("AUDIO_MASTERED", flush=True)
 
     def measure(self, path):
@@ -110,7 +110,7 @@ class Master:
                    "aac_sha256": hashlib.sha256(self.aac.read_bytes()).hexdigest(),
                    "limits": "Objective QC does not certify listening quality."}
         (self.out / f"{self.cfg['slug']}-qc.json").write_text(json.dumps(metrics, ensure_ascii=False, indent=2), encoding="utf-8")
-        provenance = {"composition": "original melodic-house starter composition", "bpm": music["bpm"], "key": music["key"],
+        provenance = {"composition": "original " + self.cfg["music"]["style"] + " Demo arrangement", "bpm": music["bpm"], "key": music["key"],
                       "instrument_source": music["instrument_source"], "soundfont_source": music.get("soundfont_source"),
                       "soundfont_sha256": music.get("soundfont_sha256"), "soundfont_license_file": music.get("soundfont_license_file"),
                       "sections": self.cfg["sections"],

@@ -141,7 +141,7 @@ class GalleryFilm(Film):
         u=t-scene["start"]
         level=float(min(1,self.levels[frame]))
         role=next((s["role"] for s in self.cfg["sections"] if t<s["end"]),"outro")
-        pulse=math.exp(-((t/self.beat)%1)*8) if role in ("drop","build","groove") else 0
+        pulse=self.pulse_at(t)
         accent,second,fg=self.palette["accent"],self.palette["second"],self.palette["text"]
         cn=self.cfg["name"].split(" — ")[0]
         self.text(c,"ORIGINAL MOTION / ORIGINAL MUSIC",104,80,19,accent,.8)

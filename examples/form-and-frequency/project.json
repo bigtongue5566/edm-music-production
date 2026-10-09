@@ -3,74 +3,123 @@
   "slug": "form-and-frequency",
   "duration": 90.0,
   "music": {
-    "bpm": 128.0,
-    "key": "D major",
+    "bpm": 148,
+    "key": "F minor",
     "progression": [
-      "vi",
-      "IV",
-      "I",
-      "V"
+      "i",
+      "VI",
+      "III",
+      "VII"
     ],
-    "seed": 20261010,
+    "seed": 26101041,
     "soundfont": null,
     "fluidsynth": null,
     "soundfont_source": null,
     "license": null,
     "lufs": -16.0,
     "true_peak": -2.0,
-    "export_stems": false
+    "export_stems": false,
+    "style": "Future Bass",
+    "identity": "future-bass",
+    "voiced_chords": [
+      {
+        "name": "Fm9",
+        "voices": [
+          53,
+          56,
+          60,
+          63,
+          67
+        ],
+        "root": 41
+      },
+      {
+        "name": "Dbmaj9",
+        "voices": [
+          53,
+          56,
+          60,
+          63,
+          68
+        ],
+        "root": 37
+      },
+      {
+        "name": "Abmaj7",
+        "voices": [
+          48,
+          51,
+          56,
+          60,
+          67
+        ],
+        "root": 44
+      },
+      {
+        "name": "Ebadd9",
+        "voices": [
+          51,
+          55,
+          58,
+          65,
+          70
+        ],
+        "root": 39
+      }
+    ],
+    "sound_design": "Half-time snare on beat three; syncopated smooth poly-saw gates; glass intro; ribbon lead; mono sub; changing build filter and hat rolls."
   },
   "sections": [
     {
       "start": 0.0,
-      "end": 7.5,
+      "end": 6.486486486486487,
       "role": "intro",
       "label": "聲音的起點"
     },
     {
-      "start": 7.5,
-      "end": 15.0,
+      "start": 6.486486486486487,
+      "end": 12.972972972972974,
       "role": "groove",
       "label": "開始律動"
     },
     {
-      "start": 15.0,
-      "end": 22.5,
+      "start": 12.972972972972974,
+      "end": 19.45945945945946,
       "role": "build",
       "label": "聚集能量"
     },
     {
-      "start": 22.5,
-      "end": 37.5,
+      "start": 19.45945945945946,
+      "end": 38.91891891891892,
       "role": "drop",
       "label": "節奏成形"
     },
     {
-      "start": 37.5,
-      "end": 45.0,
+      "start": 38.91891891891892,
+      "end": 45.4054054054054,
       "role": "break",
       "label": "留一點空間"
     },
     {
-      "start": 45.0,
-      "end": 52.5,
+      "start": 45.4054054054054,
+      "end": 51.891891891891895,
       "role": "build",
       "label": "讓聲音相遇"
     },
     {
-      "start": 52.5,
-      "end": 75.0,
+      "start": 51.891891891891895,
+      "end": 71.35135135135135,
       "role": "drop",
       "label": "每一拍都有回應"
     },
     {
-      "start": 75.0,
-      "end": 82.5,
+      "start": 71.35135135135135,
+      "end": 77.83783783783784,
       "role": "break",
       "label": "聲音有層次"
     },
     {
-      "start": 82.5,
+      "start": 77.83783783783784,
       "end": 90.0,
       "role": "outro",
       "label": "聲形之間"
@@ -93,7 +142,7 @@
     "scenes": [
       {
         "start": 0.0,
-        "end": 15.0,
+        "end": 12.972972972972974,
         "kind": "torus",
         "kicker": "01 / AN IDEA TAKES FORM",
         "headline": "FORM &\nFREQUENCY",
@@ -102,8 +151,8 @@
         "light": false
       },
       {
-        "start": 15.0,
-        "end": 22.5,
+        "start": 12.972972972972974,
+        "end": 19.45945945945946,
         "kind": "assembly",
         "kicker": "02 / GATHER THE ENERGY",
         "headline": "聚集能量\n等待展開",
@@ -112,8 +161,8 @@
         "light": false
       },
       {
-        "start": 22.5,
-        "end": 37.5,
+        "start": 19.45945945945946,
+        "end": 38.91891891891892,
         "kind": "cubes",
         "kicker": "03 / RHYTHM TAKES SHAPE",
         "headline": "讓節奏\n開始成形",
@@ -122,8 +171,8 @@
         "light": false
       },
       {
-        "start": 37.5,
-        "end": 45.0,
+        "start": 38.91891891891892,
+        "end": 45.4054054054054,
         "kind": "waves",
         "kicker": "04 / ROOM TO BREATHE",
         "headline": "留一點空間\n讓旋律呼吸",
@@ -132,8 +181,8 @@
         "light": true
       },
       {
-        "start": 45.0,
-        "end": 52.5,
+        "start": 45.4054054054054,
+        "end": 51.891891891891895,
         "kind": "network",
         "kicker": "05 / FIND THE CONNECTION",
         "headline": "讓聲音\n在此相遇",
@@ -142,8 +191,8 @@
         "light": false
       },
       {
-        "start": 52.5,
-        "end": 67.5,
+        "start": 51.891891891891895,
+        "end": 64.86486486486487,
         "kind": "spectrum",
         "kicker": "06 / SOUND INTO MOTION",
         "headline": "每一拍\n都有回應",
@@ -152,8 +201,8 @@
         "light": false
       },
       {
-        "start": 67.5,
-        "end": 75.0,
+        "start": 64.86486486486487,
+        "end": 71.35135135135135,
         "kind": "orbit",
         "kicker": "07 / ONE RHYTHM, MANY FORMS",
         "headline": "一個節奏\n無限可能",
@@ -162,8 +211,8 @@
         "light": false
       },
       {
-        "start": 75.0,
-        "end": 82.5,
+        "start": 71.35135135135135,
+        "end": 77.83783783783784,
         "kind": "waves",
         "kicker": "08 / KEEP THE BALANCE",
         "headline": "聲音有層次\n畫面有呼吸",
@@ -172,7 +221,7 @@
         "light": true
       },
       {
-        "start": 82.5,
+        "start": 77.83783783783784,
         "end": 90.0,
         "kind": "outro",
         "kicker": "ORIGINAL MOTION / ORIGINAL MUSIC",
@@ -182,5 +231,6 @@
         "light": false
       }
     ]
-  }
+  },
+  "revision": "2026-10-10-multi-style"
 }

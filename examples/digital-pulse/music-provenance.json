@@ -1,0 +1,55 @@
+{
+  "composition": "original Drum & Bass Demo arrangement",
+  "bpm": 172.0,
+  "key": "E minor",
+  "instrument_source": "original oscillators and generated percussion noise; no sampled recordings",
+  "soundfont_source": null,
+  "soundfont_sha256": null,
+  "soundfont_license_file": null,
+  "sections": [
+    {
+      "start": 0.0,
+      "end": 5.5813953488372094,
+      "role": "intro",
+      "label": "數位脈動"
+    },
+    {
+      "start": 5.5813953488372094,
+      "end": 11.162790697674419,
+      "role": "groove",
+      "label": "CONNECT"
+    },
+    {
+      "start": 11.162790697674419,
+      "end": 16.74418604651163,
+      "role": "build",
+      "label": "CHARGE"
+    },
+    {
+      "start": 16.74418604651163,
+      "end": 33.48837209302326,
+      "role": "drop",
+      "label": "ACTIVATE"
+    },
+    {
+      "start": 33.48837209302326,
+      "end": 39.06976744186046,
+      "role": "break",
+      "label": "PAUSE"
+    },
+    {
+      "start": 39.06976744186046,
+      "end": 55.81395348837209,
+      "role": "drop",
+      "label": "TRANSMIT"
+    },
+    {
+      "start": 55.81395348837209,
+      "end": 60.0,
+      "role": "outro",
+      "label": "DIGITAL PULSE"
+    }
+  ],
+  "midi_note": "GM instrument suggestions; MIDI playback will not reproduce the custom synthesized audio.",
+  "stem_note": "Float32 premaster stems share gain and fades; they are not separately loudness normalized."
+}

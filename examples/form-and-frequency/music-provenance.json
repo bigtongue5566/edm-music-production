@@ -1,0 +1,67 @@
+{
+  "composition": "original Future Bass Demo arrangement",
+  "bpm": 148.0,
+  "key": "F minor",
+  "instrument_source": "original oscillators and generated percussion noise; no sampled recordings",
+  "soundfont_source": null,
+  "soundfont_sha256": null,
+  "soundfont_license_file": null,
+  "sections": [
+    {
+      "start": 0.0,
+      "end": 6.486486486486487,
+      "role": "intro",
+      "label": "聲音的起點"
+    },
+    {
+      "start": 6.486486486486487,
+      "end": 12.972972972972974,
+      "role": "groove",
+      "label": "開始律動"
+    },
+    {
+      "start": 12.972972972972974,
+      "end": 19.45945945945946,
+      "role": "build",
+      "label": "聚集能量"
+    },
+    {
+      "start": 19.45945945945946,
+      "end": 38.91891891891892,
+      "role": "drop",
+      "label": "節奏成形"
+    },
+    {
+      "start": 38.91891891891892,
+      "end": 45.4054054054054,
+      "role": "break",
+      "label": "留一點空間"
+    },
+    {
+      "start": 45.4054054054054,
+      "end": 51.891891891891895,
+      "role": "build",
+      "label": "讓聲音相遇"
+    },
+    {
+      "start": 51.891891891891895,
+      "end": 71.35135135135135,
+      "role": "drop",
+      "label": "每一拍都有回應"
+    },
+    {
+      "start": 71.35135135135135,
+      "end": 77.83783783783784,
+      "role": "break",
+      "label": "聲音有層次"
+    },
+    {
+      "start": 77.83783783783784,
+      "end": 90.0,
+      "role": "outro",
+      "label": "聲形之間"
+    }
+  ],
+  "midi_note": "GM instrument suggestions; MIDI playback will not reproduce the custom synthesized audio.",
+  "stem_note": "Float32 premaster stems share gain and fades; they are not separately loudness normalized."
+}

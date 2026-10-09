@@ -2,7 +2,7 @@
   "title": "Form & Frequency / 聲形之間",
   "created_date": "2026-10-10",
   "visuals": "Original procedural geometry, animation, and typography layout, created specifically for this demo.",
-  "music": "New chord-aware melodic phrase with original electronic synthesis; no soundfont, stock songs, or sampled recordings.",
+  "music": "New original Future Bass arrangement at 148 BPM in F minor. Half-time snare on beat three; syncopated smooth poly-saw gates; glass intro; ribbon lead; mono sub; changing build filter and hat rolls. Oscillators and generated noise only; no third-party recordings.",
   "source_code_origin": "MIT-licensed edm-music-production starter by bigtongue5566, adapted for this film.",
   "external_assets": [
     {
@@ -44,5 +44,15 @@
   ],
   "font_use_reference": "https://openfontlicense.org/ofl-faq/",
   "scope": "An abstract creative study; no real company identities, logos, people, products, or corporate claims.",
-  "rights_note": "Source and provenance reduce third-party-material uncertainty; they are not a guarantee against legal claims."
+  "rights_note": "Source and provenance reduce third-party-material uncertainty; they are not a guarantee against legal claims.",
+  "revision": "2026-10-10-multi-style",
+  "production_method_references": [
+    {
+      "title": "How to make future bass",
+      "publisher": "Native Instruments",
+      "url": "https://blog.native-instruments.com/how-to-make-future-bass/",
+      "adopted": "Half-time drums, extended harmony, modulated chord synth and contrasting drops."
+    }
+  ],
+  "method_reference_note": "Methods are interpreted in new code and notes; tutorial text, examples, samples and recordings are not embedded."
 }

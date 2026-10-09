@@ -1,0 +1,436 @@
+{
+  "duration_seconds": 90.0,
+  "bpm": 148.0,
+  "key": "F minor",
+  "style": "Future Bass",
+  "identity": "future-bass",
+  "sound_design": "Half-time snare on beat three; syncopated smooth poly-saw gates; glass intro; ribbon lead; mono sub; changing build filter and hat rolls.",
+  "original_composition": true,
+  "instrument_source": "original oscillators and generated percussion noise; no sampled recordings",
+  "note_events": 1105,
+  "unexpected_chord_conflicts": 0,
+  "harmonic_audit": "Explicit root and seventh/ninth chord pitch classes; sounding echoes clipped at harmonic boundaries.",
+  "limits": "Symbolic harmony and signal measurements do not establish listening quality.",
+  "harmony": [
+    {
+      "start": 0.0,
+      "end": 3.2432432432432434,
+      "role": "intro",
+      "name": "Fm9",
+      "voices": [
+        53,
+        56,
+        60,
+        63,
+        67
+      ],
+      "root": 41,
+      "section": 0
+    },
+    {
+      "start": 3.2432432432432434,
+      "end": 6.486486486486487,
+      "role": "intro",
+      "name": "Dbmaj9",
+      "voices": [
+        53,
+        56,
+        60,
+        63,
+        68
+      ],
+      "root": 37,
+      "section": 0
+    },
+    {
+      "start": 6.486486486486487,
+      "end": 9.72972972972973,
+      "role": "groove",
+      "name": "Abmaj7",
+      "voices": [
+        48,
+        51,
+        56,
+        60,
+        67
+      ],
+      "root": 44,
+      "section": 1
+    },
+    {
+      "start": 9.72972972972973,
+      "end": 12.972972972972974,
+      "role": "groove",
+      "name": "Ebadd9",
+      "voices": [
+        51,
+        55,
+        58,
+        65,
+        70
+      ],
+      "root": 39,
+      "section": 1
+    },
+    {
+      "start": 12.972972972972974,
+      "end": 16.216216216216218,
+      "role": "build",
+      "name": "Fm9",
+      "voices": [
+        53,
+        56,
+        60,
+        63,
+        67
+      ],
+      "root": 41,
+      "section": 2
+    },
+    {
+      "start": 16.216216216216218,
+      "end": 19.45945945945946,
+      "role": "build",
+      "name": "Dbmaj9",
+      "voices": [
+        53,
+        56,
+        60,
+        63,
+        68
+      ],
+      "root": 37,
+      "section": 2
+    },
+    {
+      "start": 19.45945945945946,
+      "end": 22.7027027027027,
+      "role": "drop",
+      "name": "Abmaj7",
+      "voices": [
+        48,
+        51,
+        56,
+        60,
+        67
+      ],
+      "root": 44,
+      "section": 3
+    },
+    {
+      "start": 22.7027027027027,
+      "end": 25.945945945945944,
+      "role": "drop",
+      "name": "Ebadd9",
+      "voices": [
+        51,
+        55,
+        58,
+        65,
+        70
+      ],
+      "root": 39,
+      "section": 3
+    },
+    {
+      "start": 25.945945945945944,
+      "end": 29.189189189189186,
+      "role": "drop",
+      "name": "Fm9",
+      "voices": [
+        53,
+        56,
+        60,
+        63,
+        67
+      ],
+      "root": 41,
+      "section": 3
+    },
+    {
+      "start": 29.189189189189186,
+      "end": 32.43243243243243,
+      "role": "drop",
+      "name": "Dbmaj9",
+      "voices": [
+        53,
+        56,
+        60,
+        63,
+        68
+      ],
+      "root": 37,
+      "section": 3
+    },
+    {
+      "start": 32.43243243243243,
+      "end": 35.67567567567567,
+      "role": "drop",
+      "name": "Abmaj7",
+      "voices": [
+        48,
+        51,
+        56,
+        60,
+        67
+      ],
+      "root": 44,
+      "section": 3
+    },
+    {
+      "start": 35.67567567567567,
+      "end": 38.91891891891891,
+      "role": "drop",
+      "name": "Ebadd9",
+      "voices": [
+        51,
+        55,
+        58,
+        65,
+        70
+      ],
+      "root": 39,
+      "section": 3
+    },
+    {
+      "start": 38.91891891891892,
+      "end": 42.16216216216216,
+      "role": "break",
+      "name": "Fm9",
+      "voices": [
+        53,
+        56,
+        60,
+        63,
+        67
+      ],
+      "root": 41,
+      "section": 4
+    },
+    {
+      "start": 42.16216216216216,
+      "end": 45.4054054054054,
+      "role": "break",
+      "name": "Dbmaj9",
+      "voices": [
+        53,
+        56,
+        60,
+        63,
+        68
+      ],
+      "root": 37,
+      "section": 4
+    },
+    {
+      "start": 45.4054054054054,
+      "end": 48.648648648648646,
+      "role": "build",
+      "name": "Abmaj7",
+      "voices": [
+        48,
+        51,
+        56,
+        60,
+        67
+      ],
+      "root": 44,
+      "section": 5
+    },
+    {
+      "start": 48.648648648648646,
+      "end": 51.89189189189189,
+      "role": "build",
+      "name": "Ebadd9",
+      "voices": [
+        51,
+        55,
+        58,
+        65,
+        70
+      ],
+      "root": 39,
+      "section": 5
+    },
+    {
+      "start": 51.891891891891895,
+      "end": 55.13513513513514,
+      "role": "drop",
+      "name": "Fm9",
+      "voices": [
+        53,
+        56,
+        60,
+        63,
+        67
+      ],
+      "root": 41,
+      "section": 6
+    },
+    {
+      "start": 55.13513513513514,
+      "end": 58.37837837837838,
+      "role": "drop",
+      "name": "Dbmaj9",
+      "voices": [
+        53,
+        56,
+        60,
+        63,
+        68
+      ],
+      "root": 37,
+      "section": 6
+    },
+    {
+      "start": 58.37837837837838,
+      "end": 61.62162162162162,
+      "role": "drop",
+      "name": "Abmaj7",
+      "voices": [
+        48,
+        51,
+        56,
+        60,
+        67
+      ],
+      "root": 44,
+      "section": 6
+    },
+    {
+      "start": 61.62162162162162,
+      "end": 64.86486486486487,
+      "role": "drop",
+      "name": "Ebadd9",
+      "voices": [
+        51,
+        55,
+        58,
+        65,
+        70
+      ],
+      "root": 39,
+      "section": 6
+    },
+    {
+      "start": 64.86486486486487,
+      "end": 68.10810810810811,
+      "role": "drop",
+      "name": "Fm9",
+      "voices": [
+        53,
+        56,
+        60,
+        63,
+        67
+      ],
+      "root": 41,
+      "section": 6
+    },
+    {
+      "start": 68.10810810810811,
+      "end": 71.35135135135135,
+      "role": "drop",
+      "name": "Dbmaj9",
+      "voices": [
+        53,
+        56,
+        60,
+        63,
+        68
+      ],
+      "root": 37,
+      "section": 6
+    },
+    {
+      "start": 71.35135135135135,
+      "end": 74.5945945945946,
+      "role": "break",
+      "name": "Abmaj7",
+      "voices": [
+        48,
+        51,
+        56,
+        60,
+        67
+      ],
+      "root": 44,
+      "section": 7
+    },
+    {
+      "start": 74.5945945945946,
+      "end": 77.83783783783784,
+      "role": "break",
+      "name": "Ebadd9",
+      "voices": [
+        51,
+        55,
+        58,
+        65,
+        70
+      ],
+      "root": 39,
+      "section": 7
+    },
+    {
+      "start": 77.83783783783784,
+      "end": 81.08108108108108,
+      "role": "outro",
+      "name": "Fm9",
+      "voices": [
+        53,
+        56,
+        60,
+        63,
+        67
+      ],
+      "root": 41,
+      "section": 8
+    },
+    {
+      "start": 81.08108108108108,
+      "end": 84.32432432432432,
+      "role": "outro",
+      "name": "Fm9",
+      "voices": [
+        53,
+        56,
+        60,
+        63,
+        67
+      ],
+      "root": 41,
+      "section": 8
+    },
+    {
+      "start": 84.32432432432432,
+      "end": 87.56756756756756,
+      "role": "outro",
+      "name": "Fm9",
+      "voices": [
+        53,
+        56,
+        60,
+        63,
+        67
+      ],
+      "root": 41,
+      "section": 8
+    },
+    {
+      "start": 87.56756756756756,
+      "end": 90.0,
+      "role": "outro",
+      "name": "Fm9",
+      "voices": [
+        53,
+        56,
+        60,
+        63,
+        67
+      ],
+      "root": 41,
+      "section": 8
+    }
+  ]
+}
