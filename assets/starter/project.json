@@ -3,6 +3,7 @@
   "slug": "melodic-house",
   "duration": 90,
   "music": {
+    "harmonic_profile": "consonant",
     "bpm": 120,
     "key": "G major",
     "progression": ["I", "V", "vi", "IV"],

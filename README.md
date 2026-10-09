@@ -49,17 +49,18 @@ documented sources, MIDI, editable code, and checks of the finished media.
 [Watch the paired film](https://bigtongue5566.github.io/?demo=tsmc-explained) ·
 [MIDI, synthesis source and checks](https://github.com/bigtongue5566/motion-graphics-video/tree/main/examples/tsmc-explained)
 
-A new 90-second, 124 BPM D minor Dub Techno score for an independent, unofficial
-TSMC explainer. Oscillators and generated noise supply the instruments; no third-party
-recordings are sampled. The source includes the newly composed note patterns,
+A new 90-second, 124 BPM D minor Minimal Piano House score for an independent, unofficial
+TSMC explainer. GeneralUser GS sampled piano supplies the soft triads, with original
+electronic drums and sub; no third-party song is used. The pinned SoundFont
+source and its license are recorded. The source includes the newly composed note patterns,
 editable MIDI, mastering code and direct AAC/WAV verification. This is an original
 creative Demo, not a TSMC commission or endorsement.
 
 ## Refreshed multi-style showcase
 
 The four current films and soundtracks were recomposed and re-rendered on 2026-10-10:
-Future Bass (148 BPM), Drum & Bass (172 BPM), UK Garage (132 BPM), and Dub Techno (124 BPM).
-Their source packages retain explicit extended chords, notes, actual synthesis/automation,
+Future Bass (148 BPM), Drum & Bass (172 BPM), UK Garage (132 BPM), and Minimal Piano House (124 BPM).
+Their source packages retain explicit chord voicings, notes, actual synthesis/automation,
 MIDI and finished-media QC. These custom example implementations are separate from the
 audio starter's three selectable presets. The films follow the new audio and actual kick events.
 
@@ -72,7 +73,8 @@ release tails, removes chord-boundary All Sound Off and bus fades, and offers op
 helper supports flowing arrangements; 10ms energy diagnostics expose short gaps
 that one-second RMS checks miss. Eight release/articulation regression tests cover the
 repair. The guide also covers harsh timbres, primary/echo beat placement,
-picture cues and matched A/V comparisons. Intentional rests and
+picture cues and matched A/V comparisons. New projects default to a
+consonant profile, with simultaneous-interval checks across pitched parts. Intentional rests and
 percussive articulation remain arrangement choices.
 
 The Skill includes [nine source-backed production directions](references/genre-production.md):
