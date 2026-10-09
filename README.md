@@ -57,6 +57,22 @@ creative Demo, not a TSMC commission or endorsement.
 
 ## Capabilities
 
+The local starter offers three distinct, synthesized starting arrangements:
+`melodic-house`, `breakbeat`, and `drum-and-bass`. They change percussion,
+instrument envelopes, bass phrasing, musical phrases, section defaults and mixing,
+rather than only a display label or tempo. Use `--style` when initializing:
+
+```powershell
+python -X utf8 scripts/init_project.py --project ../broken-beat-study --duration 90 --style breakbeat
+python -X utf8 scripts/init_project.py --project ../fast-bass-study --duration 90 --style drum-and-bass
+```
+
+Optional `--bpm` and `--key` override preset starting values. Omitting `--style`
+preserves the original Melodic House path for older commands. Select and adapt
+the actual sound direction for a new brief; a preset is a reproducible sketch,
+not a completed creative decision or a professional sound library. See
+[style and musical identity](references/style-and-identity.md).
+
 - Configurable length, BPM, major/minor key, chord progression, and musical sections.
 - Synthesized keys, pads, chord stabs, plucked leads, arpeggios, bass, drums, and transitions.
 - Optional sampled piano with a local SoundFont and compatible FluidSynth.

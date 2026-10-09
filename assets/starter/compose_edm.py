@@ -88,6 +88,13 @@ class Score:
         return ins.soften(sound, .005, min(.12, length / 3))
 
     def arrange(self):
+        style = self.cfg["music"].get("style", "melodic-house")
+        if style != "melodic-house":
+            from arrangements import arrange
+            arrange(self, style)
+            if self.sf:
+                self.render_sampled_keys()
+            return
         kick, clap, hat, opened = ins.kick(), ins.clap(), ins.hat(), ins.hat(True)
         for chord in self.harmony:
             a, b, role = chord["start"], chord["end"], chord["role"]
@@ -232,10 +239,12 @@ class Score:
     def mix(self):
         for name, cutoff in [("keys", 140), ("pad", 230), ("chords", 220), ("lead", 350), ("arp", 420)]:
             self.stems[name] = ins.filt(self.stems[name], cutoff)
-        self.stems["bass"] = ins.filt(self.stems["bass"], 230, "lowpass")
+        style = self.cfg["music"].get("style", "melodic-house")
+        self.stems["bass"] = ins.filt(self.stems["bass"], {"melodic-house":230, "breakbeat":480, "drum-and-bass":1200}[style], "lowpass")
         duck = np.ones(self.n, np.float32)
         t = np.arange(round(min(.35, self.beat * .7) * self.sr)) / self.sr
-        reduction = 1 - .63 * np.exp(-t * 13)
+        depth = {"melodic-house":.63, "breakbeat":.38, "drum-and-bass":.30}[style]
+        reduction = 1 - depth * np.exp(-t * (24 if style == "drum-and-bass" else 13))
         ramp = min(len(t), round(.004 * self.sr))
         reduction[:ramp] = np.linspace(1, reduction[min(ramp, len(t) - 1)], ramp)
         for start in self.kicks:
@@ -273,7 +282,10 @@ class Score:
         if conflicts:
             raise ValueError("Unexpected chord conflicts in this simple triad arrangement")
         key = self.cfg["music"]["key"]
+        from styles import PRESETS
+        style = self.cfg["music"].get("style", "melodic-house")
         metadata = {"duration_seconds": self.duration, "bpm": self.bpm, "key": key, "original_composition": True,
+                    "style": style, "starter_timbres": (["SoundFont piano", *PRESETS[style]["timbres"][1:]] if self.sf else PRESETS[style]["timbres"]),
                     "instrument_source": self.instrument_source, "soundfont_source": self.cfg["music"].get("soundfont_source"),
                     "soundfont_sha256": hashlib.sha256(self.sf.read_bytes()).hexdigest() if self.sf else None,
                     "soundfont_license_file": Path(self.cfg["music"]["license"]).name if self.cfg["music"].get("license") else None,

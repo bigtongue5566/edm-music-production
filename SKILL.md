@@ -9,7 +9,11 @@ description: "Compose, arrange, synthesize, mix, master, and revise original ins
 
 ## 明確的音樂目標
 
-沿用對話中的片長、曲風、情緒、用途、速度與調性。缺少次要設定時可選合理起點並繼續；Melodic House 是附帶範本的方向，不是所有 EDM 的唯一選擇。指定長度要精確保留，非整小節長度以末段編曲收束，不擅自延長。需要口白空間、無人聲、可循環或不同力度時，讓編曲與輸出符合要求；可循環版本需另做銜接，不套用範本的淡出。
+沿用對話中的片長、曲風、情緒、用途、速度與調性。先寫下本曲的聲音方向：鼓的律動、主導音色、低音性格、旋律節奏與段落起伏。從用途和參考聽感選擇，科技／企業影片也能使用不同的電子音樂方向。方向差異會影響成品而使用者尚未指定時，可先提供短片段比較；不要自動把所有需求轉成 120 BPM 的 Melodic House。
+
+連續製作多首或使用者指出「都很像」時，閱讀 [references/style-and-identity.md](references/style-and-identity.md)，比較已完成作品的鼓型、音色、低音、樂句與曲式。換曲名、BPM、調性或 seed 不足以建立新身份；依需求實際改寫這些聲部。使用者希望系列一致時可保留共同元素。
+
+指定長度要精確保留，非整小節長度以末段編曲收束，不擅自延長。需要口白空間、無人聲、可循環或不同力度時，讓編曲與輸出符合要求；可循環版本需另做銜接，不套用範本的淡出。
 
 ## 作曲、編曲與音色
 
@@ -21,15 +25,15 @@ description: "Compose, arrange, synthesize, mix, master, and revise original ins
 
 ## 本機音樂範本
 
-有現成 DAW、專案或音源時優先沿用；沒有管線時可用獨立 Python 範本。開始前閱讀 [references/local-workflow.md](references/local-workflow.md) 與 [references/music-project.md](references/music-project.md)。
+有現成 DAW、專案或音源時優先沿用；沒有管線時可用獨立 Python 範本。開始前閱讀 [references/local-workflow.md](references/local-workflow.md) 與 [references/music-project.md](references/music-project.md)。範本提供 melodic-house、breakbeat、drum-and-bass 三個實際不同的起點；依聲音方向選擇 `--style`。未支援的曲風需改寫編曲／音色或使用適合的 DAW 管線，不只改顯示名稱。
 
 ```text
-python <skill>/scripts/init_project.py --project <music-directory> --duration 90 --bpm 120 --key "G major"
+python <skill>/scripts/init_project.py --project <music-directory> --duration 90 --style breakbeat
 python <music-directory>/work/compose_edm.py --project <music-directory>
 python <music-directory>/work/finish_music.py --project <music-directory>
 ```
 
-修改 project.json 的片長、BPM、大小調、和弦級數與段落；範本輸出原創合成鍵盤與電子音色，亦支援外部 SoundFont／FluidSynth 鋼琴。可開啟分軌輸出，供重新混音。依本案重寫樂句或音色，不把範本的同一旋律當成每次成品。
+修改 project.json 的片長、曲風、BPM、大小調、和弦級數與段落；preset 是可執行的草稿，不代表本案已完成創作。依本案重寫樂句、律動、音色及段落。範本輸出原創電子合成；含鍵盤聲部的編曲亦支援外部 SoundFont／FluidSynth 鋼琴。可開啟分軌輸出，供重新混音。
 
 ## 檢查、來源與交付
 

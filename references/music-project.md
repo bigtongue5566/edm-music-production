@@ -7,6 +7,7 @@ project.json 只包含音樂資料。沒有畫面、LOGO、字型或影片尺寸
 | name / slug | 顯示名稱與成品檔名；slug 使用英數、底線或連字號 |
 | duration | 秒數，精確到 48kHz 整數樣本；至少 1 秒 |
 | music.bpm | 範本支援 30–240 BPM，Melodic House 常以約 120 BPM 開始 |
+| music.style | melodic-house、breakbeat、drum-and-bass，控制實際編曲、音色與混音分支；舊專案未填時沿用 melodic-house |
 | music.key | 調性，例如 G major、D major、A minor、F# minor；大小調皆可移調 |
 | music.progression | 循環的和弦級數；每小節一個和弦，高潮重新從第一個開始，outro 與最後小節回到主和弦 |
 | music.seed | 鼓與噪聲合成的固定種子，讓相同設定可重現 |

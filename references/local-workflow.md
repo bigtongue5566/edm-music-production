@@ -3,7 +3,7 @@
 ## 建立
 
 ```text
-python <skill>/scripts/init_project.py --project <music-directory> --duration 90 --bpm 120 --key "G major"
+python <skill>/scripts/init_project.py --project <music-directory> --duration 90 --style breakbeat
 uv venv <music-directory>/work/.venv --python 3.12
 uv pip install --python <music-directory>/work/.venv/Scripts/python.exe -r <music-directory>/work/requirements.txt
 ```
@@ -13,6 +13,8 @@ uv pip install --python <music-directory>/work/.venv/Scripts/python.exe -r <musi
 範本音訊依賴只有 NumPy、SciPy、Mido、imageio-ffmpeg。FFmpeg 由 imageio_ffmpeg.get_ffmpeg_exe() 尋找；不依賴影片、字型、Skia 或原本的 motion-graphics-video Skill。套件快取已有依賴時可用 uv offline；無權限寫全域快取時指定 work/uv-cache。
 
 ## 作曲與混音
+
+`--style` 可選 melodic-house、breakbeat 或 drum-and-bass。Initializer 選取相應的起始速度、調性、和弦與段落；`--bpm`／`--key` 可覆蓋速度及調性。省略 style 時保留舊版 Melodic House 起點，以相容既有命令；新作品應先選聲音方向。曲風路徑分別改變鼓型、音色、低音、樂句及混音，而非只變更 metadata。
 
 ```text
 python work/compose_edm.py --project .

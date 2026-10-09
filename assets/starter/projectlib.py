@@ -53,6 +53,10 @@ def validate(cfg):
     if abs(duration * 48000 - round(duration * 48000)) > 1e-4:
         raise ValueError("duration must correspond to an integer number of 48kHz samples")
     music = cfg["music"]
+    if music.get("style", "melodic-house") not in ("melodic-house", "breakbeat", "drum-and-bass"):
+        raise ValueError("Unsupported starter music.style; implement a new arrangement for other styles")
+    if music.get("style") == "drum-and-bass" and music.get("soundfont"):
+        raise ValueError("This drum-and-bass arrangement has no sampled keys; adapt the arrangement before using a SoundFont")
     bpm = float(music["bpm"])
     if not math.isfinite(bpm) or not 30 <= bpm <= 240:
         raise ValueError("This starter supports 30–240 BPM; adapt note lengths for other tempos")
