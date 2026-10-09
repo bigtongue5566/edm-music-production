@@ -100,11 +100,13 @@ class Master:
         tail_rms = float(np.sqrt(np.mean(sound[-min(len(sound), 2400):] ** 2)))
         if tail_rms > .01:
             raise ValueError("Inspect ending fade")
+        from continuity import micro_dynamics
+        micro = micro_dynamics(sound, 48000, self.cfg["sections"])
         music = json.loads((self.work / "music-metadata.json").read_text(encoding="utf-8"))
         metrics = {"name": self.cfg["name"], "requested_seconds": self.cfg["duration"],
                    "wav": {"file": self.wav.name, "duration_seconds": props["samples"] / 48000, **props, **wav_levels},
                    "aac": {"file": self.aac.name, "decoded_seconds": round(seconds, 5), **aac_levels},
-                   "full_decode_errors": 0, "mono_fold_down_db": round(float(mono_loss), 3),
+                   "micro_dynamics": micro, "full_decode_errors": 0, "mono_fold_down_db": round(float(mono_loss), 3),
                    "ending_rms_last_50ms": round(tail_rms, 6), "unexpected_near_silent_seconds": near_silent,
                    "bpm": music["bpm"], "key": music["key"], "unexpected_chord_conflicts": music["unexpected_chord_conflicts"],
                    "aac_sha256": hashlib.sha256(self.aac.read_bytes()).hexdigest(),

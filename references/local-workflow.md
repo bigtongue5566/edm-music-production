@@ -25,7 +25,11 @@ python work/finish_music.py --project .
 
 compose 依共同段落時間表寫音符與合成聲部、做頻段整理與大鼓 ducking，產生工作混音、MIDI、音符紀錄與來源 metadata。音符檢查只驗證這個簡單三和弦範本；不把所有和弦外音一律當作不和諧。
 
+渲染器分別保留 MIDI gate 與 sounding release，跨和弦尾音按相容性處理；Pad 連接與 room 是選用的編曲變更：設定 `music.continuity` 的 `tie_pad`、`room_wet` 才啟用，預設保留聲部密度。`continuity.py` 提供這些實作及可選 legato bass、低量 room 與 10ms 診斷。使用方法與邊界見 [continuity-and-articulation.md](continuity-and-articulation.md)。
+
 finish 用雙階段響度處理輸出 48kHz／24-bit 立體聲 WAV 與 256kbps AAC，再解碼實際成品檢查。WAV 母帶有精確樣本數；AAC 的解碼長度可能有不足一個 codec frame 的尾端補樣本，檢查會容許 1024 / 48000 秒的差異並記錄。
+
+完成版 QC 另外記錄 `micro_dynamics`；它提示拍間深谷，需依段落的休止意圖判讀，不用固定門檻取代實際試聽。
 
 ## 可選自然鋼琴
 

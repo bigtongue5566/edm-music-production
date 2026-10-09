@@ -65,6 +65,16 @@ audio starter's three selectable presets. The films follow the new audio and act
 
 ## Capabilities
 
+The [continuity repair guide](references/continuity-and-articulation.md) explains
+why short MIDI gates, prematurely cropped release, repeated pad attacks and deep
+volume gates can sound disconnected. The renderer now preserves compatible
+release tails, removes chord-boundary All Sound Off and bus fades, and offers opt-in pad ties. An optional phase-continuous legato bass
+helper supports flowing arrangements; 10ms energy diagnostics expose short gaps
+that one-second RMS checks miss. Eight release/articulation regression tests cover the
+repair. The guide also covers harsh timbres, primary/echo beat placement,
+picture cues and matched A/V comparisons. Intentional rests and
+percussive articulation remain arrangement choices.
+
 The Skill includes [nine source-backed production directions](references/genre-production.md):
 Melodic House, Deep House, Tech House, Dub Techno, Trance, UK Garage,
 Drum & Bass, Dubstep and Future Bass. The guide draws on Ableton and

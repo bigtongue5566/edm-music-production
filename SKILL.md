@@ -25,7 +25,9 @@ description: "Compose, arrange, synthesize, mix, master, and revise original ins
 
 先做能成立的核心樂句：鼓與低音的互動，加上本曲需要的 hook 或和弦。依曲風決定 swing、切分、half-time、音符長短與呼應；再用音色包絡、濾波／振幅調變、效果 send 與聲部進出展開完整曲目。變化要能在音訊、MIDI 或可編輯 automation 中找到，不能只寫在風格標籤。低音主導或質地演化的作品可省略前景主旋律，不強塞相同的鋼琴／pluck。
 
-選擇合適的取樣樂器或可控制泛音的合成器，依聲音方向調整泛音、濾波、失諧、包絡與尾音，排除意外刺耳及遮蔽。為大鼓與低音留出空間，使用節拍錯開、EQ、側鏈或音量 ducking；減少頻段重疊的聲部。詳細方法與不和諧排查見 [references/composition-and-mix.md](references/composition-and-mix.md)。
+選擇合適的取樣樂器或可控制泛音的合成器，依聲音方向調整泛音、濾波、失諧、包絡與尾音，排除意外刺耳及遮蔽。使用者指出特定秒數、刺耳或拍點模糊時，solo 該段的問題聲部，核對實際音源、音域、力度、泛音／失諧及 primary／echo onset；方法見 [references/continuity-and-articulation.md](references/continuity-and-articulation.md)。為大鼓與低音留出空間，使用節拍錯開、EQ、側鏈或音量 ducking；減少頻段重疊的聲部。詳細方法與不和諧排查見 [references/composition-and-mix.md](references/composition-and-mix.md)。
+
+使用者指出「每拍斷掉、沒有連貫性」時，先閱讀 [references/continuity-and-articulation.md](references/continuity-and-articulation.md)。區分 MIDI gate 與實際 release，檢查共同音是否被逐小節重啟、音量 gate／ducking 是否同時抽空所有聲部，以及樂句是否只有短音而缺少延續。以同段、相近響度的短片段比較修正；依曲風保留刻意的切分與留白，不用加混響代替編曲修正。
 
 ## 本機音樂範本
 
@@ -41,9 +43,11 @@ python <music-directory>/work/finish_music.py --project <music-directory>
 
 ## 檢查、來源與交付
 
-有聽音能力時檢查完整曲目，以及和弦轉換、高潮、間奏、片尾、小音量及單聲道聽感。量測與音符檢查不能證明好聽；沒有實際聽音能力時，清楚說明客觀檢查，提供可播放結果，不宣稱已試聽。使用者指出不和諧時，分析和聲、旋律、音色、聲部及尾音，再交付修改版本。
+有聽音能力時檢查完整曲目，以及和弦轉換、高潮、間奏、片尾、小音量及單聲道聽感。量測與音符檢查不能證明好聽；沒有實際聽音能力時，清楚說明客觀檢查，提供可播放結果，不宣稱已試聽。使用者指出不和諧時，分析和聲、旋律、音色、聲部及尾音，再交付修改版本。保留使用者偏好的疏密與方向；不要因 RMS 更平坦而強制加 Pad 或 legato bass。影片配樂用含畫面的片段比較具體 cue，核對主擊與重要動作。
 
 交付 24-bit WAV 母帶、AAC 或使用者指定格式，及需要的 MIDI／分軌；直接檢查完成版的片長、取樣率、聲道、解碼、響度、真峰值、淡出與意外靜音。母帶目標依用途選擇，範本預設 −16 LUFS、−2 dBTP，並驗證 AAC 編碼後的峰值。
+
+連續性問題另用短時間窗檢查完成版及有音高的聲部；一秒平均 RMS 會漏掉拍間空隙。範本提供 10ms 能量診斷，結果須和樂句、刻意休止一起判讀，不能把「無長靜音、音符符合和弦」當作連貫或悅耳的證明。
 
 分別記錄樂曲、音色庫／取樣、第三方歌曲的來源。真實鋼琴、合成鍵盤與取樣庫如實標示；保存實際使用音色庫的來源、雜湊與授權。若使用現成歌曲，確認使用範圍並標示，不能宣稱是原創。
 

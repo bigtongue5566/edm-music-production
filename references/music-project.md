@@ -12,6 +12,7 @@ project.json 只包含音樂資料。沒有畫面、LOGO、字型或影片尺寸
 | music.progression | 循環的和弦級數；每小節一個和弦，高潮重新從第一個開始，outro 與最後小節回到主和弦 |
 | music.seed | 鼓與噪聲合成的固定種子，讓相同設定可重現 |
 | music.lufs / true_peak | 母帶目標；預設 −16 LUFS、−2 dBTP |
+| music.continuity | 可選物件，tie_pad 預設 false、room_wet 預設 0（0–0.5）；替換持續 Pad 或加入濾波 room，需符合本曲編曲意圖 |
 | music.export_stems | 是否輸出 Float32 WAV 分軌，預設 false |
 | music.soundfont / fluidsynth | 可選本機 SoundFont 與相容的 FluidSynth 執行檔 |
 | music.soundfont_source / license | 使用音色庫的來源 URL 與本機授權檔路徑 |
