@@ -43,6 +43,18 @@ media checks are included in the example.
 Each work has a new musical arrangement and original procedural visuals,
 documented sources, MIDI, editable code, and checks of the finished media.
 
+## Silicon Explained — new original soundtrack
+
+[Listen to 矽晶脈動](https://bigtongue5566.github.io/?demo=tsmc-explained-music) ·
+[Watch the paired film](https://bigtongue5566.github.io/?demo=tsmc-explained) ·
+[MIDI, synthesis source and checks](https://github.com/bigtongue5566/motion-graphics-video/tree/main/examples/tsmc-explained)
+
+A new 90-second, 120 BPM E minor Melodic House score for an independent, unofficial
+TSMC explainer. Oscillators and generated noise supply the instruments; no third-party
+recordings are sampled. The source includes the newly composed note patterns,
+editable MIDI, mastering code and direct AAC/WAV verification. This is an original
+creative Demo, not a TSMC commission or endorsement.
+
 ## Capabilities
 
 - Configurable length, BPM, major/minor key, chord progression, and musical sections.
