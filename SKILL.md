@@ -1,6 +1,6 @@
 ---
 name: edm-music-production
-description: "Compose, arrange, synthesize, mix, master, and revise original instrumental EDM with playable audio, editable MIDI, optional stems, provenance, and direct audio QC. Use for EDM songs, Melodic House tracks, electronic background music, or requests to fix their harmony, sound design, arrangement, and mix; video production is optional and outside this skill's core scope."
+description: "Compose, arrange, synthesize, mix, master, and revise original instrumental EDM with playable audio, editable MIDI, optional stems, provenance, and direct audio QC. Use for electronic dance music, electronic background music, or requests to fix their harmony, sound design, arrangement, and mix; video production is optional and outside this skill's core scope."
 ---
 
 # EDM 音樂製作
@@ -11,21 +11,25 @@ description: "Compose, arrange, synthesize, mix, master, and revise original ins
 
 沿用對話中的片長、曲風、情緒、用途、速度與調性。先寫下本曲的聲音方向：鼓的律動、主導音色、低音性格、旋律節奏與段落起伏。從用途和參考聽感選擇，科技／企業影片也能使用不同的電子音樂方向。方向差異會影響成品而使用者尚未指定時，可先提供短片段比較；不要自動把所有需求轉成 120 BPM 的 Melodic House。
 
+選定曲風後，閱讀 [references/genre-production.md](references/genre-production.md) 中對應的製作方向。它整理官方教學及製作人訪談，涵蓋 Melodic House、Deep House、Tech House、Dub Techno、Trance、UK Garage、Drum & Bass、Dubstep 與 Future Bass；將方法轉成實際鼓型、音色調變與編曲，按本案改寫。使用者有參考曲時依 [references/style-and-identity.md](references/style-and-identity.md) 分析它；需要補充其他流派時查找該流派的原始製作教學，保存實際採用的來源。
+
 連續製作多首或使用者指出「都很像」時，閱讀 [references/style-and-identity.md](references/style-and-identity.md)，比較已完成作品的鼓型、音色、低音、樂句與曲式。換曲名、BPM、調性或 seed 不足以建立新身份；依需求實際改寫這些聲部。使用者希望系列一致時可保留共同元素。
 
 指定長度要精確保留，非整小節長度以末段編曲收束，不擅自延長。需要口白空間、無人聲、可循環或不同力度時，讓編曲與輸出符合要求；可循環版本需另做銜接，不套用範本的淡出。
 
 ## 作曲、編曲與音色
 
-先建立調性、和弦、主旋律輪廓與段落時間表。讓長音與重拍考慮當下和弦；經過音、懸留、延伸音等張力需有意安排及解決。固定旋律不應任意疊在所有和弦上。檢查跨和弦的延音、延遲與混響是否衝突。
+依聲部角色建立調性、和聲或低音素材與段落時間表；旋律型作品再發展主旋律輪廓。讓有音高的長音與重拍考慮當下和聲；經過音、懸留、延伸音等張力需有意安排及解決。固定旋律不應任意疊在所有和弦上。檢查跨和弦的延音、延遲與混響是否衝突。
 
-讓主旋律、低音、鼓、和弦、琶音與效果各有角色；用疏密、音域、濾波與起伏組成開場、build、drop、break、outro 等段落。依用途調整曲式，不必照範本的固定樂句。讓主旋律可辨識，副旋律和效果支援它。
+讓需要的主旋律、低音、鼓、和弦、琶音與效果各有角色；用疏密、音域、濾波與起伏組成開場、build、drop、break、outro 等段落。依用途調整曲式，不必照範本的固定樂句。旋律型作品讓主題可辨識，副旋律和效果支援它。
 
-選擇合適的取樣樂器或可控制泛音的合成器，處理過亮音色、不合適的失諧、非整數泛音與尾音。為大鼓與低音留出空間，使用節拍錯開、EQ、側鏈或音量 ducking；減少頻段重疊的聲部。詳細方法與不和諧排查見 [references/composition-and-mix.md](references/composition-and-mix.md)。
+先做能成立的核心樂句：鼓與低音的互動，加上本曲需要的 hook 或和弦。依曲風決定 swing、切分、half-time、音符長短與呼應；再用音色包絡、濾波／振幅調變、效果 send 與聲部進出展開完整曲目。變化要能在音訊、MIDI 或可編輯 automation 中找到，不能只寫在風格標籤。低音主導或質地演化的作品可省略前景主旋律，不強塞相同的鋼琴／pluck。
+
+選擇合適的取樣樂器或可控制泛音的合成器，依聲音方向調整泛音、濾波、失諧、包絡與尾音，排除意外刺耳及遮蔽。為大鼓與低音留出空間，使用節拍錯開、EQ、側鏈或音量 ducking；減少頻段重疊的聲部。詳細方法與不和諧排查見 [references/composition-and-mix.md](references/composition-and-mix.md)。
 
 ## 本機音樂範本
 
-有現成 DAW、專案或音源時優先沿用；沒有管線時可用獨立 Python 範本。開始前閱讀 [references/local-workflow.md](references/local-workflow.md) 與 [references/music-project.md](references/music-project.md)。範本提供 melodic-house、breakbeat、drum-and-bass 三個實際不同的起點；依聲音方向選擇 `--style`。未支援的曲風需改寫編曲／音色或使用適合的 DAW 管線，不只改顯示名稱。
+有現成 DAW、專案或音源時優先沿用；沒有管線時可用獨立 Python 範本。開始前閱讀 [references/local-workflow.md](references/local-workflow.md) 與 [references/music-project.md](references/music-project.md)。範本提供 melodic-house、breakbeat、drum-and-bass 三個實際不同的起點；依聲音方向選擇 `--style`。九種製作指引不等於九個可執行 preset；未支援的曲風需實作相應編曲／音色或使用適合的 DAW 管線，保留使用者選擇，不把現有 preset 改名充當另一曲風。
 
 ```text
 python <skill>/scripts/init_project.py --project <music-directory> --duration 90 --style breakbeat

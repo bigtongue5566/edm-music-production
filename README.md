@@ -6,7 +6,7 @@ mastering, and revising original instrumental EDM.
 獨立的 EDM 音樂製作 Skill，包含旋律與和聲、音色、編曲、混音、母帶與音訊檢查。
 The instructions and production references are written in Traditional Chinese.
 
-The included Melodic House starter produces music on its own. No video, logo,
+The included audio starter produces music on its own. No video, logo,
 fonts, renderer, or other skill is required. Change its composition and instruments
 to fit each brief; the starter melody is a starting point.
 
@@ -56,6 +56,18 @@ editable MIDI, mastering code and direct AAC/WAV verification. This is an origin
 creative Demo, not a TSMC commission or endorsement.
 
 ## Capabilities
+
+The Skill includes [nine source-backed production directions](references/genre-production.md):
+Melodic House, Deep House, Tech House, Dub Techno, Trance, UK Garage,
+Drum & Bass, Dubstep and Future Bass. The guide draws on Ableton and
+Native Instruments tutorials and interviews with El Choop, Karizma and Modestep,
+with direct sources and the research date. It explains groove, bass roles,
+sound modulation, layering and arrangement, rather than treating genre as a tempo label.
+
+These are production guides for adapting a DAW or the engine. The executable
+starter has the three arrangements below; the other directions require their
+own implementation. See [reference analysis and musical identity](references/style-and-identity.md)
+for turning a reference into an original arrangement and comparing actual results.
 
 The local starter offers three distinct, synthesized starting arrangements:
 `melodic-house`, `breakbeat`, and `drum-and-bass`. They change percussion,

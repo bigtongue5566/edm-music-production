@@ -16,6 +16,8 @@ uv pip install --python <music-directory>/work/.venv/Scripts/python.exe -r <musi
 
 `--style` 可選 melodic-house、breakbeat 或 drum-and-bass。Initializer 選取相應的起始速度、調性、和弦與段落；`--bpm`／`--key` 可覆蓋速度及調性。省略 style 時保留舊版 Melodic House 起點，以相容既有命令；新作品應先選聲音方向。曲風路徑分別改變鼓型、音色、低音、樂句及混音，而非只變更 metadata。
 
+[genre-production.md](genre-production.md) 的九種指引可供 DAW 製作或擴充本範本；只有上述三種接受 `--style`。製作其他方向時，實作需要的鼓型、音源、和弦表示及 automation，再依實際結果驗證；不傳入未支援的 style，也不省略 style 讓它默默生成 Melodic House。預設 progression 只有三和弦，不直接支援 Future Bass 指引中的延伸和弦。
+
 ```text
 python work/compose_edm.py --project .
 python work/finish_music.py --project .
