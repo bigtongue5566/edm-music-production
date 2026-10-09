@@ -10,11 +10,14 @@ The included Melodic House starter produces music on its own. No video, logo,
 fonts, renderer, or other skill is required. Change its composition and instruments
 to fit each brief; the starter melody is a starting point.
 
+**[Explore this Skill on Skill Showcase →](https://bigtongue5566.github.io/?skill=edm-music-production)** ·
+[Play the standalone music Demo](https://bigtongue5566.github.io/?demo=form-and-frequency-music)
+
 ## Original demo
 
-[![Form & Frequency — animated preview](docs/media/form-and-frequency-preview.gif)](https://bigtongue5566.github.io/edm-music-production/)
+[![Form & Frequency — animated preview](docs/media/form-and-frequency-preview.gif)](https://bigtongue5566.github.io/?demo=form-and-frequency)
 
-**[Watch Form & Frequency with sound →](https://bigtongue5566.github.io/edm-music-production/)**
+**[Watch Form & Frequency with sound →](https://bigtongue5566.github.io/?demo=form-and-frequency)**
 
 An original 90-second motion-and-music study: 1080p, 128 BPM, D major,
 procedural geometry, and a new synthesized Melodic House arrangement.
