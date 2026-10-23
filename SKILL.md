@@ -15,6 +15,8 @@ description: "Compose, arrange, synthesize, mix, master, and revise original ins
 
 連續製作多首或使用者指出「都很像」時，閱讀 [references/style-and-identity.md](references/style-and-identity.md)，比較已完成作品的鼓型、音色、低音、樂句與曲式。換曲名、BPM、調性或 seed 不足以建立新身份；依需求實際改寫這些聲部。使用者希望系列一致時可保留共同元素。
 
+同一首配樂反覆被指出單調、缺少起伏、仍有不喜歡的鐘聲，或要求分析知名配樂時，閱讀 [references/score-development.md](references/score-development.md)。把參考研究轉成主題發展、配器與實際聲部進出，並以可播放的版本比較驗證修改方向。
+
 指定長度要精確保留，非整小節長度以末段編曲收束，不擅自延長。需要口白空間、無人聲、可循環或不同力度時，讓編曲與輸出符合要求；可循環版本需另做銜接，不套用範本的淡出。
 
 ## 作曲、編曲與音色

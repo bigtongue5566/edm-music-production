@@ -26,6 +26,8 @@ Melodic House 通常可先試 118–126 BPM，四拍鼓配柔和鍵盤、主旋�
 
 範本沒有下載聲音的隱藏網路行為。沒有 SoundFont 時使用合成鍵盤；結果的音色來源會如實記錄為 synthesized keys。若追求自然鋼琴，補入相容取樣樂器並設定 music.soundfont 與 music.fluidsynth。
 
+若改用取樣低音、弦樂或鼓組，另建所需的 MIDI／音源路由；目前範本的 SoundFont 選項只代表鍵盤聲部，不是多樂器配器 preset。記錄每軌的 SoundFont 版本、bank、program、MIDI channel 與角色，注意介面採用 0 起算或 1 起算的編號。General MIDI 鼓通常走第 10 channel，不能與旋律聲部誤用同一設定。渲染前確認播放器支援所用控制器及音色庫調變；不能只因 MIDI 寫入了控制值就宣稱濾波等效果已生效。
+
 樂曲原創、使用樂器取樣、使用第三方歌曲是不同事實。配樂說明清楚記錄實際方式；使用第三方樂曲時保存其授權，不能把它寫成原創。
 
 ## 律動、段落與混音
