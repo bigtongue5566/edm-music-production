@@ -1,12 +1,18 @@
-"""Create an audio-only EDM project; validate first and never overwrite files."""
+"""Create an electronic-music project; validate first and never overwrite files."""
 import argparse
 import importlib.util
 import json
 from pathlib import Path
 import shutil
+import sys
 
 
 def main():
+    source = Path(__file__).resolve().parents[1] / "assets" / "starter"
+    sys.path.insert(0,str(source))
+    style_spec = importlib.util.spec_from_file_location("electronic_styles", source / "styles.py")
+    style_module = importlib.util.module_from_spec(style_spec)
+    style_spec.loader.exec_module(style_module)
     ap = argparse.ArgumentParser(description=__doc__)
     ap.add_argument("--project", type=Path, required=True)
     ap.add_argument("--duration", type=float)
@@ -15,17 +21,13 @@ def main():
     ap.add_argument("--name")
     ap.add_argument("--slug")
     ap.add_argument("--stems", action="store_true")
-    ap.add_argument("--style", choices=["melodic-house", "breakbeat", "drum-and-bass"], default="melodic-house")
+    ap.add_argument("--style", choices=list(style_module.PRESETS), default="melodic-house")
     args = ap.parse_args()
-    source = Path(__file__).resolve().parents[1] / "assets" / "starter"
     target = args.project.resolve()
     spec = importlib.util.spec_from_file_location("edm_config", source / "projectlib.py")
     module = importlib.util.module_from_spec(spec)
     spec.loader.exec_module(module)
     cfg = json.loads((source / "project.json").read_text(encoding="utf-8"))
-    style_spec = importlib.util.spec_from_file_location("edm_styles", source / "styles.py")
-    style_module = importlib.util.module_from_spec(style_spec)
-    style_spec.loader.exec_module(style_module)
     style_module.apply_preset(cfg, args.style)
     if args.duration is not None:
         scale = args.duration / cfg["duration"]

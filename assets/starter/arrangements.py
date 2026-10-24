@@ -5,7 +5,7 @@ from projectlib import section_at
 
 def _hit(score, chord, offset, sound, pitch, gain, pan=0):
     start = chord["start"] + offset * score.beat
-    if start >= chord["end"] or section_at(score.cfg, start)[1]["role"] not in ("groove", "build", "drop"):
+    if start >= chord["end"] or section_at(score.cfg, start)[1]["role"] not in ("groove", "build", "drop", "evolution"):
         return
     count = min(len(sound), round((chord["end"] - start) * score.sr))
     score.add("drums", start, sound[:count], gain, pan)

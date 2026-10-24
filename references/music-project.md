@@ -7,10 +7,10 @@ project.json 只包含音樂資料。沒有畫面、LOGO、字型或影片尺寸
 | name / slug | 顯示名稱與成品檔名；slug 使用英數、底線或連字號 |
 | duration | 秒數，精確到 48kHz 整數樣本；至少 1 秒 |
 | music.bpm | 範本支援 30–240 BPM，Melodic House 常以約 120 BPM 開始 |
-| music.style | melodic-house、breakbeat、drum-and-bass，控制實際編曲、音色與混音分支；舊專案未填時沿用 melodic-house |
+| music.style | 九個內建起點，列表見 electronic-styles.md；控制實際編曲、音色與混音分支；舊專案未填時沿用 melodic-house |
 | music.key | 調性，例如 G major、D major、A minor、F# minor；大小調皆可移調 |
 | music.progression | 循環的和弦級數；每小節一個和弦，高潮重新從第一個開始，outro 與最後小節回到主和弦 |
-| music.harmonic_profile | 預設 consonant，檢查同時發聲的二度／七度與三全音；intentional-tension 僅用於使用者明確要求張力，並以 tension_intent 記錄意圖 |
+| music.harmonic_profile | 預設 consonant，檢查同時發聲的二度／七度與三全音；風格／brief 包含刻意張力時用 intentional-tension 並記錄 tension_intent；無調性案需相應引擎 |
 | music.seed | 鼓與噪聲合成的固定種子，讓相同設定可重現 |
 | music.lufs / true_peak | 母帶目標；預設 −16 LUFS、−2 dBTP |
 | music.continuity | 可選物件，tie_pad 預設 false、room_wet 預設 0（0–0.5）；替換持續 Pad 或加入濾波 room，需符合本曲編曲意圖 |
@@ -22,9 +22,14 @@ project.json 只包含音樂資料。沒有畫面、LOGO、字型或影片尺寸
 大調支援 I、ii、iii、IV、V、vi；預設 I–V–vi–IV。
 小調支援 i、III、iv、v、V、VI、VII；預設 i–VI–III–VII。小調 V 為升高導音的大三和弦。擴充更多和弦與旋律張力時，同時調整 composer 與檢查的允許音符。
 
-sections.role 可用 intro、groove、build、drop、break、outro。label 供人閱讀。段落切換在指定時間做效果與鼓密度的提示；主和弦／鍵盤／主旋律以小節為單位切換。若要所有聲部在特定時刻一起切換，優先把該時刻設在小節邊界，或改寫局部編曲。
+sections.role 可用 intro、groove、build、drop、break、outro、texture、evolution、release。label 供人閱讀。段落切換在指定時間做效果與鼓密度的提示；主和弦／鍵盤／主旋律以小節為單位切換。若要所有聲部在特定時刻一起切換，優先把該時刻設在小節邊界，或改寫局部編曲。
 
 4/4 拍的一拍 = 60 / bpm 秒，一小節 = 240 / bpm 秒。
 片長不是整小節時最後小節裁切、主和弦解決並淡出。改成其他拍號或 DJ 延伸結構時，需要調整範本節奏。
 
 MIDI 的 GM 音色是編輯建議，不會精確重現自製合成器。分軌共用增益與淡入淡出，含原始混音的 EQ／ducking；相加重現 premaster，沒有逐軌獨立響度正規化。WAV 母帶經另一階段響度處理，音量可能不同。
+
+
+自由時間補充欄位：`music.pulse` 為 metric 或 free；目前 free 由 ambient 實作。`music.harmony_seconds` 為該路徑的換和聲秒數，預設 12，取代每小節換和弦，不強制最末主和弦解決。`bpm` 仍為 MIDI 參考速度。
+
+`music.intentional_silence` 為選用的 [[start,end], ...]，單位秒，需在片長內；只允許對完整涵蓋的近靜音一秒窗作意圖標記，不產生休止音訊。其他訊號與解碼檢查照常執行。此欄位不代表自由曲式或無調性已完整實作。

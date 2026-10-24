@@ -95,6 +95,8 @@ class Master:
         bins = [float(np.sqrt(np.mean(sound[k:k + 48000] ** 2))) for k in range(0, len(sound), 48000)]
         interior = bins[1:-2] if len(bins) >= 5 else bins[:-1]
         near_silent = [i + 1 for i, rms in enumerate(interior) if rms < .0005]
+        allowed=self.cfg['music'].get('intentional_silence',[])
+        near_silent=[second for second in near_silent if not any(a<=second and second+1<=b for a,b in allowed)]
         if near_silent:
             raise ValueError(f"Review unexpected near-silence around seconds {near_silent}")
         tail_rms = float(np.sqrt(np.mean(sound[-min(len(sound), 2400):] ** 2)))
@@ -115,7 +117,8 @@ class Master:
         provenance = {"composition": "original electronic starter composition", "style": music.get("style", "melodic-house"), "bpm": music["bpm"], "key": music["key"],
                       "instrument_source": music["instrument_source"], "soundfont_source": music.get("soundfont_source"),
                       "soundfont_sha256": music.get("soundfont_sha256"), "soundfont_license_file": music.get("soundfont_license_file"),
-                      "sections": self.cfg["sections"],
+                      "sections": self.cfg["sections"], "pulse":music.get('pulse','metric'),
+                      "tempo_note":music.get('tempo_note'),
                       "midi_note": "GM instrument suggestions; MIDI playback will not reproduce the custom synthesized audio.",
                       "stem_note": "Float32 premaster stems share gain and fades; they are not separately loudness normalized."}
         (self.out / f"{self.cfg['slug']}-provenance.json").write_text(json.dumps(provenance, ensure_ascii=False, indent=2), encoding="utf-8")

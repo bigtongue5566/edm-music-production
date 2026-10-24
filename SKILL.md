@@ -1,58 +1,53 @@
 ---
-name: edm-music-production
-description: "Compose, arrange, synthesize, mix, master, and revise original instrumental EDM with playable audio, editable MIDI, optional stems, provenance, and direct audio QC. Use for electronic dance music, electronic background music, or requests to fix their harmony, sound design, arrangement, and mix; video production is optional and outside this skill's core scope."
+name: electronic-music-production
+description: "Compose, arrange, design sounds, mix, master, and revise electronic music across dance, ambient, downtempo, experimental, and hybrid styles. Deliver playable audio and appropriate editable sources; use for original tracks, electronic scores/BGM, or repairs to their rhythm, harmony, timbre, arrangement, and mix."
 ---
 
-# EDM 音樂製作
+# 電子音樂製作
 
-製作可播放的 EDM，交付完成版音訊與需要的可編輯來源。可單獨作曲、製作 BGM 或修改現有配樂；不需要影片、品牌素材或其他 Skill。
+製作可播放的 Electronic Music，交付音訊與適合本案的可編輯來源。電子舞曲是其中一部分；無鼓、自由時間、聲景、實驗電子及混合流派也在範圍內。影片與品牌素材不是必要條件。
 
-## 明確的音樂目標
+## 先決定音樂語法
 
-沿用對話中的片長、曲風、情緒、用途、速度與調性。先寫下本曲的聲音方向：鼓的律動、主導音色、低音性格、旋律節奏與段落起伏。從用途和參考聽感選擇，科技／企業影片也能使用不同的電子音樂方向。方向差異會影響成品而使用者尚未指定時，可先提供短片段比較；不要自動把所有需求轉成 120 BPM 的 Melodic House。
+沿用使用者的片長、風格、情緒、用途與偏好。先定義脈動（四拍、破拍、half-time、自由時間）、聲音主體（旋律、低音、鼓、質地）、和聲語法與段落演變。BPM 是編曲座標，不能單獨決定曲風；同一首歌也可能採半速／倍速計拍。
 
-選定曲風後，閱讀 [references/genre-production.md](references/genre-production.md) 中對應的製作方向。它整理官方教學及製作人訪談，涵蓋 Melodic House、Deep House、Tech House、Dub Techno、Trance、UK Garage、Drum & Bass、Dubstep 與 Future Bass；將方法轉成實際鼓型、音色調變與編曲，按本案改寫。使用者有參考曲時依 [references/style-and-identity.md](references/style-and-identity.md) 分析它；需要補充其他流派時查找該流派的原始製作教學，保存實際採用的來源。
+讀 [references/electronic-styles.md](references/electronic-styles.md) 選擇相關家族，舞曲細節再讀 [references/genre-production.md](references/genre-production.md)，氛圍與實驗方向讀 [references/ambient-and-experimental.md](references/ambient-and-experimental.md)。這些是開放的製作路由，不是完整且互斥的分類表。未列出的子流派、地方場景與混合風格仍可處理：研究該方向的原始製作資料，從節奏、音色、和聲、空間與曲式建立實作，記錄採用的來源。
 
-連續製作多首或使用者指出「都很像」時，閱讀 [references/style-and-identity.md](references/style-and-identity.md)，比較已完成作品的鼓型、音色、低音、樂句與曲式。換曲名、BPM、調性或 seed 不足以建立新身份；依需求實際改寫這些聲部。使用者希望系列一致時可保留共同元素。
+已有明確方向就直接製作；方向差異會實際影響成品而資訊不足時，可做短片段比較。參考曲分析、不同作品的聲音身份見 [references/style-and-identity.md](references/style-and-identity.md)。不能把每個要求轉成相同鋼琴開場、四拍鼓、反拍 bass 與 pluck，也不能只換 BPM、調性、曲名或 seed 冒充另一曲風。
 
-同一首配樂反覆被指出單調、缺少起伏、仍有不喜歡的鐘聲，或要求分析知名配樂時，閱讀 [references/score-development.md](references/score-development.md)。把參考研究轉成主題發展、配器與實際聲部進出，並以可播放的版本比較驗證修改方向。
+## 依風格作曲與設計聲音
 
-指定長度要精確保留，非整小節長度以末段編曲收束，不擅自延長。需要口白空間、無人聲、可循環或不同力度時，讓編曲與輸出符合要求；可循環版本需另做銜接，不套用範本的淡出。
+先完成本曲需要的核心材料：可能是鼓／低音互動、riff、和聲樂句，也可能是聲景、非週期質地或音色變形。讓 swing、切分、重拍、音符長短、包絡、調變與聲部進出在實際音訊及可編輯來源中發生。
 
-## 作曲、編曲與音色
+和聲依 brief 選擇。未指定且需要舒適、旋律型 BGM 時，可從低張力三和弦開始；明確的爵士延伸、調式、Drone、無調性或實驗方向使用相應語法，不套用一律禁七度／九度的規則。使用者要求協和或不喜歡張力時優先保留。和弦音、經過音、聲部尾音與音色粗糙感分開判斷；方法與保守檢查的邊界見 [references/harmonic-comfort.md](references/harmonic-comfort.md)。
 
-預設採協和、低張力的和聲：先用大／小三和弦，以三度、六度、五度、八度與平順聲部移動建立樂句。七度／九度等延伸和弦、二度／半音堆疊、三全音、增減和弦與未解決懸留，留給使用者明確要求張力的作品；不因曲風標籤自動加入。選和弦與檢查同時發聲的方法見 [references/harmonic-comfort.md](references/harmonic-comfort.md)。
+曲式也依用途選擇：DJ 段落、build／drop、歌曲式、緩慢演化、非線性段落或循環都可以。Ambient 不強塞鼓和高潮；Techno 可用微小音色與節奏變化推進；Dubstep 不一律等同 Brostep；Chillout 不一律等同無鼓或特定 BPM。從參考與本案選擇，不把家族特徵當作每個子流派的硬規則。
 
-依聲部角色建立調性、和聲或低音素材與段落時間表；旋律型作品再發展主旋律輪廓。讓有音高的長音與重拍考慮當下和聲；經過音、懸留、延伸音等張力需有意安排及解決。固定旋律不應任意疊在所有和弦上。檢查跨和弦的延音、延遲與混響是否衝突。
+精確保留指定秒數。先設計最後一次有效起音、尾音空間及最終狀態；以編曲完成終止，不只在未結束的 loop 上淡出。漸快／變速作品共用 beat-to-time map；自由時間用秒數與事件標記，不虛構固定拍點。可循環、硬切及長尾結尾按實際需求驗證。
 
-讓需要的主旋律、低音、鼓、和弦、琶音與效果各有角色；用疏密、音域、濾波與起伏組成開場、build、drop、break、outro 等段落。依用途調整曲式，不必照範本的固定樂句。旋律型作品讓主題可辨識，副旋律和效果支援它。
+優先沿用現有 DAW、樂器與成熟套件。合成、取樣、FM、wavetable、granular、resampling 或 field recording 按所需聲音選擇。真實樂器、合成近似與取樣來源如實標示；不把簡單振盪器包裝成專業音色庫。頻段分工、ducking、動態與空間服務本曲，不能每種風格都套同一個強側鏈或響度。混音細節見 [references/composition-and-mix.md](references/composition-and-mix.md)。
 
-先做能成立的核心樂句：鼓與低音的互動，加上本曲需要的 hook 或和弦。依曲風決定 swing、切分、half-time、音符長短與呼應；再用音色包絡、濾波／振幅調變、效果 send 與聲部進出展開完整曲目。變化要能在音訊、MIDI 或可編輯 automation 中找到，不能只寫在風格標籤。低音主導或質地演化的作品可省略前景主旋律，不強塞相同的鋼琴／pluck。
+## 修改既有音樂
 
-選擇合適的取樣樂器或可控制泛音的合成器，依聲音方向調整泛音、濾波、失諧、包絡與尾音，排除意外刺耳及遮蔽。使用者指出特定秒數、刺耳或拍點模糊時，solo 該段的問題聲部，核對實際音源、音域、力度、泛音／失諧及 primary／echo onset；方法見 [references/continuity-and-articulation.md](references/continuity-and-articulation.md)。為大鼓與低音留出空間，使用節拍錯開、EQ、側鏈或音量 ducking；減少頻段重疊的聲部。詳細方法與不和諧排查見 [references/composition-and-mix.md](references/composition-and-mix.md)。
+反覆被指出單調、配器不對或要求研究知名配樂時，讀 [references/score-development.md](references/score-development.md)，把研究轉成主題、音色與聲部的實際改寫。刺耳、主擊／回聲不清或「每拍斷掉」時，讀 [references/continuity-and-articulation.md](references/continuity-and-articulation.md)，solo 被指出的聲部與時間段，分辨 gate、release、尾音重疊、ducking 及刻意留白。用同段、相近響度的音檔比較；影片配樂另核對畫面 cue。
 
-使用者指出「每拍斷掉、沒有連貫性」時，先閱讀 [references/continuity-and-articulation.md](references/continuity-and-articulation.md)。區分 MIDI gate 與實際 release，檢查共同音是否被逐小節重啟、音量 gate／ducking 是否同時抽空所有聲部，以及樂句是否只有短音而缺少延續。以同段、相近響度的短片段比較修正；依曲風保留刻意的切分與留白，不用加混響代替編曲修正。
+## 可用管線與能力邊界
 
-## 本機音樂範本
-
-有現成 DAW、專案或音源時優先沿用；沒有管線時可用獨立 Python 範本。開始前閱讀 [references/local-workflow.md](references/local-workflow.md) 與 [references/music-project.md](references/music-project.md)。範本提供 melodic-house、breakbeat、drum-and-bass 三個實際不同的起點；依聲音方向選擇 `--style`。九種製作指引不等於九個可執行 preset；未支援的曲風需實作相應編曲／音色或使用適合的 DAW 管線，保留使用者選擇，不把現有 preset 改名充當另一曲風。
+音樂製作範圍不受內建 preset 限制。已有合適 DAW／專案時直接使用；需要本機可重現草稿時，讀 [references/local-workflow.md](references/local-workflow.md) 與 [references/music-project.md](references/music-project.md)。內建九個實際編曲起點：`melodic-house`、`breakbeat`、`drum-and-bass`、`techno`、`trance`、`dubstep`、`trap`、`ambient`、`downtempo`。
 
 ```text
-python <skill>/scripts/init_project.py --project <music-directory> --duration 90 --style breakbeat
-python <music-directory>/work/compose_edm.py --project <music-directory>
-python <music-directory>/work/finish_music.py --project <music-directory>
+uv run --no-project python <skill>/scripts/init_project.py --project <music-directory> --duration 90 --style ambient
+uv sync --project <music-directory>/work
+uv run --project <music-directory>/work python <music-directory>/work/compose_music.py --project <music-directory>
+uv run --project <music-directory>/work python <music-directory>/work/finish_music.py --project <music-directory>
 ```
 
-修改 project.json 的片長、曲風、BPM、大小調、和弦級數與段落；preset 是可執行的草稿，不代表本案已完成創作。依本案重寫樂句、律動、音色及段落。範本輸出原創電子合成；含鍵盤聲部的編曲亦支援外部 SoundFont／FluidSynth 鋼琴。可開啟分軌輸出，供重新混音。
+這些是有限的合成研究，不是「所有流派的一鍵專業製作」。其他方向需實作所需鼓型、聲音、和聲表示與 automation，或改用適合的現有工具；不可把相近 preset 改名交付。範本仍以大小調三和弦、4/4／自由時間與固定 MIDI 參考速度為限；複拍號、延伸和弦、無調性、完整 granular／wavetable 與 tempo map 需要對應管線。舊 `compose_edm.py` 保留相容，新專案使用 `compose_music.py`。
 
 ## 檢查、來源與交付
 
-有聽音能力時檢查完整曲目，以及和弦轉換、高潮、間奏、片尾、小音量及單聲道聽感。量測與音符檢查不能證明好聽；沒有實際聽音能力時，清楚說明客觀檢查，提供可播放結果，不宣稱已試聽。使用者指出不和諧時，分析和聲、旋律、音色、聲部及尾音，再交付修改版本。保留使用者偏好的疏密與方向；不要因 RMS 更平坦而強制加 Pad 或 legato bass。影片配樂用含畫面的片段比較具體 cue，核對主擊與重要動作。
+有聽音能力才宣稱試聽；檢查完整曲目、段落銜接、關鍵音色、高潮或質地轉變、片尾、小音量與單聲道。沒有聽音能力時，提供可播放音檔並說明已做的客觀檢查。訊號、MIDI 與符號和聲檢查不能證明曲風成立、悅耳或商業完成度。
 
-交付 24-bit WAV 母帶、AAC 或使用者指定格式，及需要的 MIDI／分軌；直接檢查完成版的片長、取樣率、聲道、解碼、響度、真峰值、淡出與意外靜音。母帶目標依用途選擇，範本預設 −16 LUFS、−2 dBTP，並驗證 AAC 編碼後的峰值。
+依用途交付 WAV 母帶、方便播放的格式，以及需要的 MIDI、stems、automation／DAW 或程式來源。純音訊質地不必強行轉成 MIDI；MIDI 無法保存的音色與空間另附可重建來源。記錄樂曲、音色／取樣及第三方錄音的來源、授權與必要雜湊，分清原創音符與外部素材。
 
-連續性問題另用短時間窗檢查完成版及有音高的聲部；一秒平均 RMS 會漏掉拍間空隙。範本提供 10ms 能量診斷，結果須和樂句、刻意休止一起判讀，不能把「無長靜音、音符符合和弦」當作連貫或悅耳的證明。
-
-分別記錄樂曲、音色庫／取樣、第三方歌曲的來源。真實鋼琴、合成鍵盤與取樣庫如實標示；保存實際使用音色庫的來源、雜湊與授權。若使用現成歌曲，確認使用範圍並標示，不能宣稱是原創。
-
-工作檔放在 work/、成品放在 outputs/。在聊天中提供可直接播放的音訊與成品連結，將實際測量及尚需主觀判斷的事項說清楚。
+對完成檔直接檢查片長、解碼、取樣率、聲道、響度、真峰值與結尾；必要時檢查短時間窗、相位與循環接點。Ambient 的低能量與實驗音樂的休止不自動當成故障；標記預期休止後判讀。範本預設 −16 LUFS、−2 dBTP 是 BGM 起點，不是所有風格的要求。工作檔放 work/、成品放 outputs/，交付可直接播放的結果與實際限制。

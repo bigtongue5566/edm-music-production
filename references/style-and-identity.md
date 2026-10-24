@@ -22,15 +22,9 @@
 
 ## 本機可執行的起點
 
-以下是本套程式的示範配方，速度／調性是可調的創作選擇，不是曲風的定義，也不代表涵蓋該類型的所有音樂。
+配方與實際能力的單一列表見 [electronic-styles.md](electronic-styles.md#內建配方與限制)。`--style` 選編曲、音色、混音與初始曲式；手動更改 style 不會重設既有 BPM 或段落。
 
-| 起點 | 鼓與律動 | 前景與低音 | 樂句及段落 |
-| --- | --- | --- | --- |
-| melodic-house | 四拍 kick、反拍 hat／低音、clap | 柔和鍵盤、saw pluck、短和弦 | 旋律展開、build／drop／break |
-| breakbeat | 切分 kick、snare、輕微延後的 hat | tine 電鋼琴、圓潤 organ、切分 bass | 兩小節呼應、留白、間奏後展開 |
-| drum-and-bass | 快速破拍、短 snare、ghost notes | 稀疏 organ 長音、移動 Reese bass、air pad | 低音主導、簡短 build、快速密度切換 |
-
-`--style` 同時選編曲分支、音色與起始曲式。只手動改 `music.style` 不會重排 project.json 已有的 BPM、和弦或段落；按新 brief 修改那些設定，或用 initializer 建立獨立草稿。這三個草稿不是九種教學方向的自動替代品；例如 UK Garage 需要重做 groove，Future Bass 的延伸和弦及節奏化調變也需要相應和聲／音色實作。
+同速度比較 House、Trap 與 Ambient 時，分別檢查每拍 kick、第三拍 snare／hat roll、完全無鼓的聲景。這些是具體語法差異；雜湊不同不足以驗證。也不把九個草稿當作其他子流派的替代。
 
 ## 修正「每首都很像」
 

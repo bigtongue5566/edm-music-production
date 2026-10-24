@@ -3,9 +3,8 @@
 ## 建立
 
 ```text
-python <skill>/scripts/init_project.py --project <music-directory> --duration 90 --style breakbeat
-uv venv <music-directory>/work/.venv --python 3.12
-uv pip install --python <music-directory>/work/.venv/Scripts/python.exe -r <music-directory>/work/requirements.txt
+uv run --no-project python <skill>/scripts/init_project.py --project <music-directory> --duration 90 --style breakbeat
+uv sync --project <music-directory>/work --python 3.12
 ```
 
 在其他平台使用 venv/bin/python。initializer 只需要 Python 標準庫，先驗證設定，再複製專案；有同名檔案即拒絕覆寫。--name、--slug、--stems 可設定標題、檔名及分軌。--duration 按比例縮放預設段落，可在 project.json 再修改。
@@ -14,14 +13,14 @@ uv pip install --python <music-directory>/work/.venv/Scripts/python.exe -r <musi
 
 ## 作曲與混音
 
-`--style` 可選 melodic-house、breakbeat 或 drum-and-bass。Initializer 選取相應的起始速度、調性、和弦與段落；`--bpm`／`--key` 可覆蓋速度及調性。省略 style 時保留舊版 Melodic House 起點，以相容既有命令；新作品應先選聲音方向。曲風路徑分別改變鼓型、音色、低音、樂句及混音，而非只變更 metadata。
-
-[genre-production.md](genre-production.md) 的九種指引可供 DAW 製作或擴充本範本；只有上述三種接受 `--style`。製作其他方向時，實作需要的鼓型、音源、和弦表示及 automation，再依實際結果驗證；不傳入未支援的 style，也不省略 style 讓它默默生成 Melodic House。預設 progression 只有三和弦，不直接支援 Future Bass 指引中的延伸和弦。
+用 `uv run --no-project python <skill>/scripts/init_project.py --help` 查看九個可執行草稿；完整差異見 [electronic-styles.md](electronic-styles.md)。省略 style 保留舊版 melodic-house 相容路徑，新案先選風格。未列入 CLI 的風格使用 DAW 或實作相應語法，不改 preset 名稱冒充支援。
 
 ```text
-python work/compose_edm.py --project .
-python work/finish_music.py --project .
+uv run --project <music-directory>/work python <music-directory>/work/compose_music.py --project <music-directory>
+uv run --project <music-directory>/work python <music-directory>/work/finish_music.py --project <music-directory>
 ```
+
+`compose_edm.py` 是相容入口，舊案不用改名。新案的 pyproject.toml 位於 work/，由 uv sync 管理依賴；不要直接使用系統 Python 或手動 pip 安裝。
 
 compose 依共同段落時間表寫音符與合成聲部、做頻段整理與大鼓 ducking，產生工作混音、MIDI、音符紀錄與來源 metadata。音符檢查只驗證這個簡單三和弦範本；不把所有和弦外音一律當作不和諧。
 
@@ -44,3 +43,6 @@ outputs/ 包含 <slug>-master.wav、<slug>.m4a、<slug>-music.mid、<slug>-qc.js
 work/ 包含浮點混音、音符與和弦資訊、響度紀錄、選用的取樣鍵盤中間檔。來源套件可以附設定與腳本；若包含外部音色庫，附它的授權。不打包虛擬環境、快取、秘密資料或個人絕對路徑。
 
 修改 project.json 或樂句後重新 compose、finish；檢查新的完成版，不能沿用先前的測量作為本次成功證據。
+
+
+Ambient 預設 `pulse: free`，`harmony_seconds: 12`，沒有鼓、四拍 ducking 或必需的 build／drop。`bpm: 60` 是 MIDI 參考，不是聲景聽感的固定拍。大／小調三和弦仍是此草稿的限制。需要無調性、複拍號、tempo map 或 granular 時使用對應管線。`intentional_silence: [[start,end], ...]` 標記預期休止，只調整近靜音檢查，不自動修改聲音。

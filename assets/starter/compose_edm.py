@@ -1,4 +1,4 @@
-"""Original, configurable melodic-house score with sample or synthesized keys."""
+"""Shared electronic-music renderer, retaining the original house arrangement."""
 import argparse
 import hashlib
 import json
@@ -32,14 +32,15 @@ class Score:
         self.instrument_source = "synthesized keys and original electronic synthesis"
         cycle = 0
         prior = None
-        count = math.ceil(self.duration / self.bar)
+        harmonic_span = float(cfg['music'].get('harmony_seconds',12)) if cfg['music'].get('pulse')=='free' else self.bar
+        count = math.ceil(self.duration / harmonic_span)
         for index in range(count):
-            a, b = index * self.bar, min((index + 1) * self.bar, self.duration)
+            a, b = index * harmonic_span, min((index + 1) * harmonic_span, self.duration)
             role = section_at(cfg, min(a + .001, self.duration - 1e-6))[1]["role"]
             if role == "drop" and prior != "drop":
                 cycle = 0
             name = cfg["music"]["progression"][cycle % len(cfg["music"]["progression"])]
-            if role == "outro" or index == count - 1:
+            if cfg['music'].get('pulse')!='free' and (role == "outro" or index == count - 1):
                 name = "I" if cfg["music"]["key"].endswith("major") else "i"
             elif role == "build" and b < self.duration and section_at(cfg, b + .001)[1]["role"] == "drop":
                 name = "V" if cfg["music"]["key"].endswith("major") else "VII"
@@ -98,7 +99,9 @@ class Score:
     def arrange(self):
         style = self.cfg["music"].get("style", "melodic-house")
         if style != "melodic-house":
-            from arrangements import arrange
+            from arrangements import arrange as broken_arrange
+            from electronic_arrangements import arrange as electronic_arrange
+            arrange = broken_arrange if style in ('breakbeat','drum-and-bass') else electronic_arrange
             arrange(self, style)
             if self.sf:
                 self.render_sampled_keys()
@@ -181,7 +184,7 @@ class Score:
     def write_midi(self, target, keys_only=False):
         midi = mido.MidiFile(type=1, ticks_per_beat=480, charset="utf-8")
         meta = mido.MidiTrack()
-        meta.append(mido.MetaMessage("track_name", name=self.cfg["name"] + " - Original EDM"))
+        meta.append(mido.MetaMessage("track_name", name=self.cfg["name"] + " - Original Electronic Music"))
         meta.append(mido.MetaMessage("set_tempo", tempo=mido.bpm2tempo(self.bpm)))
         meta.append(mido.MetaMessage("time_signature", numerator=4, denominator=4))
         meta.append(mido.MetaMessage("key_signature", key=self.cfg["music"]["key"].split()[0] + ("m" if self.cfg["music"]["key"].endswith("minor") else "")))
@@ -241,10 +244,11 @@ class Score:
         for name, cutoff in [("keys", 140), ("pad", 230), ("chords", 220), ("lead", 350), ("arp", 420)]:
             self.stems[name] = ins.filt(self.stems[name], cutoff)
         style = self.cfg["music"].get("style", "melodic-house")
-        self.stems["bass"] = ins.filt(self.stems["bass"], {"melodic-house":230, "breakbeat":480, "drum-and-bass":1200}[style], "lowpass")
+        from styles import MIX
+        bass_cutoff,depth=MIX[style]
+        self.stems["bass"] = ins.filt(self.stems["bass"], bass_cutoff, "lowpass")
         duck = np.ones(self.n, np.float32)
         t = np.arange(round(min(.35, self.beat * .7) * self.sr)) / self.sr
-        depth = {"melodic-house":.63, "breakbeat":.38, "drum-and-bass":.30}[style]
         reduction = 1 - depth * np.exp(-t * (24 if style == "drum-and-bass" else 13))
         ramp = min(len(t), round(.004 * self.sr))
         reduction[:ramp] = np.linspace(1, reduction[min(ramp, len(t) - 1)], ramp)
@@ -288,6 +292,8 @@ class Score:
         from styles import PRESETS
         style = self.cfg["music"].get("style", "melodic-house")
         metadata = {"duration_seconds": self.duration, "bpm": self.bpm, "key": key, "original_composition": True,
+                    "pulse":self.cfg['music'].get('pulse','metric'),
+                    "tempo_note":'MIDI reference tempo only; no periodic beat' if self.cfg['music'].get('pulse')=='free' else 'quarter-note BPM',
                     "style": style, "starter_timbres": (["SoundFont piano", *PRESETS[style]["timbres"][1:]] if self.sf else PRESETS[style]["timbres"]),
                     "instrument_source": self.instrument_source, "soundfont_source": self.cfg["music"].get("soundfont_source"),
                     "soundfont_sha256": hashlib.sha256(self.sf.read_bytes()).hexdigest() if self.sf else None,

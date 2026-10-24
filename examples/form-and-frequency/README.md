@@ -7,13 +7,13 @@ Half-time snare on beat three; syncopated smooth poly-saw gates; glass intro; ri
 
 [Watch the film](https://bigtongue5566.github.io/?demo=form-and-frequency) ·
 [Play the soundtrack](https://bigtongue5566.github.io/?demo=form-and-frequency-music) ·
-[Download sources](https://bigtongue5566.github.io/edm-music-production/media/form-and-frequency-source.zip)
+[Download sources](https://bigtongue5566.github.io/electronic-music-production/media/form-and-frequency-source.zip)
 
 ## Editable production
 
 `compose_showcase.py` implements four separate arrangements with different
 drum patterns, sound synthesis, bass roles and modulation. These are bespoke showcase
-implementations, separate from the Skill starter's three CLI presets. `compose_edm.py`
+implementations, separate from the Skill starter's CLI sketches. `compose_edm.py`
 supplies the reusable note/stem/MIDI base; it is not this revision's composition entrypoint.
 
 `project.json` stores explicit seventh/ninth chord voicings as absolute MIDI pitches.

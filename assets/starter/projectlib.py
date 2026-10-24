@@ -4,7 +4,7 @@ import math
 from pathlib import Path
 import re
 
-ROLES = {"intro", "groove", "build", "drop", "break", "outro"}
+ROLES = {"intro", "groove", "build", "drop", "break", "outro", "texture", "evolution", "release"}
 PITCH = {"C": 0, "D": 2, "E": 4, "F": 5, "G": 7, "A": 9, "B": 11}
 MAJOR = {
     "I": ([55, 59, 62], 43, [71, 74, 79, 74]),
@@ -53,10 +53,20 @@ def validate(cfg):
     if abs(duration * 48000 - round(duration * 48000)) > 1e-4:
         raise ValueError("duration must correspond to an integer number of 48kHz samples")
     music = cfg["music"]
-    if music.get("style", "melodic-house") not in ("melodic-house", "breakbeat", "drum-and-bass"):
+    from styles import PRESETS
+    if music.get("style", "melodic-house") not in PRESETS:
         raise ValueError("Unsupported starter music.style; implement a new arrangement for other styles")
-    if music.get("style") == "drum-and-bass" and music.get("soundfont"):
-        raise ValueError("This drum-and-bass arrangement has no sampled keys; adapt the arrangement before using a SoundFont")
+    if music.get("style") not in (None,'melodic-house','breakbeat','downtempo') and music.get("soundfont"):
+        raise ValueError("This arrangement has no sampled keys; adapt it before using a SoundFont")
+    if music.get('pulse','metric') not in ('metric','free'):
+        raise ValueError('music.pulse must be metric or free')
+    if music.get('pulse') == 'free' and music.get('style') != 'ambient':
+        raise ValueError('Only the ambient starter implements a free pulse; adapt other arrangements first')
+    if not math.isfinite(float(music.get('harmony_seconds',12))) or float(music.get('harmony_seconds',12))<=0:
+        raise ValueError('music.harmony_seconds must be positive and finite')
+    for interval in music.get('intentional_silence',[]):
+        if len(interval)!=2 or not 0<=float(interval[0])<float(interval[1])<=duration:
+            raise ValueError('intentional_silence intervals must fit within the duration')
     bpm = float(music["bpm"])
     if not math.isfinite(bpm) or not 30 <= bpm <= 240:
         raise ValueError("This starter supports 30–240 BPM; adapt note lengths for other tempos")

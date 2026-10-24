@@ -1,4 +1,4 @@
-# 不同電子舞曲的製作方法
+# 舞曲與節奏型電子音樂的製作方法
 
 依已選曲風讀對應段落，再實作本案的鼓、低音、音色與曲式。這是對官方教學文字及製作人訪談的整理，查閱日期為 **2026-10-10**；「本案實作」是本 Skill 依那些方法提出的製作建議，不是製作人的原話，也不是所有子流派的定義。
 
@@ -18,7 +18,7 @@
 | Dubstep | half-time 重心、低音問答、留白與音色動態 | [低音設計](#dubstep) |
 | Future Bass | half-time／trap 律動、延伸和弦、節奏化振幅調變 | [和弦與調變](#future-bass) |
 
-上表的九個方向是製作指引。本機 initializer 仍只有 `melodic-house`、`breakbeat`、`drum-and-bass` 三個合成草稿；其他方向要選擇現有 DAW 或改寫引擎，再交付實際音訊。Breakbeat 是現有破拍草稿，不能直接等同 UK Garage；DnB 草稿也不代表所有 liquid、jungle 或 neurofunk 的聲音。
+本文件的九個方向是製作指引，不是完整分類或 CLI 功能表。範本現有九個草稿的實際功能見 [electronic-styles.md](electronic-styles.md)；Deep House、Tech House、Dub Techno、UKG 與 Future Bass 等指引仍需要相應的改寫／DAW 管線。Breakbeat 不直接等同 UKG，DnB 不代表所有 liquid、jungle 或 neurofunk。非舞曲方向另見 [ambient-and-experimental.md](ambient-and-experimental.md)。
 
 <a id="melodic-house"></a>
 ## Melodic House
@@ -112,3 +112,13 @@ Reese 音色可參考 [Tim Cant：How to create the signature Reese bass sound](
 [Ableton Live 12 手冊：Using Grooves](https://www.ableton.com/en/manual/using-grooves/) 說明 timing、velocity 與 random 是不同控制，也能對單一聲部處理 groove。本案在適合的 hat／shaker／snare 上調整時值與重音；維持需要的主拍與低音關係。若以程式輸出，將偏移寫入 MIDI 事件，而非只在報告中聲稱有 swing。
 
 記錄實際採用的教學來源與本案修改，並分開記錄真正使用的錄音／音源及其授權。教學可供研究，不代表其中的歌曲、示範音檔或專案素材已取得再利用授權。
+
+
+## Techno 與 Electronic Trap 的額外起點
+
+新增檢閱日期：2026-10-24。
+
+- [Native Instruments：How to make techno](https://www.native-instruments.com/blogs/blog/how-to-make-techno)：官方範例可用於研究節奏與聲部的組織。本 Skill 的 techno 草稿採單一和聲中心、短序列與分樂句明暗變化，不宣稱代表每個 Techno 分支。
+- [Native Instruments：How to make a trap beat](https://www.native-instruments.com/blogs/blog/how-to-make-a-trap-beat)：教學從鼓、hat 細分和低音建立 Trap 編曲。本 Skill 的 trap 草稿採 half-time 主 snare、三連音 hat roll 與定音的合成 808 式 bass；原創合成不是 Roland 官方取樣。
+
+內建 Trance、Dubstep 也只是對應語法的一種合成研究，不代表所有 Psytrance、Brostep 或 melodic 分支。

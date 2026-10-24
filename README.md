@@ -1,16 +1,17 @@
-# EDM Music Production
+# Electronic Music Production
 
 An independent Codex skill for composing, arranging, synthesizing, mixing,
-mastering, and revising original instrumental EDM.
+mastering, and revising electronic music across dance, ambient, downtempo,
+experimental, and hybrid styles.
 
-獨立的 EDM 音樂製作 Skill，包含旋律與和聲、音色、編曲、混音、母帶與音訊檢查。
+獨立的電子音樂製作 Skill，涵蓋舞曲、氛圍、低速、實驗與混合風格的作曲、音色、編曲、混音、母帶與檢查。
 The instructions and production references are written in Traditional Chinese.
 
 The included audio starter produces music on its own. No video, logo,
 fonts, renderer, or other skill is required. Change its composition and instruments
 to fit each brief; the starter melody is a starting point.
 
-**[Explore this Skill on Skill Showcase →](https://bigtongue5566.github.io/?skill=edm-music-production)** ·
+**[Explore this Skill on Skill Showcase →](https://bigtongue5566.github.io/?skill=electronic-music-production)** ·
 [Play the standalone music Demo](https://bigtongue5566.github.io/?demo=form-and-frequency-music)
 
 ## Original demo
@@ -22,8 +23,8 @@ to fit each brief; the starter melody is a starting point.
 An original 90-second motion-and-music study: 1080p, 148 BPM, F minor,
 procedural geometry, and a new custom Future Bass arrangement.
 
-[Download the video](https://bigtongue5566.github.io/edm-music-production/media/form-and-frequency-90s.mp4) ·
-[Hear the music](https://bigtongue5566.github.io/edm-music-production/media/form-and-frequency.m4a) ·
+[Download the video](https://bigtongue5566.github.io/electronic-music-production/media/form-and-frequency-90s.mp4) ·
+[Hear the music](https://bigtongue5566.github.io/electronic-music-production/media/form-and-frequency.m4a) ·
 [Reproduce the project](examples/form-and-frequency/) ·
 [Sources and licenses](examples/form-and-frequency/RIGHTS.md)
 
@@ -37,8 +38,8 @@ media checks are included in the example.
 
 | Work | Music | Film | Standalone soundtrack | Reproducible source |
 | --- | --- | --- | --- | --- |
-| Digital Pulse / 數位脈動 | 60 sec · 172 BPM · Drum & Bass | [Watch](https://bigtongue5566.github.io/?demo=digital-pulse) | [Listen](https://bigtongue5566.github.io/?demo=digital-pulse-music) | [Project](https://github.com/bigtongue5566/edm-music-production/tree/main/examples/digital-pulse) |
-| Neon Drift / 霓虹漫遊 | 60 sec · 132 BPM · UK Garage | [Watch](https://bigtongue5566.github.io/?demo=neon-drift) | [Listen](https://bigtongue5566.github.io/?demo=neon-drift-music) | [Project](https://github.com/bigtongue5566/edm-music-production/tree/main/examples/neon-drift) |
+| Digital Pulse / 數位脈動 | 60 sec · 172 BPM · Drum & Bass | [Watch](https://bigtongue5566.github.io/?demo=digital-pulse) | [Listen](https://bigtongue5566.github.io/?demo=digital-pulse-music) | [Project](https://github.com/bigtongue5566/electronic-music-production/tree/main/examples/digital-pulse) |
+| Neon Drift / 霓虹漫遊 | 60 sec · 132 BPM · UK Garage | [Watch](https://bigtongue5566.github.io/?demo=neon-drift) | [Listen](https://bigtongue5566.github.io/?demo=neon-drift-music) | [Project](https://github.com/bigtongue5566/electronic-music-production/tree/main/examples/neon-drift) |
 
 Each work has a new musical arrangement and original procedural visuals,
 documented sources, MIDI, editable code, and checks of the finished media.
@@ -62,7 +63,7 @@ The four current films and soundtracks were recomposed and re-rendered on 2026-1
 Future Bass (148 BPM), Drum & Bass (172 BPM), UK Garage (132 BPM), and Minimal Piano House (124 BPM).
 Their source packages retain explicit chord voicings, notes, actual synthesis/automation,
 MIDI and finished-media QC. These custom example implementations are separate from the
-audio starter's three selectable presets. The films follow the new audio and actual kick events.
+audio starter's selectable studies. The films follow the new audio and actual kick events.
 
 ## Capabilities
 
@@ -77,33 +78,49 @@ picture cues and matched A/V comparisons. New projects default to a
 consonant profile, with simultaneous-interval checks across pitched parts. Intentional rests and
 percussive articulation remain arrangement choices.
 
-The Skill includes [nine source-backed production directions](references/genre-production.md):
-Melodic House, Deep House, Tech House, Dub Techno, Trance, UK Garage,
-Drum & Bass, Dubstep and Future Bass. The guide draws on Ableton and
-Native Instruments tutorials and interviews with El Choop, Karizma and Modestep,
-with direct sources and the research date. It explains groove, bass roles,
-sound modulation, layering and arrangement, rather than treating genre as a tempo label.
+The [electronic-style routing guide](references/electronic-styles.md) covers
+House, Techno, Trance, Dubstep, Trap/Future Bass/Wave, D&B/Jungle,
+UK Garage, Breaks/Electro, hard dance, Synthwave/Electropop, Ambient/Drone,
+Downtempo/Trip-hop, IDM/Glitch, electroacoustic and hybrid scores.
+It is an open production workflow, not an exhaustive or exclusive taxonomy.
+Unlisted subgenres remain in scope: research the requested sound and choose
+or implement a suitable DAW/synthesis pipeline rather than substituting House.
 
-These are production guides for adapting a DAW or the engine. The executable
-starter has the three arrangements below; the other directions require their
-own implementation. See [reference analysis and musical identity](references/style-and-identity.md)
-for turning a reference into an original arrangement and comparing actual results.
+[Dance production methods](references/genre-production.md) and
+[ambient/experimental workflows](references/ambient-and-experimental.md)
+guide rhythm, timbre, harmony, space and form. No beat, melodic hook, drop,
+strict triad-only harmony or fixed loudness is imposed on all electronic music.
+User requests for consonance, sparse texture or a particular ending still apply.
 
-The local starter offers three distinct, synthesized starting arrangements:
-`melodic-house`, `breakbeat`, and `drum-and-bass`. They change percussion,
-instrument envelopes, bass phrasing, musical phrases, section defaults and mixing,
-rather than only a display label or tempo. Use `--style` when initializing:
+The executable starter has **nine** independently arranged sketches:
+
+| Starter | Actual arrangement choices |
+| --- | --- |
+| melodic-house | Four-on-the-floor, offbeat bass, keys and pluck phrases |
+| breakbeat | Syncopated drums, delayed hats, tine keys and organ |
+| drum-and-bass | Fast broken beats, ghost snares and Reese bass |
+| techno | Single harmonic centre, pulse sequence, phrase-level timbral evolution |
+| trance | Four-on-the-floor, short offbeat bass, sixteenth-note arps and saw layers |
+| dubstep | Half-time snare, modulated harmonic bass call and response |
+| trap | Half-time snare, triplet hat rolls, pitched 808-style bass |
+| ambient | No drums or kick ducking; slow drones and a nonperiodic noise texture |
+| downtempo | Laid-back broken beat, sparse keys, organ and longer bass phrases |
 
 ```powershell
-python -X utf8 scripts/init_project.py --project ../broken-beat-study --duration 90 --style breakbeat
-python -X utf8 scripts/init_project.py --project ../fast-bass-study --duration 90 --style drum-and-bass
+uv run --no-project python scripts/init_project.py --project ../ambient-study --duration 90 --style ambient
+uv run --no-project python scripts/init_project.py --project ../bass-study --duration 90 --style dubstep
 ```
 
-Optional `--bpm` and `--key` override preset starting values. Omitting `--style`
-preserves the original Melodic House path for older commands. Select and adapt
-the actual sound direction for a new brief; a preset is a reproducible sketch,
-not a completed creative decision or a professional sound library. See
-[style and musical identity](references/style-and-identity.md).
+These are reproducible synthesis sketches, not professional libraries or
+one-click coverage of every genre. The starter retains major/minor triads,
+4/4 or a free-pulse ambient path and a fixed MIDI reference tempo.
+Extended chords, atonal material, other metres, tempo maps, full granular
+or wavetable synthesis need an appropriate implementation or existing DAW.
+The Skill's production scope is wider than the bundled engine.
+
+Optional `--bpm` and `--key` override starting values. Older commands without
+`--style` retain Melodic House for compatibility; new briefs choose a sound
+direction first. See [musical identity](references/style-and-identity.md).
 
 - Configurable length, BPM, major/minor key, chord progression, and musical sections.
 - Synthesized keys, pads, chord stabs, plucked leads, arpeggios, bass, drums, and transitions.
@@ -114,22 +131,32 @@ not a completed creative decision or a professional sound library. See
   mono compatibility, unintended silence, and the final fade.
 - Music and instrument provenance, including an optional SoundFont fingerprint.
 
+## Rename and migration
+
+Previously named `edm-music-production`; the repository, install directory and
+invocation are now `electronic-music-production`. Update local remotes with
+`git remote set-url origin https://github.com/bigtongue5566/electronic-music-production.git`
+and rename the installed skill directory. Avoid keeping two discovered copies.
+Existing music projects keep working: `compose_edm.py` and the original
+three style IDs remain compatible. New projects use `compose_music.py`.
+Historical example code retains its original renderer for reproducibility.
+
 ## Install as a Codex skill
 
 Clone into the standard Codex skills directory on Windows:
 
 ```powershell
-git clone https://github.com/bigtongue5566/edm-music-production.git "$env:USERPROFILE\.codex\skills\edm-music-production"
+git clone https://github.com/bigtongue5566/electronic-music-production.git "$env:USERPROFILE\.codex\skills\electronic-music-production"
 ```
 
-If you configured a different `CODEX_HOME`, use its `skills/edm-music-production`
+If you configured a different `CODEX_HOME`, use its `skills/electronic-music-production`
 directory. Preserve an existing installation by choosing an empty destination.
 
 Example invocation:
 
 ```text
-用 $edm-music-production 製作一首 90 秒的旋律型 EDM，
-有柔和鋼琴開場、兩段有力的高潮與自然收尾，交付音檔、MIDI 和分軌。
+用 $electronic-music-production 製作一首 90 秒無鼓 Ambient，
+由原創 Drone 與聲景緩慢演變，保留自然尾音，交付母帶與可編輯來源。
 ```
 
 ## Run the audio starter
@@ -137,20 +164,19 @@ Example invocation:
 Use Python 3.12 and `uv`. From the repository root:
 
 ```powershell
-python -X utf8 scripts/init_project.py --project ../my-edm --duration 90 --bpm 120 --key "G major" --stems
-uv venv ../my-edm/work/.venv --python 3.12
-uv pip install --python ../my-edm/work/.venv/Scripts/python.exe -r ../my-edm/work/requirements.txt
+uv run --no-project python -X utf8 scripts/init_project.py --project ../my-edm --duration 90 --bpm 120 --key "G major" --stems
+uv sync --project ../my-edm/work --python 3.12
 ```
 
 Edit `../my-edm/project.json` for the title, length, tempo, key, chord degrees,
 section timings, mastering targets, and instruments. Then:
 
 ```powershell
-../my-edm/work/.venv/Scripts/python.exe -X utf8 ../my-edm/work/compose_edm.py --project ../my-edm
-../my-edm/work/.venv/Scripts/python.exe -X utf8 ../my-edm/work/finish_music.py --project ../my-edm
+uv run --project ../my-edm/work python -X utf8 ../my-edm/work/compose_music.py --project ../my-edm
+uv run --project ../my-edm/work python -X utf8 ../my-edm/work/finish_music.py --project ../my-edm
 ```
 
-On other platforms, use the corresponding `venv/bin/python` path. The audio
+The uv commands work across platforms. The audio
 pipeline needs NumPy, SciPy, Mido, and imageio-ffmpeg. FFmpeg is provided by
 imageio-ffmpeg; no system installation is required.
 
@@ -181,11 +207,12 @@ The default progression is I–V–vi–IV in G major. Selecting a minor key in 
 initializer uses i–VI–III–VII. Supported degrees and section behavior are in
 [the project schema](references/music-project.md).
 
-Sections use `intro`, `groove`, `build`, `drop`, `break`, and `outro`. The main
+Sections use `intro`, `groove`, `build`, `drop`, `break`, `outro`, `texture`, `evolution` and `release`. The main
 harmony follows bars; section accents and drum changes follow the requested
 times. Align boundaries to bars when all instruments should change together,
-or adapt the local phrase. An arbitrary duration is preserved with a tonic
-resolution and fade. Loopable music requires a separate loop ending.
+or adapt the local phrase. Ambient uses second-based harmony windows without
+a required tonic cadence; its BPM is only a MIDI reference. The starter endings
+fade to preserve duration; a custom cadence or loop needs an appropriate ending.
 
 For sampled piano, configure local `music.soundfont` and `music.fluidsynth`
 paths and record the sound library's source and license. No sampled bank or
@@ -207,7 +234,7 @@ This skill focuses on music. For branded video production, see the separate
 Run the included end-to-end smoke tests after installing the audio dependencies:
 
 ```powershell
-../my-edm/work/.venv/Scripts/python.exe -X utf8 -m unittest discover -s tests -v
+uv run --project ../my-edm/work python -X utf8 -m unittest discover -s tests -v
 ```
 
 They render a non-bar-length minor-key track, verify MIDI and audio output,
